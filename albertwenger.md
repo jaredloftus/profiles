@@ -30,10 +30,13 @@ http://continuations.com/
 ## Facebook
 /albertwenger
 
-## Sources
-http://continuations.com/about
-https://blockstack.org/
-https://www.crunchbase.com/person/albert-wenger
-
 ## Tags
-Blockchain, Investment,
+Blockchain, Investment, New York,
+
+## Sources
+-http://continuations.com/about
+-https://blockstack.org/
+-https://www.crunchbase.com/person/albert-wenger
+
+## ProfileAuthor
+@rplant123
