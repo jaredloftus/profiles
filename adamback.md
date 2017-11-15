@@ -5,6 +5,8 @@ http://placehold.it/250x250
 
 ## Summary
 
+## Bio
+
 ## Website
 
 ## Twitter
