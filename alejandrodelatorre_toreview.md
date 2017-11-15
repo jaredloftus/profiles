@@ -1,4 +1,4 @@
-# Alejandro De La Torre
+# Alejandro de la Torre
 
 ## Summary
 Alejandro de la Torre is the Vice President for Business Development at BTC.com, a Bitcoin wallet, mining pool, block explorer and application programming interface that is part of Bitmain Technologies.
