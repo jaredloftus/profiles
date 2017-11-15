@@ -7,7 +7,7 @@ Score	Name	Assigned	Status
 	
 1	Albert Wenger - Rachael Plant	
 	
-1	Alejandro De La Torre		
+1	Alejandro De La Torre	- Rachael Plant	
 	
 1	Alex Sunnarborg @alexsunnarborg		
 	
