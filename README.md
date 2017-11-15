@@ -1,3 +1,24 @@
+# Instructions
+
+Please read all instructions before you begin.
+
+* The goal of this project is to fill out profiles on everyone listed at the bottom of this message.
+* Each profile consists of a number of fields 
+* The file `_template.md` contains a list of these fields. The very first line is the person's name. After that, the information goes below the headers (marked by the line with two hashmarks) 
+* The workflow for creating a profile works like this:
+	* Find a profile that ends with `_todo`. Change the name of the file to `_inprocess.md` and begin work on that profile
+	* Copy the text from `_template.md` into this file
+	* Fill in as many of the fields as you can. Note the `Sources` field at the bottom. Make sure to include any URL's you have used for information about the person. Also, note the `Tags` field. Create tags for the technologies and projects this person has worked on. Make sure the final tag ends with a ,
+	* The main `Bio` field should be about 250 words long (approx. three or four nice parragraphs).
+	* The `Summary` field should be two sentences. 
+	* Please do not mark more than one file as `_inprocess.md` at once.
+	* Remove any fields you are leaving blank
+	* Once done with the profile, "commit" the changes and change the filename to be `personname.md` without the extra `_part`
+
+
+
+### List of names
+
 Score	Name	Assigned	Status
 	Aaron Van Wirdum, Bitcoin Magazine		
 	
