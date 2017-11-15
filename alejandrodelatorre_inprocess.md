@@ -7,16 +7,16 @@
 (Main profile, approx 250 words)
 
 ## Website
-(URL of their personal website or blog)
+https://blog.btc.com/@bitentrepreneur
 
 ## Twitter
-(URL)
+@bitentrepreneur
 
 ## Github
-(URL)
+@AlejandroDeLaTorre
 
 ## LinkedIn
-(URL)
+/alejandrodelatorre
 
 ## Facebook
 (URL)
@@ -25,7 +25,7 @@
 (URL)
 
 ## Tags
-Blockchain, [cityname], 
+Blockchain, Amsterdam, 
 
 ## Sources
 * (URL1)
