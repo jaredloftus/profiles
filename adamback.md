@@ -37,6 +37,11 @@ http://www.cypherspace.org/adam/
 /adam.back.94
 
 ## Sources
+https://www.crunchbase.com/person/adam-back
+http://www.hashcash.org/
+https://www.prnewswire.com/news-releases/blockstream-appoints-hashcash-inventor-dr-adam-back-as-ceo-300337815.html 
+https://blockstream.com/team/adam-back/ 
+https://upclosed.com/people/adam-back/ 
 
 ## Tags
 Hashcash, Credlib, Blockchain, 
