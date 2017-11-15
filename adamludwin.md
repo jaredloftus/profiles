@@ -16,6 +16,7 @@ Prior to Chain, Adam was a venture investor in companies including Vine, Slack, 
 Ludwin holds a B.S. from UC Berkeley and an MBA from Harvard.
 
 ## Website
+https://chain.com/
 
 ## Twitter
 @adamludwin
@@ -27,6 +28,8 @@ Ludwin holds a B.S. from UC Berkeley and an MBA from Harvard.
 /adamludwin
 
 ## Sources
+https://www.crunchbase.com/person/adam-ludwin
+https://www.bloomberg.com/research/stocks/private/person.asp?personId=128118213&privcapId=265476404&previousCapId=265476404&previousTitle=Chain%20Inc
 
 ## Tags
 Blockchain, 
