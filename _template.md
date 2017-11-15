@@ -25,7 +25,7 @@
 (URL)
 
 ## Tags
-Blockchain,
+Blockchain, [cityname], 
 
 ## Sources
 * (URL1)
