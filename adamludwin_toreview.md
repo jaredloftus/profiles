@@ -31,8 +31,8 @@ https://chain.com/
 Blockchain, San Francisco, 
 
 ## Sources
--https://www.crunchbase.com/person/adam-ludwin
--https://www.bloomberg.com/research/stocks/private/person.asp?personId=128118213&privcapId=265476404&previousCapId=265476404&previousTitle=Chain%20Inc
+- https://www.crunchbase.com/person/adam-ludwin
+- https://www.bloomberg.com/research/stocks/private/person.asp?personId=128118213&privcapId=265476404&previousCapId=265476404&previousTitle=Chain%20Inc
 
 ## ProfileAuthor
 @rplant123
