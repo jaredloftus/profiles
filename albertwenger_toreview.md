@@ -34,9 +34,9 @@ http://continuations.com/
 Blockchain, Investment, New York,
 
 ## Sources
--http://continuations.com/about
--https://blockstack.org/
--https://www.crunchbase.com/person/albert-wenger
+- http://continuations.com/about
+- https://blockstack.org/
+- https://www.crunchbase.com/person/albert-wenger
 
 ## ProfileAuthor
 @rplant123
