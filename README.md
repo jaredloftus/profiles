@@ -13,7 +13,7 @@ Please read all instructions before you begin.
 	* The `Summary` field should be two sentences. 
 	* Please do not mark more than one file as `_inprocess.md` at once.
 	* Remove any fields you are leaving blank
-	* Once done with the profile, "commit" the changes and change the filename to be `personname.md` without the extra `_part`
+	* Once done with the profile, "commit" the changes and change the filename to end with `_toreview.md`
 
 
 
