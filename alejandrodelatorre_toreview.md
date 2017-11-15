@@ -1,14 +1,14 @@
-# Alejandro de la Torre
+# Alejandro De La Torre
 
 ## Summary
-Alejandro de la Torre is the Vice President for Business Development at BTC.com, a Bitcoin wallet, mining pool, block explorer and application programming interface that is part of Bitmain Technologies.
+Alejandro De La Torre is the Vice President for Business Development at BTC.com, a Bitcoin wallet, mining pool, block explorer and application programming interface that is part of Bitmain Technologies.
 
 ## Bio
-Alejandro de la Torre is the Vice President for Business Development at BTC.com, a Bitcoin wallet, mining pool, block explorer and application programming interface. BTC.com is part of Bitmain Technologies, a Beijing-based bitcoin mining manufacturer.
+Alejandro De La Torre is the Vice President for Business Development at BTC.com, a Bitcoin wallet, mining pool, block explorer and application programming interface. BTC.com is part of Bitmain Technologies, a Beijing-based bitcoin mining manufacturer.
 
-De la Torre initially founded SendChat, a messenger app that allowed users to send and receive cryptocurrencies. SendChat was acquired by Blocktrail in 2015, which subsequently became part of Bitmain Technologies.
+De La Torre initially founded SendChat, a messenger app that allowed users to send and receive cryptocurrencies. SendChat was acquired by Blocktrail in 2015, which subsequently became part of Bitmain Technologies.
 
-Alejandro de la Torre is based in Amsterdam.
+Alejandro De La Torre is based in Amsterdam.
 
 ## Website
 https://blog.btc.com/@bitentrepreneur
