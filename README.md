@@ -1,7 +1,7 @@
 Score	Name	Assigned	Status
 	Aaron Van Wirdum, Bitcoin Magazine		
 	
-1	Adam Back: Blockstream		
+1	Adam Back: Blockstream	- Rachael Plant	
 	
 1	Adam Ludwin - CEO of chain.com		
 	
