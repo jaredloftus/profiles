@@ -1,0 +1,2 @@
+# John McAfee
+MGT Capital
