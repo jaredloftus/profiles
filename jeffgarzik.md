@@ -30,7 +30,13 @@ Garzik is based in Atlanta, Georgia.
 ## Facebook
 /jgarzik
 
-## Sources
-
 ## Tags
-Blockchain, Bitcoin, Linux kernal,
+Blockchain, Bitcoin, Linux kernal, Atlanta,
+
+## Sources
+-http://yyz.us/short-bio.html
+-https://forum.bitcoin.com/ama-ask-me-anything/i-m-jeff-garzik-bloq-co-founder-and-bitcoin-hacker-t2148.html
+
+## ProfileAuthor
+@rplant123
+
