@@ -7,7 +7,7 @@
 (Main profile, approx 250 words)
 
 ## Website
-(URL of their personal website or blob)
+(URL of their personal website or blog)
 
 ## Twitter
 (URL)
