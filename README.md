@@ -5,7 +5,7 @@ Score	Name	Assigned	Status
 	
 1	Adam Ludwin - CEO of chain.com	- Rachael Plant	
 	
-1	Albert Wegner - Rachael Plant	
+1	Albert Wenger - Rachael Plant	
 	
 1	Alejandro De La Torre		
 	
