@@ -19,13 +19,18 @@ Garzik is based in Atlanta, Georgia.
 ## Website
 
 ## Twitter
+@jgarzik
 
 ## Github
+@jgarzik
 
 ## LinkedIn
+/jeffgarzik
 
 ## Facebook
+/jgarzik
 
 ## Sources
 
 ## Tags
+Blockchain, Bitcoin, Linux kernal,
