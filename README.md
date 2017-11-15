@@ -3,7 +3,7 @@ Score	Name	Assigned	Status
 	
 1	Adam Back: Blockstream	- Rachael Plant	
 	
-1	Adam Ludwin - CEO of chain.com		
+1	Adam Ludwin - CEO of chain.com	- Rachael Plant	
 	
 1	Albert Wegner		
 	
