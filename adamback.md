@@ -22,7 +22,6 @@ In 2003 he co-founded PI Corporation, where he was Chief Security Officer of the
 Adam Back holds a Ph.D. in distributed systems and computer science from the University of Exeter.
 
 ## Website
-https://blockstream.com/
 http://www.cypherspace.org/adam/
 
 ## Twitter
@@ -37,12 +36,15 @@ http://www.cypherspace.org/adam/
 ## Facebook
 /adam.back.94
 
-## Sources
-https://www.crunchbase.com/person/adam-back
-http://www.hashcash.org/
-https://www.prnewswire.com/news-releases/blockstream-appoints-hashcash-inventor-dr-adam-back-as-ceo-300337815.html 
-https://blockstream.com/team/adam-back/ 
-https://upclosed.com/people/adam-back/ 
-
 ## Tags
-Hashcash, Credlib, Blockchain, 
+Hashcash, Credlib, Blockchain, Malta, 
+
+## Sources
+-https://www.crunchbase.com/person/adam-back
+-http://www.hashcash.org/
+-https://www.prnewswire.com/news-releases/blockstream-appoints-hashcash-inventor-dr-adam-back-as-ceo-300337815.html 
+-https://blockstream.com/team/adam-back/ 
+-https://upclosed.com/people/adam-back/ 
+
+## ProfileAuthor
+@rplant123
