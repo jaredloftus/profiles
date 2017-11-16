@@ -1,0 +1,2 @@
+# Nejc Kodrič
+Bitstamp
