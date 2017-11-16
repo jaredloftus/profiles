@@ -1,2 +1,0 @@
-# Andrew Poelstra
-MimbleWimble
