@@ -1,0 +1,2 @@
+# Tristan D'Agosta
+Poloniex
