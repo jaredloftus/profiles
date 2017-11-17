@@ -12,9 +12,7 @@ Prior to writing Blockchain Revolution, Tapscott worked for 7 years in Canadian 
 
 Tapscott is an advisory board member for a number of companies, including nuco, YouBase and Paycase. He is also a co-founder of CAMH Engage, a young leadership council at the Centre for Addiction and Mental Health.
 
-In 2014, Tapscott published the seminal white paper ‘A Bitcoin Governance Network’. His writing has been featured in publications such as TIME, Fortune, Forbes and the Harvard Business Review. 
-
-Alex Tapscott served as a research fellow for the Global Solutions Network (GSN) program at the Martin Prosperity Institute at the Rotman School of Management in Toronto. He is a graduate of Amherst College in Massachusetts and is a CFA charterholder.
+Alex Tapscott served as a research fellow for the Global Solutions Network (GSN) program at the Martin Prosperity Institute at the Rotman School of Management in Toronto. In 2014, he published the white paper ‘A Bitcoin Governance Network’. He is a graduate of Amherst College in Massachusetts and is a CFA charterholder.
 
 ## Twitter
 https://twitter.com/alextapscott
@@ -23,7 +21,7 @@ https://twitter.com/alextapscott
 https://www.linkedin.com/in/alex-tapscott-117638b/
 
 ## Tags
-Blockchain, Toronto, 
+Blockchain, Toronto, Investment,
 
 ## Sources
 - http://www.muskokagroup.org/alex-tapscott/
