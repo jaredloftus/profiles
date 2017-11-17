@@ -32,5 +32,5 @@ Blockchain, [cityname],
 * (URL2)
 * (ETC)
 
-## ProfileAuthor
+## Author
 (Your @github username)
