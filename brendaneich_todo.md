@@ -1,2 +1,0 @@
-# Brendan Eich
-Brave
