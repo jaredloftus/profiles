@@ -8,7 +8,7 @@ Alex Sunnarborg is a founding partner at Tetras Capital, a New York-based hedge 
 
 After graduating the University of Florida with a Bachelor’s Degree in Finance, Sunnarborg spent a year and a half at financial services firm Raymond James as a Debt Investment Banking Analyst.
 
-In 2015 he founded Lawnmower, an investment and market research platform for the emerging blockchain asset class, and served as its Chief Financial Officer. Lawnmower was acquired by CoinDesk in January 2017, where Sunnarborg worked as a research analyst, before founding Tetras Capital.
+In 2015 he founded Lawnmower, an investment and market research platform for the emerging blockchain asset class, and served as its Chief Financial Officer. Lawnmower was acquired by CoinDesk in January 2017, where Sunnarborg worked as a research analyst before founding Tetras Capital.
 
 Sunnarborg’s research and writing on blockchain investment has been featured in publications including Fortune, Bloomberg, VentureBeat, MarketWatch, and Yahoo! Finance.
 
