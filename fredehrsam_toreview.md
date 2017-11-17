@@ -1,7 +1,7 @@
 # Fred Ehrsam
 
 ## Summary
-A virtual currency isn’t worth the pixels it’s printed on until it’s easy to trade. That’s why, in the summer of 2012, Fred Ehrsam launched digital-asset broker Coinbase with Brian Armstrong. 
+A Duke University graduate and former Goldman Sachs trader, Fred Ehrsam cofounded digital-asset broker Coinbase with Brian Armstrong in 2012. 
 
 ## Bio
 
