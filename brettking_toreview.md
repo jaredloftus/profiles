@@ -1,5 +1,5 @@
 # Brett King
-Speaker, Author and Radiohost
+
 ## Summary
 Brett King is an Australian speaker, author and presenter focused on how technology is disrupting business and changing behaviour. He hosts the FinTech radio show ‘Breaking Banks’.
 
@@ -13,7 +13,7 @@ King is the CEO and Founder of Moven, a mobile-centric banking app which provide
 Previously, King worked as Director for E-Business at Deloitte and as lead the Asia division of Modem Media, an interactive marketing services firm. He has also worked with a number of global banks as a strategic advisor.
 
 ## Website
-(URL of their personal website or blog)
+http://brettking.com/
 
 ## Twitter
 https://twitter.com/BrettKing
