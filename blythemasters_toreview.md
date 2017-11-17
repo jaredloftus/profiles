@@ -1,10 +1,10 @@
 # Blythe Masters 
 
 ## Summary
-Blythe Masters is CEO of Digital Asset Holdings, a financial technology company that uses distributed ledger technology. Digital Asset Holdings is a backer of the Hyperledger project. 
+Blythe Masters is Chief Executive Officer of Digital Asset Holdings, a financial technology company that uses distributed ledger technology. Digital Asset Holdings is a backer of the Hyperledger project. 
 
 ## Bio
-Blythe Masters is CEO of Digital Asset Holdings, a financial technology company that builds distributed, encrypted processing tools for wholesale financial service providers using distributed ledger technology. 
+Blythe Masters is Chief Executive Officer of Digital Asset Holdings, a financial technology company that builds distributed, encrypted processing tools for wholesale financial service providers using distributed ledger technology. 
 
 Digital Asset Holdings is a backer of the Hyperledger project, in 2016 donating the Hyperledger trademark to the open source Linux foundation.
 
