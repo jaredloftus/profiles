@@ -31,7 +31,7 @@ http://continuations.com/
 /albertwenger
 
 ## Tags
-Blockchain, Investment, New York,
+Blockchain, Investment, New York, Blockstack, Coinbase, Clickable, Union Square Ventures,
 
 ## Sources
 - http://continuations.com/about
