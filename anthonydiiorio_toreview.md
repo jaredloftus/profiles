@@ -21,7 +21,7 @@ https://github.com/adiiorio
 https://www.linkedin.com/in/anthonydiiorio1/
 
 ## Tags
-Blockchain, [cityname], 
+Blockchain, Toronto, Ethereum,
 
 ## Sources
 - https://www.linkedin.com/in/anthonydiiorio1/ 
