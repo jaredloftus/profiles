@@ -8,7 +8,7 @@ Brock Pierce is an entrepreneur and venture capitalist in disruptive technology 
 
 In 2014, Pierce was elected as Chairman of the Bitcoin Foundation, a nonprofit organisation promoting the acceptance and adoption of bitcoin. He advises a number of companies, including Bancor, a protocol for the creation of intrinsically tradable tokens. 
 
-Pierce has also been involved in the online gaming industry. He is the founder of IMI Exchange, a digital currency marketplace for games, as well as other gaming companies such as ZAM, IGE and Tether.
+Pierce has also invested in the online gaming industry. He is the founder of IMI Exchange, a digital currency marketplace for games, as well as other gaming companies such as ZAM, IGE and Tether.
 
 ## Twitter
 https://twitter.com/brockpierce
