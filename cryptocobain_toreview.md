@@ -26,7 +26,7 @@ https://github.com/jordanfish
 https://www.linkedin.com/in/jordan-fish-493132149/
 
 ## Tags
-Blockchain, London, 
+Blockchain, London, Dust, Monzo, Maxcoin,
 
 ## Sources
 * https://www.linkedin.com/in/jordan-fish-493132149/
