@@ -32,6 +32,7 @@ Blockchain, London, Dust, Monzo, Maxcoin,
 * https://www.linkedin.com/in/jordan-fish-493132149/
 * https://qz.com/1095292/dust-lets-you-buy-bitcoin-with-spare-change-with-monzo/
 * https://www.coindesk.com/mintpal-fight-moolah-ceo-court/
+* http://www.dazeddigital.com/artsandculture/article/18742/1/introducing-the-celebrity-cryptocurrency-max-keiser
 
 ## Author
 @rplant123
