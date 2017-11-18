@@ -1,2 +1,0 @@
-# Charlie Lee
-Litecoin Foundation
