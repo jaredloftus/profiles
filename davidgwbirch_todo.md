@@ -1,1 +1,0 @@
-# David G.W. Birch
