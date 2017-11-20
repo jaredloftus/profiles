@@ -1,2 +1,0 @@
-# Elizabeth Stark
-Lightning Labs
