@@ -24,7 +24,7 @@ https://twitter.com/DuenaBlomstrom
 https://www.linkedin.com/in/duenablomstrom
 
 ## Tags
-Blockchain, London, 
+Blockchain, London, emotional banking, 
 
 ## Sources
 * https://duenablomstrom.com/
