@@ -19,24 +19,18 @@ http://rajchowdhury.com/
 ## Twitter
 https://twitter.com/rajchowdhury?lang=en
 
-## Github
-(URL)
-
 ## LinkedIn
 https://in.linkedin.com/in/rajchowdhury
 
-## Reddit
-(URL)
-
 ## Tags
-Blockchain, [cityname], 
+Blockchain, Mumbai, ShopABlock, Unification Energy, ICICI, HashCash Consultants
 
 ## Sources
-*http://rajchowdhury.com/
-*https://www.amazon.com/Dark-Secret-Silicon-Valley-Billionaires/dp/1505393531
-*https://unificationenergy.com/
-*https://www.crunchbase.com/person/raj-chowdhury
-*http://www.prweb.com/releases/2017/08/prweb14569183.htm
+- http://rajchowdhury.com/
+- https://www.amazon.com/Dark-Secret-Silicon-Valley-Billionaires/dp/1505393531
+- https://unificationenergy.com/
+- https://www.crunchbase.com/person/raj-chowdhury
+- http://www.prweb.com/releases/2017/08/prweb14569183.htm
 
 ## Author
-(Your @github username goes here)
+@violetasher
