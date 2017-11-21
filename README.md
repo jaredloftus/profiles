@@ -223,4 +223,7 @@ Score	Name	Assigned	Status
 
 	Willy Woo @woonomic		
 	
+	
 	Yoni Assia - Founder and CEO of eToro, inventor of Colored coins.		
+
+	Adam B. Lavine
