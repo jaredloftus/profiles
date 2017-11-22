@@ -1,2 +1,0 @@
-# Joseph Poon 
-Plasma/Lightning
