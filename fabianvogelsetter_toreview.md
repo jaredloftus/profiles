@@ -1,6 +1,7 @@
 # Fabian Vogelsetter
 
 ## Summary
+Fabian Vogelsetter is a lead DApp developer at Ethereum. His most known project now is the ERC-20 Token Standard, conceived together with Vitalik Buterin.
 
 ## Bio
 Based in Berlin, Fabian Vogelsetter is a lead DApp developer at Ethereum, working on and building some of Ethereum’s most well-known projects including Mist Browser, the Ethereum Wallet, and Web3. js, the JavaScript library you use to communicate to your local node in a distributed ledger. He came on board at Ethereum to help realize these projects and to explore the full potential of blockchain in cryptocurrency and beyond. Perhaps Vogelsetter’s most known project now is the ERC-20 Token Standard, conceived together with Vitalik Buterin.
