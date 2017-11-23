@@ -24,6 +24,9 @@ https://github.com/ummjackson
 ## LinkedIn
 https://www.linkedin.com/in/jacksonpalmer/
 
+## Reddit
+https://www.reddit.com/user/ummjackson
+
 ## Tags
 Blockchain, San Francisco, Dogecoin, 
 
