@@ -1,2 +1,0 @@
-# Mark Friedenbach
-Blockstream
