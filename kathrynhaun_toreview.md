@@ -19,7 +19,7 @@ https://twitter.com/katie_haun
 https://www.linkedin.com/in/kathryn-haun-0791456/
 
 ## Tags
-Blockchain, San Francisco, Law, Silk Road,
+Blockchain, San Francisco, Law, Silk Road, Coinbase,
 
 ## Sources
 * https://law.stanford.edu/directory/kathryn-haun/
