@@ -1,2 +1,0 @@
-# Linda Xie
-ScalarCapital
