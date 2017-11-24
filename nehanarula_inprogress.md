@@ -10,13 +10,13 @@ MIT Media Lab
 (URL of their personal website or blog)
 
 ## Twitter
-(URL)
+https://twitter.com/neha
 
 ## Github
-(URL)
+https://github.com/narula
 
 ## LinkedIn
-(URL)
+https://www.linkedin.com/in/nnarula/
 
 ## Facebook
 (URL)
