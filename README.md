@@ -8,12 +8,17 @@ Please read all instructions before you begin.
 * The workflow for creating a profile works like this:
 	* Find a profile that ends with `_todo`. Change the name of the file to `_inprocess.md` and begin work on that profile
 	* Copy the text from `_template.md` into this file
-	* Fill in as many of the fields as you can. Note the `Sources` field at the bottom. Make sure to include any URL's you have used for information about the person. Also, note the `Tags` field. Create tags for the technologies and projects this person has worked on. Make sure the final tag ends with a , and please include the person's primary location if you are able to find that.
+	* Fill in as many of the fields as you can. Note the `Sources` field at the bottom (use * + space to make bullet points). Make sure to include any URL's you have used for information about the person. Also, note the `Tags` field. Create tags for the technologies and projects this person has worked on. Make sure the final tag ends with a , and please include the person's primary location if you are able to find that.
 	* The main `Bio` field should be about 250 words long (approx. three or four nice parragraphs).
 	* The `Summary` field should be two sentences. 
 	* Please do not mark more than one file as `_inprocess.md` at once.
 	* Remove any fields you are leaving blank
 	* Once done with the profile, "commit" the changes and change the filename to end with `_toreview.md`
+	
+Some additional style notes:
+* Writing style: should be fairly formal, fact-based and as precise as possible. Avoid overly-long sentences or paragraphs. Try not to use qualifying adjectives (e.g. influential, foremost, successful) or non-neutral nouns (e.g. expert)
+* Abbreviations: introduce the full term followed by the abbreviation in brackets the first time an abbreviation is used e.g. Decentralised Autonomous Organisation (DAO)
+* Capitalisation: Don't capitalise: names of digital currencies. Do capitalise company names, job titles (but not 'founder'), degree subjects and types (Bachelor's and Masters)
 
 
 
