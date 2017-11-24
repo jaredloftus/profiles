@@ -1,2 +1,0 @@
-# Ted Livingston
-CEO, Kik
