@@ -1,13 +1,14 @@
 # Riccardo Spagni
 
 ## Summary
-(Two sentence summary of person)
+Riccardo Spagni is a member of the core team at Monero. He is also the founder and CEO of GloBee.
 
 ## Bio
-(Main profile, approx 250 words)
+Riccardo Spagni is a member of the core team at Monero, an open-source, privacy-oriented cryptocurrency that was launched in April 2014. He is also the lead maintainer of the Monero and Monero Core projects. 
 
-## Website
-(URL of their personal website or blog)
+Additionally, Spagni is the founder and CEO of Globee (formerly PayBee), a global cryptocurrency payment provider. 
+
+Spagni has an academic background in informatics and logistics, and spent a number of years working in software development and the import/export industry. He has been working on cryptocurrency-related projects since 2012.
 
 ## Twitter
 https://twitter.com/fluffypony
