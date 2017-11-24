@@ -1,13 +1,19 @@
 # Neha Narula
-MIT Media Lab
+
 ## Summary
-(Two sentence summary of person)
+Neha Narula is the Director of the Digital Currency Initiative at MIT. She is also a member of the World Economic Forum Global Future Council on Blockchain 2016-2017.
 
 ## Bio
-(Main profile, approx 250 words)
+Neha Narula is the Director of the Digital Currency Initiative, a cryptocurrency and blockchain research project which is part of the Massachusetts Institute of Technology (MIT) Media Lab. 
+
+Narula is also a member of the World Economic Forum Global Future Council on Blockchain 2016-2017. In 2016 she gave a TED talk on the future of money.
+
+Narula completed her PhD and Masters degrees in Computer Science at MIT, researching scalable multicore and partitioned databases, distributed systems, and browser security.
+
+While working on her PhD, Narula helped to relaunch the news aggregator Digg. Previously, she spent seven years as a senior software engineer at Google, where she designed Blobstore, a system for storing and serving petabytes of immutable data, and worked on Native Client, a system for running native code securely through a browser.
 
 ## Website
-(URL of their personal website or blog)
+http://nehanarula.org/
 
 ## Twitter
 https://twitter.com/neha
@@ -18,19 +24,13 @@ https://github.com/narula
 ## LinkedIn
 https://www.linkedin.com/in/nnarula/
 
-## Facebook
-(URL)
-
-## Reddit
-(URL)
-
 ## Tags
-Blockchain, [cityname], 
+Blockchain, Massachusetts, Digital Currency Initiative,  
 
 ## Sources
-* (URL1)
-* (URL2)
-* (ETC)
+* https://www.ted.com/speakers/neha_narula
+* https://joi.ito.com/weblog/2016/09/18/neha-narula-res.html
+* http://nehanarula.org/
 
 ## Author
 @rplant123
