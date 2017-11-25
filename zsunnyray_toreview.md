@@ -1,7 +1,7 @@
 # Sunny Ray
 
 ## Summary
-(Two sentence summary of person)
+Sunny Ray is co-founder and president of Unocoin, India’s famous bitcoin company, and an electrical engineer from the University of Toronto.
 
 ## Bio
 Sunny Ray was born in Canada and studied electrical engineering at the University of Toronto and the University of Alberta. While he first worked in a financial brokerage, he came across bitcoin in 2011 and decided that he would make the move into the world of cryptocurrency. While bitcoin wasn’t large in India, Ray and his team decided to create their bitcoin company, Unocoin, which was a revolutionary move in the country due to the idea being the first of its kind in India.
