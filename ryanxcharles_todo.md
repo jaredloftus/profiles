@@ -1,2 +1,0 @@
-# Ryan X. Charles
-Yours
