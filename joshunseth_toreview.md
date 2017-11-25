@@ -4,7 +4,7 @@
 Josh Unseth is a former co-host of the Bitcoin Uncensored podcast. He tweets and blogs about blockchain.
 
 ## Bio
-Josh Unseth is a former co-host, with Chris DeRose, of the Bitcoin Uncensored podcast. Unseth was fired from the show in March 2017 after the contentious sale of some Rare Pepe digital trading cards. 
+Josh Unseth (also known as Junseth) is a former co-host, with Chris DeRose, of the Bitcoin Uncensored podcast. Unseth was fired from the show in March 2017 after the contentious sale of some Rare Pepe digital trading cards. 
 
 Unseth continues to tweet and blog about blockchain and digital currencies. 
 
