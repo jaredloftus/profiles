@@ -1,2 +1,0 @@
-# Olaf Carlson 
-Polychain Capital
