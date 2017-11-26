@@ -22,7 +22,7 @@ https://github.com/gasteve
 https://www.linkedin.com/in/stephen-pair-9a332b9/
 
 ## Tags
-Blockchain, Atlanta, 
+Blockchain, Atlanta, BitPay, bitcoin, Bitcore,
 
 ## Sources
 * https://bitpay.com/about/
