@@ -1,10 +1,10 @@
 # Susanne Chishti
 
 ## Summary
-Susanne Chishti is the CEO of Angel network the FINTECH Circle and the founder of the FINTECH Institute.
+Susanne Chishti is the CEO of Angel network FINTECH Circle and the founder of the FINTECH Institute. She is also is the co-editor of *The FINTECH Book*.
 
 ## Bio
-Susanne Chishti is the CEO of FINTECH Circle, an Angel network dedicated to fintech investment opportunities. She is also the founder of the FINTECH Institute, a peer-to-peer online learning platform for fintech professionals. 
+Susanne Chishti is the CEO of FINTECH Circle, a European Angel network dedicated to fintech investment opportunities. She is also the founder of the FINTECH Institute, a peer-to-peer online learning platform for fintech professionals. 
 
 Alongside her role at FINTECH Circle, Chishti is a guest lecturer on financial technology at the University of Cambridge. She is also a non-executive director at alternative money-lender the Just Loans Group. 
 
