@@ -1,2 +1,0 @@
-# Spencer Bogart
-@CremeDeLaCrypto
