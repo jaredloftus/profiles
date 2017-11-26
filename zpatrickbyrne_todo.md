@@ -1,2 +1,0 @@
-# Patrick Byrne
-Executive
