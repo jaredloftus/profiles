@@ -15,7 +15,7 @@ Byrne has a B.A. in Chinese studies and philosophy from Dartmouth in 1985, an M.
 
 
 ## Website
-(URL of their personal website or blog)
+https://www.overstock.com/
 
 ## Twitter
 https://twitter.com/overstockceo?lang=en
