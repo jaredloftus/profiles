@@ -28,7 +28,7 @@ https://www.facebook.com/ParisHiltonEntertainment/
 realparishilton
 
 ## Tags
-Blockchain, ICO, Paris Hilton, initial coin offerings
+Blockchain, ICO, LydianCoin, initial coin offerings, Gravity4
 
 ## Sources
 * https://www.coindesk.com/hotel-heiress-paris-hilton-is-the-latest-celebrity-to-promote-an-ico/
