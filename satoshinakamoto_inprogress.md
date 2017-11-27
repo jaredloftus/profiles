@@ -25,13 +25,13 @@ http://satoshi.nakamotoinstitute.org/
 Blockchain, bitcoin, 
 
 ## Sources
-* http://satoshi.nakamotoinstitute.org/
-* https://news.bitcoin.com/satoshi-nakamotos-brilliant-white-paper-turns-9-years-old/
-* https://www.washingtonpost.com/news/the-switch/wp/2014/01/03/five-years-of-bitcoin-in-one-post/?utm_term=.251aee4be40c
-* https://www.inc.com/larry-kim/15-unusual-facts-amp-theories-about-mysterious-b.html
-* http://www.newsweek.com/2014/03/14/face-behind-bitcoin-247957.html
-* https://www.coindesk.com/information/who-is-satoshi-nakamoto/
-* https://www.economist.com/news/briefings/21698061-craig-steven-wright-claims-be-satoshi-nakamoto-bitcoin
+- http://satoshi.nakamotoinstitute.org/
+- https://news.bitcoin.com/satoshi-nakamotos-brilliant-white-paper-turns-9-years-old/
+- https://www.washingtonpost.com/news/the-switch/wp/2014/01/03/five-years-of-bitcoin-in-one-post/?utm_term=.251aee4be40c
+- https://www.inc.com/larry-kim/15-unusual-facts-amp-theories-about-mysterious-b.html
+- http://www.newsweek.com/2014/03/14/face-behind-bitcoin-247957.html
+- https://www.coindesk.com/information/who-is-satoshi-nakamoto/
+- https://www.economist.com/news/briefings/21698061-craig-steven-wright-claims-be-satoshi-nakamoto-bitcoin
 
 ## Author
 @rplant123
