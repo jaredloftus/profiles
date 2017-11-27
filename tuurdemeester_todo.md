@@ -1,2 +1,0 @@
-# Tuur Demeester
-Adamant Research
