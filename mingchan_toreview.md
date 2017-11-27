@@ -25,8 +25,8 @@ https://www.linkedin.com/in/mingchan88/
 Blockchain, Zurich, Ethereum,
 
 ## Sources
-* https://www.linkedin.com/in/mingchan88/
-* https://blog.ethereum.org/2015/07/30/announcing-new-foundation-board-executive-director/ 
+- https://www.linkedin.com/in/mingchan88/
+- https://blog.ethereum.org/2015/07/30/announcing-new-foundation-board-executive-director/ 
 
 ## Author
 @rplant123
