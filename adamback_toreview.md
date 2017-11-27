@@ -31,10 +31,10 @@ http://www.cypherspace.org/adam/
 @adam3us
 
 ## LinkedIn
-https://www.linkedin.com/in/adam-back-043342/
+/adam-back-043342
 
 ## Facebook
-https://facebook.com/adam.back.94
+/adam.back.94
 
 ## Tags
 Hashcash, Credlib, Blockchain, Malta, 
