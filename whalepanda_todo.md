@@ -1,2 +1,0 @@
-# Whale Panda
-Blogger
