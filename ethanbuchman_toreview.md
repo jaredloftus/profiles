@@ -16,9 +16,6 @@ Buchman has been a speaker for Blockchain Workshops and the Digital Banking Lead
 
 Buchman is an avid gardener, backyard chicken enthusiast and ran for Member of Parliament with the Libertarian Party in Canada’s 2015 federal election.
 
-## Website
-(URL of their personal website or blog)
-
 ## Twitter
 https://twitter.com/buchmanster
 
