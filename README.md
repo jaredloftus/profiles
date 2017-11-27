@@ -113,6 +113,7 @@ Some additional style notes:
 - Sebastian Meunier
 - Shaolinfry, UASF creator
 - Sheba Jafari, Goldman Sachs analyst
+- Silvio Micali (Algorand)
 - Simon Cocking
 - Simon Taylor
 - Sir Mark Walport
@@ -125,6 +126,7 @@ Some additional style notes:
 - Tiff Hayden
 - Toni Lane
 - Tony Gallippi
+- Toufi Saliba
 - Valery Vavilov
 - Warren Whitlock
 - Willy Woo @woonomic
