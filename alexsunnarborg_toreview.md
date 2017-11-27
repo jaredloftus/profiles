@@ -28,9 +28,9 @@ https://www.facebook.com/alexandersunnarborg
 Blockchain, Florida, Investment, CoinDesk,
 
 ## Sources
-* https://cryptofundlist.com/tetras-capital/
-* http://tetras.capital/connect/
-* https://www.coindesk.com/author/alexsunnarborg/
+- https://cryptofundlist.com/tetras-capital/
+- http://tetras.capital/connect/
+- https://www.coindesk.com/author/alexsunnarborg/
 
 ## ProfileAuthor
 @rplant123
