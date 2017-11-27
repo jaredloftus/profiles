@@ -8,26 +8,26 @@ Alejandro De La Torre is the Vice President for Business Development at BTC.com,
 
 De La Torre initially founded SendChat, a messenger app that allowed users to send and receive cryptocurrencies. SendChat was acquired by Blocktrail in 2015, which subsequently became part of Bitmain Technologies.
 
-Alejandro De La Torre is based in Amsterdam.
+De La Torre is based in Amsterdam.
 
 ## Website
-https://blog.btc.com/@bitentrepreneur
+blog.btc.com/@bitentrepreneur
 
 ## Twitter
-@bitentrepreneur
+twitter.com/bitentrepreneur
 
 ## Github
-@AlejandroDeLaTorre
+github.com/AlejandroDeLaTorre
 
 ## LinkedIn
-/alejandrodelatorre
+linkedin.com/alejandrodelatorre
 
 ## Tags
 Blockchain, Amsterdam, SendChat, Bitmain, BTC.com,
 
 ## Sources
-* https://www.crunchbase.com/person/alejandro-de-la-torre
-* https://finance.yahoo.com/news/cryptocurrency-iphone-android-app-sendchat-180000591.html
+- https://www.crunchbase.com/person/alejandro-de-la-torre
+- https://finance.yahoo.com/news/cryptocurrency-iphone-android-app-sendchat-180000591.html
 
 ## ProfileAuthor
 @rplant123
