@@ -28,5 +28,5 @@ Blockchain, Toronto, Ethereum,
 - http://scma.com/on/news/8-about/363-anthony-di-iorio 
 - https://everipedia.org/wiki/anthony-di-iorio/ 
 
-## ProfileAuthor
+## Author
 @rplant123
