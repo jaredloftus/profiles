@@ -1,2 +1,0 @@
-# Vinay Gupta
-Mattereum
