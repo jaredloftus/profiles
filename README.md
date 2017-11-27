@@ -55,6 +55,7 @@ Some additional style notes:
 - Daniel Roberts
 - David M. Brear
 - Dinis Guardia
+- Elaine Ou
 - Emily Spaven
 - Evan Van Ness, Week in Ethereum newsletter
 - Gary Nuttall
