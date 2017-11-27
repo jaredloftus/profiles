@@ -28,9 +28,9 @@
 Blockchain, [cityname], 
 
 ## Sources
-* (URL1)
-* (URL2)
-* (ETC)
+- (URL1)
+- (URL2)
+- (ETC)
 
 ## Author
 (Your @github username goes here)
