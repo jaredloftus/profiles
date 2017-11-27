@@ -16,13 +16,13 @@ Prior to Chain, Ludwin was a venture investor in companies including Vine, Slack
 Ludwin holds a B.S. from UC Berkeley and an MBA from Harvard.
 
 ## Twitter
-@adamludwin
+twitter.com/adamludwin
 
 ## LinkedIn
-/adamludwin
+linkedin.com/adamludwin
 
 ## Facebook
-/adamludwin
+facebook.com/adamludwin
 
 ## Tags
 Blockchain, San Francisco, Chain, Sequence,
