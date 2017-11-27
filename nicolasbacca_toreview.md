@@ -29,10 +29,10 @@ https://www.linkedin.com/in/nbasim/
 Blockchain, Ledger, BTChip, Ledger Wallet, Ubinity, Simulity
 
 ## Sources
-* https://www.weusecoins.com/nicolas-bacca/
-* https://www.crunchbase.com/person/nicolas-bacca
-* https://www.linkedin.com/in/nicolas-bacca-a0233a/?trk=seokp-title_posts_secondary_cluster_res_author_name
-* http://btchip.com/
+- https://www.weusecoins.com/nicolas-bacca/
+- https://www.crunchbase.com/person/nicolas-bacca
+- https://www.linkedin.com/in/nicolas-bacca-a0233a/?trk=seokp-title_posts_secondary_cluster_res_author_name
+- http://btchip.com/
 
 ## Author
 @mecruz32
