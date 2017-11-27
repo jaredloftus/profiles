@@ -21,10 +21,10 @@ https://www.linkedin.com/in/olafcw/
 Blockchain, Polychain, Cryptographic Financial
 
 ## Sources
-* https://www.bloomberg.com/news/videos/2017-09-08/polychain-ceo-says-blockchain-tech-moving-quickly-video?utm_content=btechnologytv&utm_campaign=socialflow-organic&utm_source=twitter&utm_medium=social&cmpid%3D=socialflow-twitter-btechnologytv
-* https://www.forbes.com/sites/laurashin/2017/03/07/why-this-hedge-fund-ceo-once-put-most-of-my-meager-life-savings-into-bitcoin/
-* https://www.linkedin.com/in/olafcw/
-* https://www.forbes.com/sites/laurashin/2017/07/10/the-emperors-new-coins-how-initial-coin-offerings-fueled-a-100-billion-crypto-bubble/2/#ba0f841b2ccb
+- https://www.bloomberg.com/news/videos/2017-09-08/polychain-ceo-says-blockchain-tech-moving-quickly-video?utm_content=btechnologytv&utm_campaign=socialflow-organic&utm_source=twitter&utm_medium=social&cmpid%3D=socialflow-twitter-btechnologytv
+- https://www.forbes.com/sites/laurashin/2017/03/07/why-this-hedge-fund-ceo-once-put-most-of-my-meager-life-savings-into-bitcoin/
+- https://www.linkedin.com/in/olafcw/
+- https://www.forbes.com/sites/laurashin/2017/07/10/the-emperors-new-coins-how-initial-coin-offerings-fueled-a-100-billion-crypto-bubble/2/#ba0f841b2ccb
 
 ## Author
 @mecruz32
