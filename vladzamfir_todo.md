@@ -1,2 +1,0 @@
-# Vlad Zamfir
-Ethereum
