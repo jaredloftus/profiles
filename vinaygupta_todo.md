@@ -33,4 +33,3 @@ Blockchain, [cityname],
 * (ETC)
 
 ## Author
-@rplant123
