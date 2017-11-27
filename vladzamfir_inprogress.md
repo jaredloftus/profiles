@@ -17,12 +17,13 @@ https://github.com/vladzamfir
 https://www.linkedin.com/in/vlad-zamfir/
 
 ## Tags
-Blockchain, [cityname], 
+Blockchain,  
 
 ## Sources
 * https://www.linkedin.com/in/vlad-zamfir/
 * https://medium.com/@Vlad_Zamfir
-* (ETC)
+* https://www.ethereum.org
+* http://www.trustnodes.com/2017/05/26/ethereum-developer-vlad-zamfir-tries-stir-pot-proof-stake
 
 ## Author
 @mecruz32
