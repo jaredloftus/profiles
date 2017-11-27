@@ -12,17 +12,14 @@ In 2015 he founded Lawnmower, an investment and market research platform for the
 
 Sunnarborg’s research and writing on blockchain investment has been featured in publications including Fortune, Bloomberg, VentureBeat, MarketWatch, and Yahoo! Finance.
 
-## Website
-https://medium.com/@asunnarborg
-
 ## Twitter
-https://twitter.com/alexsunnarborg
+twitter.com/alexsunnarborg
 
 ## LinkedIn
-https://www.linkedin.com/in/asunnarborg
+linkedin.com/in/asunnarborg
 
 ## Facebook
-https://www.facebook.com/alexandersunnarborg
+facebook.com/alexandersunnarborg
 
 ## Tags
 Blockchain, Florida, Investment, CoinDesk,
