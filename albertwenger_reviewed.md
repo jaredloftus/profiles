@@ -13,22 +13,22 @@ With a background in technology and entrepreneurship, Wenger previously founded 
 
 Wenger currently sits on the boards of Clickable, a platform for managing online advertising, and Maptuit, a provider of real-time navigation. He is a board observer at Etsy, an online marketplace for handmade goods.
 
-Albert Wenger graduated from Harvard College with a degree in economics and computer science and holds a Ph.D. in Information Technology from MIT. He is the author of Continuations, a technology and entrepreneurial blog, and is based in Scarsdale, New York.
+Albert Wenger graduated from Harvard College with a degree in Economics and Computer Science and holds a Ph.D. in Information Technology from MIT. He is the author of Continuations, a technology and entrepreneurial blog, and is based in Scarsdale, New York.
 
 ## Website
-http://continuations.com/
+continuations.com
 
 ## Twitter
-@albertwenger
+twitter.com/albertwenger
 
 ## Github
-@albertwenger
+github.com/albertwenger
 
 ## LinkedIn
-/albertwenger
+linkedin.com/albertwenger
 
 ## Facebook
-/albertwenger
+facebook.com/albertwenger
 
 ## Tags
 Blockchain, Investment, New York, Blockstack, Coinbase, Clickable, Union Square Ventures,
