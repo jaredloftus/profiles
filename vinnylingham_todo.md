@@ -1,2 +1,0 @@
-# Vinny Lingham
-Civic
