@@ -23,7 +23,7 @@ https://blog.btc.com/@bitentrepreneur
 /alejandrodelatorre
 
 ## Tags
-Blockchain, Amsterdam, 
+Blockchain, Amsterdam, SendChat, Bitmain, BTC.com,
 
 ## Sources
 * https://www.crunchbase.com/person/alejandro-de-la-torre
