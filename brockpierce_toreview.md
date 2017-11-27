@@ -20,9 +20,9 @@ https://www.linkedin.com/in/brockpierce/
 Blockchain, Los Angeles, Bitcoin Foundation, Blockchain Capital, Block.one,
 
 ## Sources
-* https://www.linkedin.com/in/brockpierce/
-* https://bitcoinfoundation.org/
-* https://venturebeat.com/2017/07/01/185-million-in-5-days-block-one-sets-new-ico-record-with-its-eos-token/
+- https://www.linkedin.com/in/brockpierce/
+- https://bitcoinfoundation.org/
+- https://venturebeat.com/2017/07/01/185-million-in-5-days-block-one-sets-new-ico-record-with-its-eos-token/
 
 ## Author
 @rplant123
