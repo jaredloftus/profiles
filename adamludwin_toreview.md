@@ -4,10 +4,10 @@
 http://placehold.it/250x250
 
 ## Summary
-Adam Ludwin is the co-founder and CEO of Chain, an enterprise-grade blockchain infrastructure.
+Adam Ludwin is the co-founder and CEO of Chain, an enterprise-level blockchain infrastructure company.
 
 ## Bio
-Adam Ludwin is the co-founder and CEO of Chain, an enterprise-grade blockchain infrastructure. Ludwin started the company with Devon Gundry in 2014. In October 2017 Chain announced the launch of cloud-based ledger service Sequence.
+Adam Ludwin is the co-founder and CEO of Chain, an enterprise-level blockchain infrastructure company. Ludwin started the company with Devon Gundry in 2014. In October 2017, Chain announced the launch of cloud-based ledger service Sequence.
 
 Ludwin and Gundry previously founded photosharing app Koa.la (formerly Albumatic).
 
@@ -25,7 +25,7 @@ Ludwin holds a B.S. from UC Berkeley and an MBA from Harvard.
 /adamludwin
 
 ## Tags
-Blockchain, San Francisco, 
+Blockchain, San Francisco, Chain, Sequence,
 
 ## Sources
 - https://www.crunchbase.com/person/adam-ludwin
