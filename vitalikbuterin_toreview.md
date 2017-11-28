@@ -33,10 +33,11 @@ reddit.com/user/vbuterin/
 Blockchain, Toronto, ethereum, kryptokit, egora, dark wallet, bitcoin magazine, Gavin Wood, 
 
 ## Sources
-* bitcoinmagazine.com/authors/vitalik-buterin/
+* about.me/vitalik_buterinbitcoinmagazine.com/authors/vitalik-buterin/
 * btcbitcoinnews.com/news/158802/Roger-Ver-Erik-Voorhees-and-Vitalik-Buterin-Take-Ownership-Roles-at-KryptoKit
 * coindesk.com/information/who-created-ethereum/
 * cryptomorrow.com/2017/11/11/vitalik-buterin/
+* ethdocs.org/en/latest/introduction/history-of-ethereum.html
 
 ## Author
 @rplant123
