@@ -33,9 +33,9 @@ Some additional style notes:
 - Max Keiser, RT (Rachael doing)
 - Aaron Van Wirdum, Bitcoin Magazine (Rachael doing)
 - Adam B. Lavine (Rachael doing)
-- Alan Wunsche
-- Amaury "Deadal Nix" Sechét, Bitcoin Cash
-- Andrew Miller, IC3/Zcash
+- Alan Wunsche (Rachael doing)
+- Amaury "Deadal Nix" Sechét, Bitcoin Cash (Rachael doing)
+- Andrew Miller, IC3/Zcash (Rachael doing)
 - Angela Walch, St. Mary’s University School of Law
 - Anne Connelly
 - Anthony Watson
