@@ -1,0 +1,33 @@
+# Mark Friedenbach
+
+## Summary
+Mark Friedenbach is a a co-founder of Blockstream. He is a software engineer and independent bitcoin protocol developer. 
+
+## Bio
+Mark Friedenbach is a software engineer and independent bitcoin protocol developer, with specialities in blockchain scalability, privacy enhancing technology and issued asset extensions to bitcoin. 
+
+He is a co-founder and Infrastructure Tech Engineer at Blockstream, a software platform for digital assets that uses blockchain and sidechain technologies. 
+
+Previously, Friedenbach worked as an Application Developer at NASA-Ames Research Center.
+
+He has a Bachelor’s degree in Engineering Physics from Santa Clara University, where he also worked as a technical admin to the physics computation lab.
+
+## Twitter
+twitter.com/markfriedenbach
+
+## Github
+github.com/maaku
+
+## LinkedIn
+linkedin.com/in/markfriedenbach/
+
+## Tags
+Blockchain, California, bitcoin, Blockstream
+
+## Sources
+- blockstream.com/team/mark-friedenbach
+- crunchbase.com/person/mark-friedenbach
+- linkedin.com/in/markfriedenbach
+
+## Author
+@rplant123
