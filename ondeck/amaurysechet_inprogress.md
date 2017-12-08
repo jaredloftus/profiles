@@ -1,4 +1,4 @@
-# Amaury 'Deadal Nix' Sechét
+# Amaury Sechét
 
 ## Summary
 (Two sentence summary of person)
@@ -13,10 +13,10 @@
 (URL)
 
 ## Github
-(URL)
+github.com/deadalnix
 
 ## LinkedIn
-(URL)
+linkedin.com/in/deadalnix
 
 ## Facebook
 (URL)
@@ -30,7 +30,7 @@ Blockchain, [cityname],
 ## Sources
 - (URL1)
 - (URL2)
-- (ETC)
+- https://www.yours.org/content/bitcoin-abc---our-values-and-vision-a282afaade7c/
 
 ## Author
 (Your @github username goes here)
