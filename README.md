@@ -51,6 +51,7 @@ Some additional style notes:
 - Bruce Fenton, Atlantic Financial
 - Bruce Porter Jr.
 - Chao Deng, Wall Street Journal
+- Charles Hoskinson
 - Charlotte Halkett
 - Chris Skinner
 - Christophe Langlois
