@@ -100,6 +100,7 @@ Some additional style notes:
 - Naval Ravikant, AngelList
 - Neeraj Agrawal, Coin Center
 - Neira Jones
+- Nick Dodson
 - Nick Johnson and Alex Van de Sande, ENS
 - Nick Tomaino, 1confirmation/Runa Capital
 - Nigel Walsh
