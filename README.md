@@ -52,6 +52,7 @@ Some additional style notes:
 - Bruce Porter Jr.
 - Chao Deng, Wall Street Journal
 - Charles Hoskinson
+- Charlie Shrem
 - Charlotte Halkett
 - Chris Skinner
 - Christophe Langlois
