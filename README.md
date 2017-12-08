@@ -35,6 +35,7 @@ Some additional style notes:
 - Adam B. Lavine (Rachael doing)
 - Alan Wunsche (Rachael doing)
 - Amaury "Deadal Nix" Sechét, Bitcoin Cash (Rachael doing)
+- Amir Taaki
 - Andrew Miller, IC3/Zcash (Rachael doing)
 - Angela Walch, St. Mary’s University School of Law
 - Anne Connelly
@@ -57,6 +58,7 @@ Some additional style notes:
 - Daesik Kim, bithumb
 - Daniel Masters, GABI
 - Daniel Roberts
+- David Johnston
 - David M. Brear
 - Dinis Guardia
 - Elaine Ou
@@ -112,6 +114,7 @@ Some additional style notes:
 - Peter Rizun, Bitcoin Unlimited
 - Pierre Tran
 - Preston Byrne, marmot
+- Richard Moore @ricmoo
 - Safaraz Ali
 - Sally Eaves
 - Samson Mow,&nbsp;Blockstream
