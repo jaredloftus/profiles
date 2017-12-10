@@ -18,13 +18,13 @@ As a teenager, Woo learned how to code. He later became a trader. Woo holds a Be
 http://woobull.com/
 
 ## Twitter 
-https://twitter.com/woonomic
+twitter.com/woonomic
 
 ## LinkedIn 
-https://www.linkedin.com/in/woonomic/
+linkedin.com/in/woonomic
 
 ## Facebook 
-https://www.facebook.com/dangermouse117
+facebook.com/dangermouse117
 
 ## Tags
 Blockchain, New Zealand, Bali, CoinDesk, Fomonomics, Exodus Wallet, He3Labs,
