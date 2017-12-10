@@ -1,12 +1,14 @@
 # Warren Whitlock
 
 ## Summary
-A digital business development strategist and bestselling author, Warren Whitlock is an influencer in the world of blockchain.
+A digital marketing strategist and author, Warren Whitlock is an influencer in the world of blockchain.
 
 ## Bio
-Warren Whitlock is an influencer who helps businesses in blockchain, health, martech, and solar grow. Whitlock, digital business development strategist, is the founder and CEO of Ochen, a next generation publishing company. Here, he shares his insights and ideas about a variety of topics, amongst which blockchain. Author of several bestselling books about social media marketing, such as ‘Twitter Revolution: How Social Media and Mobile Marketing is Changing the Way We Do Business & Market Online’.
+Warren Whitlock is a digital business development strategist working with companies in a number of areas, including blockchain and cryptocurrency startups. He specialises in helping brands to improve the results of their digital marketing and social media presence.
 
-Next to Ochen, Whitlock is Senior Advisor at Guerilla Marketing, and Senior Manager at Warren Whitlock and Associates. He also hosts Social Media Radio, and is a regular speaker at conferences.
+Whitlock is the founder and CEO of Ochen, a next generation publishing company. Here, he shares his insights and ideas about a variety of topics, including blockchain. He is the author of several books about social media marketing, including ‘Twitter Revolution: How Social Media and Mobile Marketing is Changing the Way We Do Business & Market Online’.
+
+Alongside Ochen, Whitlock is also Senior Advisor at Guerilla Marketing, and Senior Manager at Warren Whitlock and Associates. He hosts Social Media Radio, and is a regular speaker at conferences.
 
 ## Website 
 https://warrenwhitlock.com/
