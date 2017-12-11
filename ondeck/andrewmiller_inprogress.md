@@ -10,7 +10,7 @@
 (URL of their personal website or blog)
 
 ## Twitter
-(URL)
+twitter.com/socrates1024
 
 ## Github
 (URL)
@@ -30,7 +30,7 @@ Blockchain, [cityname],
 ## Sources
 - (URL1)
 - (URL2)
-- (ETC)
+- https://z.cash/team.html
 
 ## Author
-(Your @github username goes here)
+@rplant123
