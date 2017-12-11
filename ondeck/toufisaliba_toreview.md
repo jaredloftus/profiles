@@ -28,7 +28,10 @@ facebook.com/toufic.saliba
 Blockchain, San Francisco, Palo Alto, Toronto, PrivacyShell, TodaCorp, TODA protocol, ACM, Toda-Algorand,
 
 ## Sources 
-- https://www.prnewswire.com/news-releases/todacorp-inc-and-algorand-llc-announce-the-first-decentralized-dual-protocol-ledger-and-ledgerless-blockchain-scalable-to-over-three-million-transactions-per-second-and-over-four-billion-users-300495630.html - https://www.todachain.com/about-us - https://www.collider-x.org/toufifbio/ - https://www.huffingtonpost.com/entry/591dac73e4b07617ae4cb9ba
+- https://www.collider-x.org/toufifbio/ 
+- https://www.huffingtonpost.com/entry/591dac73e4b07617ae4cb9ba
+- https://www.prnewswire.com/news-releases/todacorp-inc-and-algorand-llc-announce-the-first-decentralized-dual-protocol-ledger-and-ledgerless-blockchain-scalable-to-over-three-million-transactions-per-second-and-over-four-billion-users-300495630.html 
+- https://www.todachain.com/about-us 
 
 ## Author
 Tessa
