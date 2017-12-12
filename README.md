@@ -35,7 +35,7 @@ Some additional style notes:
 - Adam B. Lavine (Rachael doing)
 - Alan Wunsche (Rachael doing)
 - Amaury "Deadal Nix" Sechét, Bitcoin Cash (Rachael doing)
-- Amir Taaki
+- Amir Taaki (Rachael doing)
 - Andrew Miller, IC3/Zcash (Rachael doing)
 - Angela Walch, St. Mary’s University School of Law
 - Anne Connelly
