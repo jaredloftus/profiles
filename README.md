@@ -38,10 +38,10 @@ Some additional style notes:
 - Amir Taaki (Rachael doing)
 - Andrew Miller, IC3/Zcash (Rachael doing)
 - Angela Walch, St. Mary’s University School of Law (Rachael doing)
-- Anne Connelly
-- Anthony Watson
-- Antonio Selas
-- Arthur Hayes, BitMEX
+- Anne Connelly (Rachael doing)
+- Anthony Watson (Rachael doing)
+- Antonio Selas (Rachael doing)
+- Arthur Hayes, BitMEX (Rachael doing)
 - BTC-e (whoever runs it)
 - Bill Buchanan OBE
 - Bill Sullivan
