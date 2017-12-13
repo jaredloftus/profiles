@@ -10,7 +10,7 @@
 (URL of their personal website or blog)
 
 ## Twitter
-(URL)
+twitter.com/anne_connelly
 
 ## Github
 (URL)
