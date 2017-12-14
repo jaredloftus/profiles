@@ -42,11 +42,11 @@ Some additional style notes:
 - Anthony Watson (Rachael doing)
 - Antonio Selas (Rachael doing)
 - Arthur Hayes, BitMEX (Rachael doing)
-- BTC-e (whoever runs it)
-- Bill Buchanan OBE
-- Bill Sullivan
-- Bobby Lee: Executive and Entrepreneur
-- Brian Forde: Entrepreneur and Researcher
+- Alexander Vinnik (BTC-e) (Rachael doing) 
+- Bill Buchanan OBE (Rachael doing)
+- Bill Sullivan (Rachael doing)
+- Bobby Lee: Executive and Entrepreneur (Rachael doing)
+- Brian Forde: Entrepreneur and Researcher (Rachael doing)
 - Brian Kelly, BK Capital Management
 - Bruce Fenton, Atlantic Financial
 - Bruce Porter Jr.
