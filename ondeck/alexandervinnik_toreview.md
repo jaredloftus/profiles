@@ -1,7 +1,7 @@
 # Alexander Vinnik
 
 ## Summary
-Alexander Vinnik is the alleged owner of BTC-e. He was arrested in July 2017 accused on laundering billions of dollars through the exchange.
+Alexander Vinnik is the alleged owner of BTC-e. He was arrested in July 2017 accused of laundering billions of dollars through the exchange.
 
 ## Bio
 Alexander Vinnik was arrested in Greece in July 2017, accused of laundering billions of dollars in bitcoin through BTC-e. Authorities have alleged Vinnik is the owner and operator of BTC-e, a cryptocurrency exchange headquartered in Russia and founded in 2011. They have also claimed that the exchange is linked to criminal activities.
