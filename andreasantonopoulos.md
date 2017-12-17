@@ -15,16 +15,16 @@ Also a bitcoin entrepreneur, he has founded and advised a number of bitcoin and 
 He holds degrees in Computer Science, Data Communications and Distributed Systems from University College London. 
 
 ## Website
-antonopoulos.com
+https://antonopoulos.com/
 
 ## Twitter
-twitter.com/aantonop
+https://twitter.com/aantonop
 
 ## Github
-github.com/aantonop
+https://github.com/aantonop
 
 ## LinkedIn
-linkedin.com/in/amantonopoulos
+https://www.linkedin.com/in/amantonopoulos
 
 ## Tags
 Blockchain, San Francisco, Linux, bitcoin, education, Let's Talk Bitcoin,
