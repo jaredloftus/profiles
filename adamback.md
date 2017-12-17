@@ -22,19 +22,19 @@ In 2003 Back co-founded PI Corporation, where he was Chief Security Officer of t
 Adam Back holds a Ph.D. in distributed systems and computer science from the University of Exeter.
 
 ## Website
-cypherspace.org/adam
+http://cypherspace.org/adam/
 
 ## Twitter
-twitter.com/@adam3us
+https://twitter.com/adam3us
 
 ## Github
-github.com/adam3us
+https://github.com/adam3us
 
 ## LinkedIn
-linkedin.com/adam-back
+https://www.linkedin.com/in/adam-back-043342/
 
 ## Facebook
-facebook.com/adam.back.94
+https://www.facebook.com/adam.back.94
 
 ## Tags
 Hashcash, Credlib, Blockchain, Malta
