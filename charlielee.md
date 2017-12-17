@@ -13,13 +13,13 @@ In May 2017, litecoin activated the Segregated Witness (SegWit) code upgrade and
 Prior to joining Google, Lee worked as an engineer for Kana Communications and Guidewire Software. He holds a Bachelors and Masters in Computer Science from Massachusetts Institute of Technology. 
 
 ## Twitter
-twitter.com/SatoshiLite
+https://twitter.com/SatoshiLite
 
 ## LinkedIn
-linkedin.com/in/chocobo
+https://www.linkedin.com/in/chocobo
 
 ## Tags
-Blockchain, San Francisco, Singapore, Litecoin, Coinbase, SegWit, Google, Kana Communications, Guideware Software
+Blockchain, San Francisco, Singapore, Litecoin, Coinbase, SegWit, Google, Kana Communications, Guideware Software,
 
 ## Sources
 - coindesk.com/life-coinbase-can-charlie-lee-keep-litecoins-revival-alive
