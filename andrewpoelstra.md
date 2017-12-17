@@ -13,13 +13,13 @@ Poelstra is a mathematician at Blockchain, where he worked with co-founders Greg
 Poelstra graduated from Simon Fraser University in 2013 with a BSc in Mathematics. While completing his Mathematics MA at the University of Texas at Austin, he wrote and co-wrote several papers about bitcoin, practical cryptography and mathematics. 
 
 ## Website
-wpsoftware.net/andrew
+https://www.wpsoftware.net/andrew
 
 ## Github
-github.com/apoelstra
+https://github.com/apoelstra
 
 ## LinkedIn
-linkedin.com/in/andrew-poelstra-958a75106
+https://www.linkedin.com/in/andrew-poelstra
 
 ## Tags
 Blockchain, Texas, Mimblewimble,
