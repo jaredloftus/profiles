@@ -13,16 +13,13 @@ He was previously community director of the Counterparty Foundation, the not-for
 DeRose previously ran DeRose Technologies, a computer programming services company based in Florida. 
 
 ## Website
-chrisderose.com
+https://www.chrisderose.com
 
 ## Twitter
-twitter.com/derose
+https://twitter.com/derose
 
 ## Github
-github.com/brighton36
-
-## Facebook
-facebook.com/chris.derose.16
+https://github.com/brighton36
 
 ## Tags
 Blockchain, Miami, Bitcoin Uncensored, Bitcoin, Counterparty Foundation, Junseth, Josh Unseth,
