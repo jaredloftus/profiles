@@ -15,10 +15,10 @@ Pierce has also invested in the online gaming industry. He is the founder of IMI
 Pierce is a former child actor who appeared in Disney's The Mighty Ducks films.
 
 ## Twitter
-twitter.com/brockpierce
+https://twitter.com/brockpierce
 
 ## LinkedIn
-linkedin.com/in/brockpierce
+https://www.linkedin.com/in/brockpierce
 
 ## Tags
 Blockchain, Los Angeles, Bitcoin Foundation, Blockchain Capital, Block.one, Bancor, IMI Exchange, ZAM, IGE, Tether, EOS, 
