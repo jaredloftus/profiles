@@ -13,17 +13,13 @@ Previously, Fish was Head of Growth at cloud provider Enki, and Head of Technolo
 Fish graduated from the University of Bristol, UK with a degree in Computer Science. He was involved in developing alternative digital currency Maxcoin with fellow Bristol student Luke Mitchell. 
 
 ## Website
-cryptocobain.com
-jord.io
+https://cryptocobain.com
 
 ## Twitter
-twitter.com/CryptoCobain
+https://twitter.com/CryptoCobain
 
 ## Github
-github.com/jordanfish
-
-## LinkedIn
-linkedin.com/in/jordan-fish-493132149
+https://github.com/jordanfish
 
 ## Tags
 Blockchain, London, Dust, Monzo, Maxcoin, cryptocurrency,
