@@ -11,16 +11,16 @@ Before BlockTower, he worked at the University of Chicago managing its endowment
 He holds a BA in Political Science from the University of Pennsylvania and an MBA from the Booth School of Business at the University of Chicago. He is a CFA charterholder.
 
 ## Website
-thecryptocurrencyinvestor.com
+https://thecryptocurrencyinvestor.com
 
 ## Twitter
-twitter.com/aridavidpaul
+https://twitter.com/AriDavidPaul
 
 ## LinkedIn
-linkedin.com/in/ari-paul-8895a57
+https://www.linkedin.com/in/ari-paul
 
 ## Tags
-Blockchain, New York, Investment
+Blockchain, New York, Investment,
 
 ## Sources
 - forbes.com/sites/apaul/#40e519687df8 
