@@ -13,19 +13,19 @@ In 1998, with Netscape colleague Mitchell Baker, Eich co-founded the Mozilla pro
 Eich holds a BSc in Math and Computer Science from Santa Clara University and an MSc in Computer Science from the University of Illinois.
 
 ## Website
-brendaneich.com
+https://brendaneich.com
 
 ## Twitter
-twitter.com/BrendanEich
+https://twitter.com/BrendanEich
 
 ## Github
-github.com/brendaneich
+https://github.com/brendaneich
 
 ## LinkedIn
-linkedin.com/in/brendaneich
+https://www.linkedin.com/in/brendaneich
 
 ## Tags
-Blockchain, San Francisco, JavaScript, Brave, Javascript, Mozilla, Firefox, Basic Attention Token, Netscape
+Blockchain, San Francisco, JavaScript, Brave, Javascript, Mozilla, Firefox, Basic Attention Token, Netscape,
 
 ## Sources
 - basicattentiontoken.org/faq/#Brave-BAT
