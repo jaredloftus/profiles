@@ -13,10 +13,10 @@ Larsen serves at the board and advisory levels of numerous companies including D
 Larsen holds an MBA from Stanford University and a Bachelor’s degree in Accounting and Finance from San Francisco State University.
 
 ## Twitter
-twitter.com/chrislarsensf
+https://twitter.com/chrislarsensf
 
 ## LinkedIn
-linkedin.com/in/chris-larsen-7721772
+https://www.linkedin.com/in/chris-larsen
 
 ## Tags
 Blockchain, San Francisco, Ripple, Prosper, E-LOAN, 
