@@ -13,13 +13,13 @@ King is the CEO and Founder of Moven, a mobile-centric banking app which provide
 Previously, King worked as Director for E-Business at Deloitte and as lead the Asia division of Modem Media, an interactive marketing services firm. He has also worked with a number of global banks as a strategic advisor.
 
 ## Website
-brettking.com
+http://brettking.com/
 
 ## Twitter
-twitter.com/BrettKing
+https://twitter.com/BrettKing
 
 ## LinkedIn
-linkedin.com/in/brettking
+https://www.linkedin.com/in/brettking
 
 ## Tags
 Blockchain, New York, Breaking Banks, FinTech, Moven, CFSI, Deloitte, Modem Media,
