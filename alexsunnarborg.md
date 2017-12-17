@@ -13,13 +13,13 @@ Currently, Sunnarborg is a founding partner at Tetras Capital, a New York-based 
 Sunnarborg’s research and writing on blockchain investment has been featured in publications including *Fortune, Bloomberg, VentureBeat, MarketWatch*, and *Yahoo! Finance*.
 
 ## Twitter
-twitter.com/alexsunnarborg
+https://twitter.com/alexsunnarborg
 
 ## LinkedIn
-linkedin.com/in/asunnarborg
+https://www.linkedin.com/in/asunnarborg
 
 ## Facebook
-facebook.com/alexandersunnarborg
+https://www.facebook.com/alexandersunnarborg
 
 ## Tags
 Blockchain, Florida, Investment, CoinDesk,
