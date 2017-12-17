@@ -13,13 +13,13 @@ Before joining Digital Asset Holdings in 2015, Masters previously spent 27 years
 She is also involved in a number of organisations focused on gender equality and the fight against breast cancer.
 
 ## Twitter
-twitter.com/blythemasters
+https://twitter.com/blythemasters
 
 ## LinkedIn
-linkedin.com/in/blythemasters
+https://www.linkedin.com/in/blythemasters
 
 ## Tags
-Blockchain, New York, Hyperledger, Digital Asset Holdings, Hyperledger, Linux Foundation
+Blockchain, New York, Hyperledger, Digital Asset Holdings, Hyperledger, Linux Foundation,
 
 ## Sources
 - bitcoinmagazine.com/articles/blythe-masters-digital-asset-holdings-acquires-hyperledger-bits-proof-1435353285
