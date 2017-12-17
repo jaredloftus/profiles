@@ -13,10 +13,10 @@ He chairs the Blockchain Assets Working Group for the Wall Street Blockchain All
 Burniske holds a Bachelor’s degree in Earth Systems from Stanford University. 
 
 ## Twitter
-twitter.com/cburniske
+https://twitter.com/cburniske
 
 ## LinkedIn
-linkedin.com/in/burniske
+https://www.linkedin.com/in/burniske
 
 ## Tags
 Blockchain, New York, Investment, Placeholder Ventures, Union Square Ventures, Wall Street Blockchain Alliance,
