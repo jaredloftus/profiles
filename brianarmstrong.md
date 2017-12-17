@@ -11,13 +11,13 @@ From 2001-2006, Armstrong attended Rice University, where he gained a Bachelors 
 While at Rice, Armstrong founded UniversityTutor, a platform to connect students and tutors. He remained in the role of CEO until launching Coinbase in 2012. In the meantime, he also held positions at Deloitte, as a Consultant in enterprise risk management, and AirBnb, as a Software Engineer. 
 
 ## Twitter
-twitter.com/brian_armstrong
+https://twitter.com/brian_armstrong
 
 ## LinkedIn
-linkedin.com/in/barmstrong
+https://www.linkedin.com/in/barmstrong
 
 ## Tags
-Blockchain, Coinbase, San Francisco, GDAX, UniversityTutor, Deloitte
+Blockchain, Coinbase, San Francisco, GDAX, UniversityTutor, Deloitte,
 
 ## Sources
 - coinbase.com/home
