@@ -13,10 +13,10 @@ Prior to founding Digital Currency Group, Silbert founded SecondMarket, a tradin
 Previously, Silbert was an investment banker at Houlihan Lokey. He holds a BBA in Finance from the Goizueta Business School of Emory University. 
 
 ## Twitter
-twitter.com/barrysilbert
+https://twitter.com/barrysilbert
 
 ## LinkedIn
-linkedin.com/in/barrysilbert
+https://www.linkedin.com/in/barrysilbert
 
 ## Tags
 Blockchain, New York, Investment, Digital Currency Group, DCG, Ripple, BitPay, Coinbase, SecondMarket, Bitcoin Investment Trust,
