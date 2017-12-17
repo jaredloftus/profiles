@@ -17,16 +17,16 @@ From 2010-2013 she was the co-founder and CEO of Affinity China, a private socia
 Lu has a BA in International Relations from Boston University.
 
 ## Website
-christinelu.com
+http://www.christinelu.com
 
 ## Twitter
-twitter.com/christinelu
+https://twitter.com/christinelu
 
 ## LinkedIn
-linkedin.com/in/christineludotcom
+https://www.linkedin.com/in/christineludotcom
 
 ## Tags
-Blockchain, Los Angeles, China, America Innovates, NihaoPay, E3 Capital, China Business Network, Tudou, GMIC Silicon Valley, Affinity China
+Blockchain, Los Angeles, China, America Innovates, NihaoPay, E3 Capital, China Business Network, Tudou, GMIC Silicon Valley, Affinity China,
 
 ## Sources
 - americainnovatesfoundation.com/what-we-do
