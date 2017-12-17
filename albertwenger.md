@@ -21,16 +21,16 @@ Albert Wenger graduated from Harvard College with a degree in Economics and Comp
 continuations.com
 
 ## Twitter
-twitter.com/albertwenger
+https://twitter.com/albertwenger
 
 ## Github
-github.com/albertwenger
+https://github.com/albertwenger
 
 ## LinkedIn
-linkedin.com/albertwenger
+https://www.linkedin.com/in/albertwenger
 
 ## Facebook
-facebook.com/albertwenger
+https://www.facebook.com/albertwenger
 
 ## Tags
 Blockchain, Investment, New York, Blockstack, Coinbase, Clickable, Union Square Ventures,
