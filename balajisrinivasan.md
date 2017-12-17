@@ -13,16 +13,16 @@ Prior to taking the CEO role at 21.co, Srinivasan was a General Partner at ventu
 Srinivasan holds a BS, MS, and PhD in Electrical Engineering and an MS in Chemical Engineering from Stanford University. He also teaches at Stanford, including an online MOOC.
 
 ## Website
-balajis.com
+https://balajis.com
 
 ## Twitter
-twitter.com/balajis
+https://twitter.com/balajis
 
 ## LinkedIn
-linkedin.com/in/balajissrinivasan
+https://www.linkedin.com/in/balajissrinivasan
 
 ## Tags
-Blockchain, San Francisco, 21.co, Counsyl
+Blockchain, San Francisco, 21.co, Counsyl,
 
 ## Sources
 - crunchbase.com/organization/21e6 
