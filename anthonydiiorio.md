@@ -13,13 +13,13 @@ Di Iorio previously created Kryptokit, a secure bitcoin wallet browser extension
 DiIorio launched the second Bitcoin ATM (BTM) in the world, and the first BitAccess machine in Toronto. In 2015, he became a lecturer on the Digital Currencies Masters course at the University of Nicosia in Cyprus.
 
 ## Twitter
-twitter.com/diiorioanthony
+https://twitter.com/diiorioanthony
 
 ## Github
-github.com/adiiorio
+https://github.com/adiiorio
 
 ## LinkedIn
-linkedin.com/in/anthonydiiorio1
+https://www.linkedin.com/in/anthonydiiorio1
 
 ## Tags
 Blockchain, Toronto, Ethereum, Kryptokit, Jaxx, Decentral, Vitalik Buterin, entrepreneur, Blockchain Association of Canada,
