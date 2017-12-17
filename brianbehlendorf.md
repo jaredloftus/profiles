@@ -10,7 +10,10 @@ Behlendorf was a primary developer of the Apache Web server, and a founding memb
 
 Prior to joining the Linux Foundation in 2016, Behlendorf was Managing Director at technology investment firm Mithril Capital Management. Previously, he was Chief Technology Officer of the World Economic Forum, and of CollabNet which he also co-founded.
 
-Behlendorf is a director on the board of a number of technology companies, including Mozilla, Benetech and Electronic Frontier Foundation. 
+Behlendorf is a director on the board of a number of technology companies, including Mozilla, Benetech and Electronic Frontier Foundation,
+
+## Website
+http://brian.behlendorf.com
 
 ## Twitter
 https://twitter.com/brianbehlendorf
