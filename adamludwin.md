@@ -16,13 +16,13 @@ Prior to Chain, Ludwin was a Venture Partner with fintech-focused firm RRE Ventu
 Ludwin holds a B.S. from UC Berkeley and an MBA from Harvard.
 
 ## Twitter
-twitter.com/adamludwin
+https://twitter.com/adamludwin
 
 ## LinkedIn
-linkedin.com/adamludwin
+https://www.linkedin.com/in/adamludwin
 
 ## Facebook
-facebook.com/adamludwin
+https://www.facebook.com/adamludwin
 
 ## Tags
 Blockchain, San Francisco, Chain, Sequence, Visa, NASDAQ, Citi, Blockstream, fintech,
