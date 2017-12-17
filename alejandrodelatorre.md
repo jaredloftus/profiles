@@ -10,17 +10,14 @@ Previously, De La Torre founded SendChat, a messenger app that allowed users to 
 
 De La Torre is based in Amsterdam.
 
-## Website
-blog.btc.com/@bitentrepreneur
-
 ## Twitter
-twitter.com/bitentrepreneur
+https://twitter.com/bitentrepreneur
 
 ## Github
-github.com/AlejandroDeLaTorre
+https://github.com/AlejandroDeLaTorre
 
 ## LinkedIn
-linkedin.com/alejandrodelatorre
+https://www.linkedin.com/in/alejandrodelatorre
 
 ## Tags
 Blockchain, Amsterdam, SendChat, Bitmain, BTC.com,
