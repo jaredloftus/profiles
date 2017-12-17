@@ -13,13 +13,13 @@ Prior to joining the Linux Foundation in 2016, Behlendorf was Managing Director 
 Behlendorf is a director on the board of a number of technology companies, including Mozilla, Benetech and Electronic Frontier Foundation. 
 
 ## Twitter
-twitter.com/brianbehlendorf
+https://twitter.com/brianbehlendorf
 
 ## LinkedIn
-linkedin.com/in/brianbehlendorf
+https://www.linkedin.com/in/brianbehlendorf
 
 ## Tags
-Blockchain, San Francisco, Hyperledger Project, Linux Foundation, Apache, Mozilla, Benetech, Electronic Frontier Foundation
+Blockchain, San Francisco, Hyperledger Project, Linux Foundation, Apache, Mozilla, Benetech, Electronic Frontier Foundation,
 
 ## Sources
 - bitsonblocks.net/2016/12/09/a-gentle-introduction-to-the-hyperledger-project
