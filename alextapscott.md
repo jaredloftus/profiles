@@ -17,13 +17,13 @@ Tapscott is an advisory board member for a number of companies, including nuco, 
 Alex Tapscott served as a research fellow for the Global Solutions Network (GSN) program at the Martin Prosperity Institute at the Rotman School of Management in Toronto. In 2014, he published the white paper ‘A Bitcoin Governance Network’. He is a graduate of Amherst College in Massachusetts and is a CFA charterholder.
 
 ## Twitter
-twitter.com/alextapscott
+https://twitter.com/alextapscott
 
 ## LinkedIn
-linkedin.com/in/alex-tapscott-117638b
+https://www.linkedin.com/in/alex-tapscott
 
 ## Tags
-Blockchain, Toronto, Investment
+Blockchain, Toronto, Investment,
 
 ## Sources
 - bitcoinmagazine.com/articles/nextblock-ceo-alex-tapscott-cancels-plans-go-public-and-will-return-money-investors 
