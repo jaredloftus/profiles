@@ -4,7 +4,7 @@
 Brock Pierce is an entrepreneur and venture capitalist in disruptive technology businesses. He is the co-founder of Blockchain Capital and Block.one, and Chairman of the Bitcoin Foundation.
 
 ## Bio
-An entrepreneur and venture capitalist in disruptive technology businesses, Brock Pierce co-founded Block.one in 2017 amd serves as its Head of Strategy. Block.one, which provides solutions, from strategic planning to product deployment, to bring blockchain to businesses. The company is behind the EOS project to create a new smart contract platform for building decentralized applications, based on the ethereum blockchain. It is raising funds for the project through the distribution of EOS tokens.
+An entrepreneur and venture capitalist in disruptive technology businesses, Brock Pierce co-founded Block.one in 2017 amd serves as its Head of Strategy. Block.one provides solutions, from strategic planning to product deployment, to bring blockchain to businesses. The company is behind the EOS project to create a new smart contract platform for building decentralized applications, based on the ethereum blockchain. It is raising funds for the project through the distribution of EOS tokens.
 
 Before Block.one, Pierce was a co-founder and managing partner of venture capital firm Blockchain Capital, which was set up in 2013. The firm's portfolio includes compamies such as Blockstream, GoCoin, Kraken and Xapo.
 
