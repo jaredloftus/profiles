@@ -13,16 +13,16 @@ He is also Technology Fellow at London-based think tank the Centre for the Study
 He holds a Bachelor’s degree in Physics from the University of Southampton.
 
 ## Website
-www.dgwbirch.com
+http://www.dgwbirch.com/
 
 ## Twitter
-twitter.com/dgwbirch
+https://twitter.com/dgwbirch
 
 ## LinkedIn
-linkedin.com/in/dgwbirch
+https://www.linkedin.com/in/dgwbirch
 
 ## Tags
-Blockchain, United Kingdom, Consult Hyperion
+Blockchain, United Kingdom, Consult Hyperion,
 
 ## Sources
 - crunchbase.com/person/david-birch
