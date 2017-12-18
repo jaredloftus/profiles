@@ -13,13 +13,13 @@ From 2000-2002, Morehead was co-founder and CEO of Atriax, an electronic currenc
 Morehead holds a Bachelor’s degree in Civil Engineering from Princeton University.
 
 ## Twitter
-twitter.com/dan_pantera
+https://twitter.com/dan_pantera
 
 ## LinkedIn
-linkedin.com/in/dmorehead
+https://www.linkedin.com/in/dmorehead
 
 ## Tags
-Blockchain, San Francisco, Pantera Capital, Investment, Bitstamp, Atriax, BitPesa
+Blockchain, San Francisco, Pantera Capital, Investment, Bitstamp, Atriax, BitPesa,
 
 ## Sources
 - linkedin.com/in/dmorehead
