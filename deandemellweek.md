@@ -13,13 +13,13 @@ Since 2005, Demellweek has held a number of positions with international banking
 Demellweek has an MA in Applied Imagination in Creative Industries from Central Saint Martins, University of the Arts London. 
 
 ## Twitter
-twitter.com/deandemellweek
+https://twitter.com/deandemellweek
 
 ## LinkedIn
-linkedin.com/in/deandemellweek
+https://www.linkedin.com/in/deandemellweek
 
 ## Tags
-Blockchain, Paris, FinTech, BNP Paribas, House New Media
+Blockchain, Paris, FinTech, BNP Paribas, House New Media,
 
 ## Sources
 - level39.co/members/mentors/dean-demellweek
