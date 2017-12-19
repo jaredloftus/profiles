@@ -4,7 +4,7 @@
 Dean Demellweek is a digital innovation strategist focused on blockchain technology.
 
 ## Bio
-Dean Demellweek is a digital innovation strategist covering emerging technologies and business model innovation. He is particularly focused on the application of the blockchain technology in transforming business models. 
+Dean Demellweek is a digital innovation strategist covering emerging technologies and business model innovation. He is particularly focused on the application of blockchain technology in transforming business models. 
 
 Demellweek is a member of FinTech London Tech Advocates and a mentor at technology community Level39. He works closely with innovation programs and start-up accelerators where he leads design thinking for innovation workshops.
 
