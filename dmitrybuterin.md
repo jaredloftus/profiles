@@ -4,7 +4,7 @@
 Dmitri Buterin is an entrepreneur, Angel investor and mentor for blockchain startups. He is the co-founder of two organisations supporting blockchain innovation and education.
 
 ## Bio
-Dmitri Buterin is a mentor for blockchain startups and the co-founder of two Toronto-based organisations supporting blockchain innovation and education; Blockgeeks, an online hub for blockchain education and training, and L4 Ventures, a fund and incubator space for blockchain startups. 
+Dmitry Buterin is a mentor for blockchain startups and the co-founder of two Toronto-based organisations supporting blockchain innovation and education; Blockgeeks, an online hub for blockchain education and training, and L4 Ventures, a fund and incubator space for blockchain startups. 
 
 A serial tech entrepreneur and Angel investor, Buterin has invested in a number of startups in the blockchain space including Nuco, an enterprise blockchain platform, and Augur, a decentralised prediction market platform. 
 
