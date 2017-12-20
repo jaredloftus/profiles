@@ -4,7 +4,7 @@
 Fred Ehrsam is a co-founder of digital-asset broker Coinbase. He is a former Goldman Sachs trader.
 
 ## Bio
-Fred Ehrsam co-founded the digital asset broker Coinbase in 2012 with Brian Armstrong. The company handles exchanges of bitcoin, ethereum and litecoin with fiat currency in dozens of countries. Ehrsam currently serves as a board member for the company. Ehrsam is now a board director at Coinbase.
+Fred Ehrsam co-founded the digital asset broker Coinbase in 2012 with Brian Armstrong. The company handles exchanges of bitcoin, ethereum and litecoin with fiat currency in dozens of countries. Ehrsam is now a board director at Coinbase.
 
 He also has experience as the editor of *The Coinbase Blog* and has contributed many pieces to Medium that cover blockchain governance, ethereum, virtual reality, and digital currency. He has been an active member of the site since 2016.
 
