@@ -20,8 +20,8 @@ linkedin.com/in/laurashin
 Blockchain, San Francisco, journalism, Forbes,
 
 ## Sources
-* forbes.com/sites/laurashin/#6784377f4685
-* linkedin.com/in/laurashin/
+- forbes.com/sites/laurashin/#6784377f4685
+- linkedin.com/in/laurashin/
 
 ## Author
 @rplant123
