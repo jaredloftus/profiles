@@ -4,7 +4,7 @@
 Linda Xie is co-founder and Managing Director of crypto investment management company Scalar Capital. She is also an advisor to the 0x project, an open protocol for decentralized exchange on the ethereum blockchain.
 
 ## Bio
-Linda Xie and co-founder Jordan Clifford launched Scalar Capital in September 2017, with Xie serving as the company's CEO. Scalar Capital is a crypto investment management company which specialises in diverse tokens. 
+Linda Xie and co-founder Jordan Clifford launched Scalar Capital in September 2017, with Xie serving as the company's Managing Director. Scalar Capital is a crypto investment management company which specialises in diverse tokens. 
 
 Xie is also an advisor to the 0x project, an open protocol for decentralized exchange on the ethereum blockchain. 
 
