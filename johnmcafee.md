@@ -1,10 +1,12 @@
 # John McAfee
  
 ## Summary
-John McAfee is the CEO of cybersecurity firm MGT Capital Investments. He previously founded antivirus software company McAfee Associates.
+John McAfee is the CEO of cybersecurity firm MGT Capital Investments. He is involved with advising a number of altcoins.
 
 ## Bio
 John McAfee is a computer programmer, businessman, and the founder of the antivirus software company McAfee Associates. He has been the CEO of MGT Capital Investments since May 2016. Since McAfee’s appointment the firm has focused on cybersecurity investment and is also involved in bitcoin mining.
+
+McAfee is involved with and advises a number of altcoin startups, including KWH Coin which also works to lower the cost of renewable energy transactions.
 
 In 2013, McAfee started tech security company Future Tense Central and the DCentral1 app, which helps users control their information and privacy.
 
@@ -21,7 +23,7 @@ whoismcafee.com
 twitter.com/officialmcafee
 
 ## Tags
-Blockchain, Tennessee, bitcoin, McAfee, cybersecurity, MGT Capital Investments, NASA
+Blockchain, Tennessee, bitcoin, McAfee, cybersecurity, MGT Capital Investments, NASA, KWH Coin,
 
 ## Sources
 - abcnews.go.com/US/rise-fall-rise-john-mcafee-tech-pioneer-person/story?id=47346015
