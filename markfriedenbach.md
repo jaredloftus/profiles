@@ -1,7 +1,7 @@
 # Mark Friedenbach
 
 ## Summary
-Mark Friedenbach is a a co-founder of Blockstream. He is a software engineer and independent bitcoin protocol developer. 
+Mark Friedenbach is a co-founder of Blockstream. He is a software engineer and independent bitcoin protocol developer. 
 
 ## Bio
 Mark Friedenbach is a software engineer and independent bitcoin protocol developer, with specialities in blockchain scalability, privacy enhancing technology and issued asset extensions to bitcoin. 
