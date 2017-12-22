@@ -1,5 +1,4 @@
 # Nicolas Bacca
-CTO, Ledger
 
 ## Summary
 Nicolas Bacca is the co-founder and CTO of Ledger. He is also CEO and founder of Ubinity.
