@@ -2,7 +2,7 @@
 CTO, Ledger
 
 ## Summary
-Nicolas Bacca has been the co-founder and CTO of Ledger since 2014 and founded Ubinity in 2012 where he also acts as CEO. He has also acted as CTO for other companies such as Simulity (which he also founded) and Plug-up international.
+Nicolas Bacca is the co-founder and CTO of Ledger. He is also CEO and founder of Ubinity.
 
 ## Bio
 Nicolas Bacca has founded a number of technology companies. In 2014, he co-founded Ledger, a company that specializes in security and infrastructure solutions for cryptocurrencies, and serves as the company's Chief Technology Officer. The company offers products to better protect the safety of cryptocurrency assets with products like the Ledger wallet. Bacca also founded BTChip, the first smartcard based security solution for bitcoin, which is now part of Ledger.
