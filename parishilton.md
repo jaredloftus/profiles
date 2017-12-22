@@ -8,7 +8,7 @@ Paris Hilton is an American socialite and reality TV star. She initially starred
 
 In 2017, Hilton began endorsing ICOs (initial coin offerings). She announced in September 2017 that she was going to be participating in LydianCoin, which is a platform that seeks to combine the blockchain with AI-driven digital marketing and advertising services. LydianCoin stems from a company called Gravity4.
 
-Hilton has also spoken and spent time with those in the business such as former ehtereum COO Stephan Tual. She has posted pictures of their meetings on social media enthusing about “the new millennium of technology.”
+Hilton has also spoken and spent time with those in the business such as former ethereum COO Stephan Tual. She has posted pictures of their meetings on social media enthusing about “the new millennium of technology.”
 
 ## Website
 parishilton.com
