@@ -21,7 +21,7 @@ Chowdhury holds a Masters in Engineering from Tufts University, and an MBA from 
 rajchowdhury.com
 
 ## Twitter
-twitter.com/rajchowdhury?lang=en
+twitter.com/rajchowdhury
 
 ## LinkedIn
 linkedin.com/in/rajchowdhury
