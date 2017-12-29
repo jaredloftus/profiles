@@ -11,16 +11,16 @@ He also has experience as the editor of *The Coinbase Blog* and has contributed 
 Ehrsam acquired an Honors B.S. in Computer Science and Economics from Duke University, then spent a summer researching nanostructures as a Computer Science Undergraduate Research Fellow. In 2010 he moved to New York and spent two years as a trader for Goldman Sachs.
 
 ## Twitter
-twitter.com/FEhrsam
+https://twitter.com/FEhrsam
 
 ## LinedIn
-linkedin.com/in/fredehrsam
+https://www.linkedin.com/in/fredehrsam
 
 ## Facebook
-facebook.com/fehrsam
+https://facebook.com/fehrsam
 
 ## Medium
-medium.com/@FEhrsam
+https://medium.com/@FEhrsam
 
 ## Sources
 -	forbes.com/sites/laurashin/2017/08/10/coinbase-becomes-first-crypto-unicorn-raises-100-million-in-funding-amid-ico-craze/#2bfc07f64090
