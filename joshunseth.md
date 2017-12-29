@@ -14,13 +14,13 @@ Unseth is the Director of Marketing and partner at Alarm Grid, a disruptive home
 junseth.com
 
 ## Twitter
-twitter.com/junseth
+https://twitter.com/junseth
 
 ## Github
-github.com/junseth
+https://github.com/junseth
 
 ## LinkedIn
-linkedin.com/in/junseth/
+https://www.linkedin.com/in/junseth
 
 ## Tags
 Blockchain, Miami, Blockchain Uncensored,
