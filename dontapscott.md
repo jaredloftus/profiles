@@ -15,13 +15,13 @@ Tapscott is the author of a number of books about the digital economy and the ap
 Tapscott has a Bachelor’s degree in Psychology and Statistics from Trent University and a Masters in Education from the University of Alberta. He is an Adjunct Professor at the Rotman School of Management and Chancellor of Trent University, Ontario.
 
 ## Website
-dontapscott.com
+http://dontapscott.com/
 
 ## Twitter
-twitter.com/dtapscott
+https://twitter.com/dtapscott
 
 ## LinkedIn
-linkedin.com/in/dontapscott
+https://www.linkedin.com/in/dontapscott/
 
 ## Tags
 Blockchain, Toronto, Blockchain Research Institute, Blockchain Revolution, Tapscott Group, Alex Tapscott,
