@@ -13,10 +13,10 @@ Previously Xie was based at digital currency platform CoinBase, initially workin
 Xie holds a Bachelor’s degree in Economics from the University of California, San Diego.
 
 ## Twitter
-twitter.com/ljxie
+https://twitter.com/ljxie
 
 ## LinkedIn
-linkedin.com/in/lindaxie
+https://www.linkedin.com/in/lindaxie
 
 ## Tags
 Blockchain, San Francisco, Scalar Capital, investment, ethereum, 0x,
