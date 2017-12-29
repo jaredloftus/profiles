@@ -15,16 +15,16 @@ In 2012, before co-founding ethereum, Lubin moved to Jamaica to work on a set of
 He holds a Bachelor’s degree in Electrical Engineering and Computer Science from Princeton.
 
 ## Twitter
-twitter.com/ethereumJoseph
+https://twitter.com/ethereumJoseph
 
 ## Github
-github.com/jmlubin
+https://github.com/jmlubin
 
 ## LinkedIn
-linkedin.com/in/joseph-lubin-48406489
+https://www.linkedin.com/in/joseph-lubin
 
 ## Tags
-Blockchain, New York, ethereum, ConsenSys
+Blockchain, New York, ethereum, ConsenSys,
 
 ## Sources
 - consensys.net/team
