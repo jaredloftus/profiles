@@ -13,19 +13,19 @@ Vogelsteller is passionate about the creation of single page apps and desktops a
 In his advocation of open-source software, crypto-currencies and various blockchain projects, Vogelsteller has lectured at conferences  on various issues, including possible scalability and privacy solutions of Blockchain, Swarm Integration in Mist, equity tokens and building simple DApps with Meteor. Currently he advises with NeuFund and Protos Fund, both cryptocurrency asset management projects.
 
 ## Website
-frozeman.de/blog
+http://frozeman.de/blog
 
 ## Twitter
-twitter.com/feindura
+https://twitter.com/feindura
 
 ## LinkedIn
-linkedin.com/in/fabian-vogelsteller-46365042/
+https://www.linkedin.com/in/fabian-vogelsteller
 
 ## Github
-github.com/frozeman
+https://github.com/frozeman
 
 ## Facebook
-facebook.com/frozeman
+https://www.facebook.com/frozeman
 
 ## Sources
 - blog.ethereum.org/author/fabian
