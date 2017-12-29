@@ -26,7 +26,7 @@ https://twitter.com/gavinandresen
 https://www.linkedin.com/in/gavin-andresen
 
 ## LinkedIn
-linkedin.com/in/gavin-andresen-6987971
+https://www.linkedin.com/in/gavin-andresen
 
 ## Tags
 Blockchain, Massachusetts, Bitcoin, ClearCoin, Bitcoin Foundation, Random Sanity Project,
