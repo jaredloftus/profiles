@@ -11,13 +11,13 @@ Maxwell has been a bitcoin core developer since 2011 and an active reviewer of p
 A long-time free software developer, Maxwell previously worked for a number of years at the Mozilla Foundation. He is an advocate for open-source and cryptography, and was an early contributor to Wikipedia.
 
 ## Twitter
-twitter.com/nullc_
+https://twitter.com/nullc_
 
 ## Github
-github.com/gmaxwell
+https://github.com/gmaxwell
 
 ## Tags
-Blockchain, Blockstream, Bitcoin, Sidechain, CoinJoin, Mozilla, Wikipedia
+Blockchain, Blockstream, Bitcoin, Sidechain, CoinJoin, Mozilla, Wikipedia,
 
 ## Sources
 - blockstream.com/team/greg-maxwell
