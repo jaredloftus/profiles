@@ -11,13 +11,13 @@ Wong previously worked for digital currencies news site CoinDesk, initially as a
 He holds a Bachelor’s degree in Journalism from New York University and a Masters in Interactive Media from Goldsmiths College, University of London.
 
 ## Twitter
-twitter.com/joonian
+https://twitter.com/joonian
 
 ## LinkedIn
-linkedin.com/in/joonian
+https://www.linkedin.com/in/joonian
 
 ## Tags
-Blockchain, London, Quartz, CoinDesk
+Blockchain, London, Quartz, CoinDesk,
 
 ## Sources
 * linkedin.com/in/joonian
