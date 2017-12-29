@@ -13,22 +13,22 @@ Palmer left Dogecoin in 2015 and continues to use his YouTube video series to at
 A graduate of Newcastle University in Australia, Palmer works as a product manager for creative cloud engagement growth at Adobe. He previously held a number of marketing roles with the software company. 
 
 ## Website
-ummjackson.com
+http://ummjackson.com/
 
 ## Twitter
-twitter.com/ummjackson
+https://twitter.com/ummjackson
 
 ## Github
-github.com/ummjackson
+https://github.com/ummjackson
 
 ## LinkedIn
-linkedin.com/in/jacksonpalmer
+https://www.linkedin.com/in/jacksonpalmer
 
 ## Reddit
-reddit.com/user/ummjackson
+https://www.reddit.com/user/ummjackson
 
 ## Tags
-Blockchain, San Francisco, Dogecoin
+Blockchain, San Francisco, Dogecoin,
 
 ## Sources
 - coindesk.com/dogecoin-is-the-joke-that-wouldnt-die-finally-dying
@@ -37,4 +37,3 @@ Blockchain, San Francisco, Dogecoin
 
 ## Author
 @rplant123
-
