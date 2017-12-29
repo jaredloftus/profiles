@@ -15,16 +15,16 @@ Previously, she worked as Vice President of Growth and Partnerships, UK & EMEA, 
 Biggs holds a Masters in European Business studies from ESCP Europe and a Bachelor’s degree in Architecture from McGill University.
 
 ## Website
-dianabiggs.com
+https://dianabiggs.com/
 
 ## Twitter
-twitter.com/dianacbiggs
+https://twitter.com/DianacBiggs
 
 ## Github
-github.com/dianacbiggs
+https://github.com/dianacbiggs
 
 ## LinkedIn
-linkedin.com/in/dianabiggs
+https://www.linkedin.com/in/dianabiggs/
 
 ## Tags
 Blockchain, London, Proof of Purchase, philanthropy, HSBC, Angel Academe, 
