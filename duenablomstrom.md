@@ -15,13 +15,13 @@ Previously, Blomstrom held senior sales, marketing and strategy positions at var
 She has a dual MBA and Masters in Foreign Science from Georgetown University McDonough School of Business and a Masters in Psychology from New York University. 
 
 ## Website
-duenablomstrom.com
+https://duenablomstrom.com
 
 ## Twitter
-twitter.com/DuenaBlomstrom
+https://twitter.com/duenablomstrom
 
 ## LinkedIn
-linkedin.com/in/duenablomstrom
+https://www.linkedin.com/in/duenablomstrom
 
 ## Tags
 Blockchain, London, emotional banking, Temenos MarketPlace, FinTech solutions, Temenos, Meniga, Techstars, Startupbootcamp,
