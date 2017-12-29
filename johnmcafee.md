@@ -17,10 +17,10 @@ Prior to McAfee Associates, McAfee was employed as a programmer by NASA's Instit
 McAfee has been surrounded by controversy in recent years, after being accused of the murder of an American man in Belize. He was never charged. In 2016 he ran to become the Libertarian Party candidate for president. 
 
 ## Website
-whoismcafee.com
+http://www.whoismcafee.com
 
 ## Twitter
-twitter.com/officialmcafee
+https://twitter.com/officialmcafee
 
 ## Tags
 Blockchain, Tennessee, bitcoin, McAfee, cybersecurity, MGT Capital Investments, NASA, KWH Coin,
