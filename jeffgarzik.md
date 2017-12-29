@@ -16,16 +16,16 @@ Jeff Garzik serves on the board of Coin Center, and the advisory board of BitFur
 Garzik is based in Atlanta, Georgia.
 
 ## Twitter
-twitter.com/jgarzik
+https://twitter.com/jgarzik
 
 ## Github
-github.com/jgarzik
+https://github.com/jgarzik
 
 ## LinkedIn
-linkedin.com/in/jeffgarzik
+https://www.linkedin.com/in/jeffgarzik
 
 ## Facebook
-facebook.com/jgarzik
+https://facebook.com/jgarzik
 
 ## Tags
 Blockchain, Bitcoin, Linux kernal, Atlanta,
@@ -37,4 +37,3 @@ Blockchain, Bitcoin, Linux kernal, Atlanta,
 
 ## ProfileAuthor
 @rplant123
-
