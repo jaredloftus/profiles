@@ -13,10 +13,10 @@ In June 2017, Haun joined the board of directors at digital currency platform Co
 Haun has also investigated and prosecuted corporate compliance failures, and negotiated criminal resolutions with Fortune 100 tech and telecom companies. She is a Lecturer at Stanford University Law School, from which she also graduated in 2000. 
 
 ## Twitter
-twitter.com/katie_haun
+https://twitter.com/katie_haun
 
 ## LinkedIn
-linkedin.com/in/kathryn-haun-0791456
+https://www.linkedin.com/in/kathryn-haun
 
 ## Tags
 Blockchain, San Francisco, Law, Silk Road, Coinbase,
