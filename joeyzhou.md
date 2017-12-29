@@ -15,16 +15,16 @@ Zhou has also founded some startups such as MagicTesting, which offered automate
 He holds a Bachelor’s degree in Computer Science and Psychology from Georgia Institute of Technology. 
 
 ## Twitter
-twitter.com/josephzhou
+https://twitter.com/josephzhou
 
 ## Github
-github.com/josephyzhou
+https://github.com/josephyzhou
 
 ## LinkedIn
-linkedin.com/in/josephyzhou/
+https://www.linkedin.com/in/josephyzhou
 
 ## Tags
-Blockchain, San Francisco, Ethereum, Boomerang Wallet, MagicTesting
+Blockchain, San Francisco, Ethereum, Boomerang Wallet, MagicTesting,
 
 ## Sources
 - angel.co/joe-zhou
