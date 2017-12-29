@@ -13,16 +13,16 @@ Lombrozo previously founded digital currency development firms RingCoin and Coin
 Lombrozo studied engineering at UCLA and UCSD and went on to pursue independent studies in computer science, physics and mathematics.
 
 ## Twitter
-twitter.com/eric_lombrozo
+https://twitter.com/eric_lombrozo
 
 ## Github
-github.com/CodeShark
+https://github.com/CodeShark
 
 ## LinkedIn
-linkedin.com/in/ericlombrozo/
+https://www.linkedin.com/in/ericlombrozo
 
 ## Tags
-Blockchain, San Diego, bitcoin, Ciphrex, RingCoin, CoinSurge, Ethereum
+Blockchain, San Diego, bitcoin, Ciphrex, RingCoin, CoinSurge, Ethereum,
 
 ## Sources
 - ciphrex.com/team
