@@ -15,19 +15,19 @@ Heilman is a research fellow with the DAGlabs project (previously Paragon Founda
 Previously, he worked as a software developer at The Broad Institute, and start-ups Pubget and Jumptap.
 
 ## Website
-ethanheilman.tumblr.com
+http://ethanheilman.tumblr.com
 
 ## Twitter
-twitter.com/ethan_heilman
+https://twitter.com/Ethan_Heilman
 
 ## Github
-github.com/EthanHeilman
+https://github.com/EthanHeilman
 
 ## LinkedIn
-linkedin.com/in/ethan-heilman-39896934/
+https://www.linkedin.com/in/ethan-heilman
 
 ## Tags
-Blockchain, Tumblebit, Commonwealth Crypto, DAGlabs, Boston, DAGlabs project
+Blockchain, Tumblebit, Commonwealth Crypto, DAGlabs, Boston, DAGlabs project,
 
 ## Sources
 - coindesk.com/spectre-creators-seek-vc-backing-for-blockchain-free-cryptocurrency
