@@ -13,13 +13,13 @@ Voorhees is currently the founder and CEO of ShapeShift, an instant exchange for
 Voorhees has a Bachelor’s degree in Business Leadership and Political Economics from the University of Puget Sound, Washington. 
 
 ## Twitter
-twitter.com/ErikVoorhees
+https://twitter.com/ErikVoorhees
 
 ## LinkedIn
-linkedin.com/in/erikvoorhees
+https://www.linkedin.com/in/erikvoorhees
 
 ## Tags
-Blockchain, Switzerland, entrepreneur, ShapeShift, Coinapult, Bitcoin, Pacabell
+Blockchain, Switzerland, entrepreneur, ShapeShift, Coinapult, Bitcoin, Pacabell,
 
 ## Sources
 - http://bitcoinist.com/shapeshift-raises-525k-reveals-mysterious-creator
