@@ -17,19 +17,19 @@ In 1997, he co-founded his first business, financial software reseller and consu
 Buterin has been based in Toronto since 1999 and has three children. His son, Vitalik, is the creator of Ethereum.
 
 ## Website
-buterin.com
+http://www.buterin.com/
 
 ## Twitter
-twitter.com/blockgeekdima
+https://twitter.com/blockgeekdima
 
 ## LinkedIn
-linkedin.com/in/chiefapricot
+https://www.linkedin.com/in/chiefapricot
 
 ## Facebook
-facebook.com/buterin
+https://www.facebook.com/buterin
 
 ## Tags
-Blockchain, Toronto, Vitalik Buterin, Blockgeeks, L4, ethereum, investment, L4 Ventures, Nuco, Augur, Wild Apricot
+Blockchain, Toronto, Vitalik Buterin, Blockgeeks, L4, ethereum, investment, L4 Ventures, Nuco, Augur, Wild Apricot,
 
 ## Sources
 - blockgeeks.com/about
