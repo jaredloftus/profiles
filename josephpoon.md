@@ -11,13 +11,13 @@ The Lightning Network uses an offline channel separate from the blockchain to ma
 As of August 2017, Poon is working with ethereum-cofounder Vitalik Buterin on the Plasma project. Plasma proposes a scalability solution for the ethereum platform, using a network of child blockchains to offload transaction and computation load from the main net. It was first implemented as part of OmiseGo network and digital wallet framework in 2017.
 
 ## Twitter
-twitter.com/jcp
+https://twitter.com/jcp
 
 ## Github
-github.com/josephpoon
+https://github.com/josephpoon
 
 ## Tags
-Blockchain, San Francisco, Lightning network, Plasma, bitcoin, ethereum, OmiseGo
+Blockchain, San Francisco, Lightning network, Plasma, bitcoin, ethereum, OmiseGo,
 
 ## Sources
 - coinour.com/index.php/the-founder-of-bitcoin-lightning-network-joseph-poon-visited-haobtc
