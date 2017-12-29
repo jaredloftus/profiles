@@ -12,20 +12,17 @@ Previously, D’Angelo was a cryptography and finance consultant. He has also sp
 
 D’Angelo has a Masters in Electrical Engineering and worked as a design engineer for NASA in the 1990s developing electronics for the WIND spacecraft. 
 
-## Website
-youtube.com/channel/UCgo7FCCPuylVk4luP3JAgVw
-
 ## Twitter
-twitter.com/jamesgdangelo
+https://twitter.com/JamesGDAngelo
 
 ## Github
-github.com/wobine
+https://github.com/wobine
 
 ## LinkedIn
-linkedin.com/in/james-d-angelo-15237780
+https://www.linkedin.com/in/james-d-angelo
 
 ## Tags
-Blockchain, Washington DC, World Bitcoin Network 
+Blockchain, Washington DC, World Bitcoin Network,
 
 ## Sources
 - crypto.stackexchange.com/users/12632/james-dangelo
