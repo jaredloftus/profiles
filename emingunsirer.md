@@ -15,19 +15,19 @@ Sirer acts as the Blockchain Advisor for the WeTrust project, which aims to prov
 He holds a PhD in Computer Science from the University of Washington and a Bachelor’s degree in Computer Science from Princeton.
 
 ## Website
-hackingdistributed.com
+http://hackingdistributed.com/
 
 ## Twitter
-twitter.com/el33th4xor
+https://twitter.com/el33th4xor
 
 ## Github
-github.com/el33th4x0r
+https://github.com/el33th4x0r
 
 ## LinkedIn
-linkedin.com/in/emin-gun-sirer-0a921a4/
+https://www.linkedin.com/in/emin-gun-sirer
 
 ## Tags
-Blockchain, New York, IC3, Karma, Bitcoin, Falcon, WeTrust, Ethereum
+Blockchain, New York, IC3, Karma, Bitcoin, Falcon, WeTrust, Ethereum,
 
 ## Sources
 - blog.wetrust.io/an-interview-with-emin-g%C3%BCn-sirer-wetrust-blockchain-advisor-62b7e532773d
