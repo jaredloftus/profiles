@@ -13,13 +13,13 @@ Prior to founding Programming Blockchain, Song was a principal architect at fint
 Song holds a Bachelor's degree in Mathematics grad from the University of Michigan. He also spent a semester studying at the Technical University in Budapest. 
 
 ## Twitter
-twitter.com/jimmysong 
+https://twitter.com/jimmysong
 
 ## LinkedIn
-linkedin.com/in/jimmysong
+https://www.linkedin.com/in/jimmysong
 
 ## Github
-github.com/jimmysong
+https://github.com/jimmysong
 
 ## Sources
 - coindesk.com/author/jimmysong
