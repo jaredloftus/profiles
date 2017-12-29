@@ -14,19 +14,19 @@ Hosp was also a professional kite surfer for ten years and one of the main autho
 He has spoken at several conferences including the Australian Payment Summit, Blockchain Conference in Abu Dhabi, and the Blockchain & Cryptocurrency Summit in Singapore. 
 
 ## Website
-julianhosp.com
+https://www.julianhosp.com
 
 ## Twitter
-twitter.com/julianhosp
+https://twitter.com/julianhosp
 
 ## LinkedIn
-linkedin.com/in/julianhosp
+https://www.linkedin.com/in/julianhosp
 
 ## Facebook
-facebook.com/julianhosp
+https://www.facebook.com/julianhosp
 
 ## YouTube
-youtube.com/c/JulianHospBusiness
+https://youtube.com/c/JulianHospBusiness
 
 ## Tags
 Blockchain, TenX, cryptocurrency, bitcoin, 
