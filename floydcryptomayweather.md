@@ -9,10 +9,10 @@ In 2017, former professional boxer Floyd Mayweather promoted a number of initial
 After winning a number of Golden Gloves competitions as an amateur boxer, Mayweather turned professional in 1996, competing until 2007 and again from 2009-2015. He made a one-fight comeback in 2017, which was the background to his ICO promotions. He is one of the highest-earning sports personalities of all time.
 
 ## Twitter
-twitter.com/FloydMayweather
+https://twitter.com/FloydMayweather
 
 ## Tags
-Blockchain, Las Vegas, Marketing, ICO, Initial Coin Offerings, Crypto Media Group
+Blockchain, Las Vegas, Marketing, ICO, Initial Coin Offerings, Crypto Media Group,
 
 ## Sources
 - biography.com/people/floyd-mayweather-507718
