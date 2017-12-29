@@ -13,10 +13,10 @@ Finney was the second developer to work on the PGP software system after founder
 Finney was diagnosed with ALS in 2009 and was wheelchair-bound for the last few years of his life. He died in 2014 at the age of 58.
 
 ## Github
-https://github.com/NakamotoInstitute/RPOW
+https://github.com/NakamotoInstitute
 
 ## Tags
-Blockchain, RPOW, bitcoin, Satoshi Nakamoto, PGP, CypherPunks
+Blockchain, RPOW, bitcoin, Satoshi Nakamoto, PGP, CypherPunks,
 
 ## Sources
 - bitcointalk.org/index.php?topic=155054.0 
