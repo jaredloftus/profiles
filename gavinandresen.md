@@ -17,19 +17,19 @@ Andresen previously created bitcoin escrow service ClearCoin, which closed in 20
 He holds a Bachelor’s degree in Computer Science from Princeton University. 
 
 ## Website
-gavinandresen.ninja
+http://gavinandresen.ninja
 
 ## Twitter
-twitter.com/gavinandresen
+https://twitter.com/gavinandresen
 
 ## Github
-github.com/gavinandresen
+https://www.linkedin.com/in/gavin-andresen
 
 ## LinkedIn
 linkedin.com/in/gavin-andresen-6987971
 
 ## Tags
-Blockchain, Massachusetts, Bitcoin, ClearCoin, Bitcoin Foundation, Random Sanity Project
+Blockchain, Massachusetts, Bitcoin, ClearCoin, Bitcoin Foundation, Random Sanity Project,
 
 ## Sources
 - bitcointalk.org/?topic=5726.0
