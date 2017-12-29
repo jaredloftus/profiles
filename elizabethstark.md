@@ -15,7 +15,7 @@ Stark previously taught at Stanford and Yale University about the future of the 
 Stark holds a Joint Degree from Harvard and was a researcher at the Harvard Berkman Center for Internet & Society.
 
 ## Twitter
-twitter.com/starkness
+https://twitter.com/starkness
 
 ## Tags
 Blockchain, San Francisco, Lightning, Coin Center, SOPA, PIPA, smart contracts,
