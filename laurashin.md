@@ -11,10 +11,10 @@ Shin has been a contributor to Forbes since 2013, and has written for a number o
 A graduate of Colombia University’s Science Journalism program, Shin also holds a Bachelor’s degree in Modern Thought and Literature from Stanford University. 
 
 ## Twitter
-twitter.com/laurashin
+https://twitter.com/laurashin
 
 ## LinkedIn
-linkedin.com/in/laurashin
+https://www.linkedin.com/in/laurashin
 
 ## Tags
 Blockchain, San Francisco, journalism, Forbes,
