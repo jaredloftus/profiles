@@ -17,16 +17,16 @@ Buchman has been a speaker for Blockchain Workshops and the Digital Banking Lead
 He holds a Bachelor of Science from the University of Guelph in Ontario, Canada and ran for Member of Parliament with the Libertarian Party in Canada’s 2015 federal election.
 
 ## Twitter
-twitter.com/buchmanster
+https://twitter.com/buchmanster
 
 ## Github
-github.com/ebuchman
+https://github.com/ebuchman
 
 ## LinkedIn
-linkedin.com/in/ethan-buchman-10b34944
+https://www.linkedin.com/in/ethan-buchman
 
 ## Tags
-Blockchain, Tendermint, Cosmos, Guelph, CoinCulture CryptoConsulting, Monax
+Blockchain, Tendermint, Cosmos, Guelph, CoinCulture CryptoConsulting, Monax,
 
 ## Sources
 - digitalmediasummit.ca/wp-content/plugins/cmw-speakers/speaker_details.php?id=2659 
