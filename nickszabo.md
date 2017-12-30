@@ -17,10 +17,10 @@ In 2017, Szabo and former Stanford engineer Elaine Ou introduced a working metho
 It has been speculated that Szabo could be the person behind the Satoshi Nakamoto pseudonym.
 
 ## Website
-unenumerated.blogspot.ca
+http://unenumerated.blogspot.ca
 
 ## Twitter
-twitter.com/NickSzabo4
+https://twitter.com/NickSzabo4
 
 ## Tags
 Blockchain, bitcoin, bit gold, smart contracts, Vauraum, Mirror, Satoshi Nakamoto,
