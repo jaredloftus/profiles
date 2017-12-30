@@ -13,7 +13,7 @@ Carlson-Wee emailed his thesis to CoinBase where he then earned a job. He worked
 Carlson-Wee has been living on bitcoin as much as he can for years. Predicting that the digital currency was going to expand, he made the switch in 2012 to get a jump on the market early. 
 
 ## LinkedIn
-linkedin.com/in/olafcw/
+https://www.linkedin.com/in/olafcw
 
 ## Tags
 Blockchain, Polychain, Cryptographic Financial, bitcoin, investment,
