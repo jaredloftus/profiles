@@ -13,10 +13,10 @@ He previously worked for a company called GSračunalniki for nearly three years 
 He has spoken at several conferences including TechCrunch, Bitcoin Foundation, and FundForum International.
 
 ## Twitter
-twitter.com/nejc_kodric
+https://twitter.com/nejc_kodric
 
 ## LinkedIn
-linkedin.com/in/nejc-kodri%C4%8D-29922747
+https://www.linkedin.com/in/nejc-kodrič
 
 ## Tags
 Blockchain, Bitstamp, bitcoin, cryptocurrency, Bitstamp,
