@@ -11,19 +11,19 @@ Previously, Dashjr was involved in developing a number of different peer-to-peer
 He has also volunteered as an editor at *Bitcoin Magazine*.
 
 ## Website
-luke.dashjr.org
+https://luke.dashjr.org
 
 ## Twitter
-twitter.com/lukedashjr
+https://twitter.com/lukedashjr
 
 ## Github
-github.com/luke-jr
+https://github.com/luke-jr
 
 ## LinkedIn
-linkedin.com/in/lukedashjr
+https://www.linkedin.com/in/lukedashjr
 
 ## Reddit
-reddit.com/user/luke-jr
+https://www.reddit.com/user/luke-jr
 
 ## Tags
 Blockchain, Florida, bitcoin, BFGMiner, Eligius, Eloipool,
