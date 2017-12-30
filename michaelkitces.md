@@ -13,13 +13,13 @@ In 2004, he helped to co-found NexGen, a community group for young financial pla
 Kitces studied Psychology at Bates College in Maine. He also holds a Masters in Financial Planning from The American College and a Masters in Taxation from the University of Tulsa.
 
 ## Website
-kitces.com
+https://www.kitces.com
 
 ## Twitter
-twitter.com/MichaelKitces
+https://twitter.com/MichaelKitces
 
 ## LinkedIn
-linkedin.com/in/michaelkitces
+https://www.linkedin.com/in/michaelkitces
 
 ## Tags
 Blockchain, Washington DC, finance,
