@@ -15,13 +15,13 @@ Before founding Overstock, Byrne served as Chairman, President and CEO of manufa
 Byrne has a Bachelor's degree in Chinese Studies and Philosophy from Dartmouth and a Masters in Philosophy from the University of Cambridge. He earned his PhD from Stanford University, where he also worked as a teaching fellow.
 
 ## Twitter
-twitter.com/overstockceo
+https://twitter.com/OverstockCEO
 
 ## LinkedIn
-linkedin.com/in/patrick-m-byrne
+https://www.linkedin.com/in/patrick-m-byrne
 
 ## Reddit
-reddit.com/user/PatrickByrneOverstoc
+https://reddit.com/user/PatrickByrneOverstoc
 
 ## Tags
 Blockchain, Overstock, bitcoin, naked short selling, tZero, Bitt,
