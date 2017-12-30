@@ -13,16 +13,16 @@ Previously, Friedenbach worked as an Application Developer at NASA-Ames Research
 He has a Bachelor’s degree in Engineering Physics from Santa Clara University, where he also worked as a technical admin to the physics computation lab.
 
 ## Twitter
-twitter.com/markfriedenbach
+https://twitter.com/markfriedenbach
 
 ## Github
-github.com/maaku
+https://github.com/maaku
 
 ## LinkedIn
-linkedin.com/in/markfriedenbach/
+https://www.linkedin.com/in/markfriedenbach
 
 ## Tags
-Blockchain, California, bitcoin, Blockstream
+Blockchain, California, bitcoin, Blockstream,
 
 ## Sources
 - blockstream.com/team/mark-friedenbach
