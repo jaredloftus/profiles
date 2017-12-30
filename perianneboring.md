@@ -13,13 +13,13 @@ Boring began her career as a legislative analyst in the U.S. House of Representa
 She holds a Bachelor’s degree in Business Administration and Economics from the University of Florida. 
 
 ## Twitter
-twitter.com/PerianneDC
+https://twitter.com/PerianneDC
 
 ## LinkedIn
-linkedin.com/in/perianne-boring-43363991
+https://www.linkedin.com/in/perianne-boring
 
 ## Tags
-Blockchain, Washington DC, policy, Chamber of Digital Commerce
+Blockchain, Washington DC, policy, Chamber of Digital Commerce,
 
 ## Sources
 - digitalchamber.org/about
