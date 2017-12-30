@@ -15,13 +15,13 @@ Andreessen serves on the board of a number of Andreessen Horowitz portfolio comp
 Andreessen holds a Bachelor's degree in Computer Science from the University of Illinois at Urbana-Champaign.
 
 ## Website
-blog.pmarca.com
+http://blog.pmarca.com
 
 ## Twitter
-twitter.com/pmarca
+https://twitter.com/pmarca
 
 ## Tags
-Blockchain, California, bitcoin, investment, Mosaic, Netscape, Metastable, Loudcloud
+Blockchain, California, bitcoin, investment, Mosaic, Netscape, Metastable, Loudcloud,
 
 ## Sources
 - a16z.com/author/marc-andreessen
