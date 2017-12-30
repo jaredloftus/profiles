@@ -13,19 +13,19 @@ Narula completed her PhD and Masters degrees in Computer Science at MIT, researc
 While working on her PhD, Narula helped to relaunch the news aggregator Digg. Previously, she spent seven years as a senior software engineer at Google, where she designed Blobstore, a system for storing and serving petabytes of immutable data, and worked on Native Client, a system for running native code securely through a browser.
 
 ## Website
-nehanarula.org
+http://nehanarula.org
 
 ## Twitter
-twitter.com/neha
+https://twitter.com/neha
 
 ## Github
-github.com/narula
+https://github.com/narula
 
 ## LinkedIn
-linkedin.com/in/nnarula
+https://www.linkedin.com/in/nnarula
 
 ## Tags
-Blockchain, Massachusetts, Digital Currency Initiative, Digg, Blobstore
+Blockchain, Massachusetts, Digital Currency Initiative, Digg, Blobstore,
 
 ## Sources
 - joi.ito.com/weblog/2016/09/18/neha-narula-res.html
