@@ -15,16 +15,16 @@ Before Blockstream, Wuille worked as a Site Reliability Engineer at Google.
 He holds a Ph.D. in Computer Science, focused on programming language design, from the University of Leuven in Belgium. 
 
 ## Website
-pieterwuillefacts.com
+http://pieterwuillefacts.com
 
 ## Twitter
-twitter.com/pwuille
+https://twitter.com/pwuille
 
 ## Github
-github.com/sipa
+https://github.com/sipa
 
 ## LinkedIn
-linkedin.com/in/pieterwuille
+https://www.linkedin.com/in/pieterwuille
 
 ## Tags
 Blockchain, Switzerland, blockchain, Blockstream, Segregated Witness, SegWit,
