@@ -1,7 +1,7 @@
 # William Mougayar
 
 ## Summary
-Author, speaker, and entrepreneur William Mougayar has been educating businesspeople for years on cryptocurrency, blockchains, and the token-based currency. He is also the producer and host of The Token Summit.
+Author, speaker, and entrepreneur William Mougayar educates businesspeople on cryptocurrencies. He is also the producer and host of The Token Summit.
 
 ## Bio
 Entrepreneur William Mougayar is the author of *The Business Blockchain: Promise, Practice, and Application of the Next Internet Technology* (2016) and founder of Startup Management, a blog designed to help businesses grow and become successful. The blog features advice pieces on aspects of start-up business including marketing, venture capital and growth. It also contains a number of posts on blockchain and cryptocurrencies.
