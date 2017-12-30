@@ -13,16 +13,16 @@ He has previously been involved with bitcoin startups Coinkite and DarkWallet.
 Todd has a fine arts degree focused on the intersection of art and technology. He spent five years in analog electronics design in a geophysics sensing startup, and has also worked in embedded systems development and conventional programming experience.
 
 ## Website
-petertodd.org
+https://petertodd.org
 
 ## Twitter
-twitter.com/petertoddbtc
+https://twitter.com/petertoddbtc
 
 ## Github
-github.com/petertodd
+https://github.com/petertodd
 
 ## Tags
-Blockchain, bitcoin, Chaincode Labs
+Blockchain, bitcoin, Chaincode Labs,
 
 ## Sources
 - blog.coinkite.com/post/85842528071/peter-todd-joins-coinkite-as-chief-naysayer
