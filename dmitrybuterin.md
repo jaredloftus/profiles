@@ -1,7 +1,7 @@
 # Dmitry Buterin
 
 ## Summary
-Dmitri Buterin is an entrepreneur, Angel investor and mentor for blockchain startups. He is the co-founder of two organisations supporting blockchain innovation and education.
+Dmitry Buterin is an entrepreneur, Angel investor and mentor for blockchain startups. He is the co-founder of two organisations supporting blockchain innovation and education.
 
 ## Bio
 Dmitry Buterin is a mentor for blockchain startups and the co-founder of two Toronto-based organisations supporting blockchain innovation and education; Blockgeeks, an online hub for blockchain education and training, and L4 Ventures, a fund and incubator space for blockchain startups. 
