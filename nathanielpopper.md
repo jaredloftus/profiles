@@ -13,13 +13,13 @@ He has written a book about the history of bitcoin and virtual currencies, title
 Popper is a graduate of Harvard University. 
 
 ## Website
-nathanielpopper.com
+http://www.nathanielpopper.com
 
 ## Twitter
-twitter.com/nathanielpopper
+https://twitter.com/nathanielpopper
 
 ## LinkedIn
-linkedin.com/in/nathaniel-popper-36529a5
+https://www.linkedin.com/in/nathaniel-popper
 
 ## Tags
 Blockchain, San Francisco, New York Times, Los Angeles Times, The Format,
