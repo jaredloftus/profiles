@@ -1,7 +1,7 @@
 # Jimmy Song
 
 ## Summary
-Jimmy Song is a developer an early adopter of bitcoin. He teaches about blockchain development and writes about cryptocurrencies.
+Jimmy Song is a developer and early adopter of bitcoin. He teaches about blockchain development and writes about cryptocurrencies.
 
 ## Bio
 Austin-based entrepreneur Jimmy Song is an early adopter of bitcoin, committed to teaching about blockchain and growing the presence of developers in the bitcoin community. He is the creator of the interactive seminar Programming Blockchain, which provides developers with the tools to contribute to the bitcoin ecosystem. 
