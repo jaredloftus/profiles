@@ -1,10 +1,10 @@
 # Tuur Demeester
 
 ## Summary
-Tuur Demeester is an investor and blockchain commentator. He is the Editor-in-Chief of Adamant Research.
+Tuur Demeester is an investor and blockchain commentator. He is the Editor in Chief of Adamant Research.
 
 ## Bio
-Tuur Demeester is the Editor-in-Chief of Adamant Research, a financial and economic research firm focused primarily on bitcoin and other cryptocurrencies. He is also an investor and commentator on developments in the blockchain space.
+Tuur Demeester is the Editor in Chief of Adamant Research, a financial and economic research firm focused primarily on bitcoin and other cryptocurrencies. He is also an investor and commentator on developments in the blockchain space.
 
 In 2011, Demeester launched an investment newsletter, *MacroTrends*, eventually passing the project onto a successor in 2013. He was also an Editor at wealth management firm Goldonomic.
 
