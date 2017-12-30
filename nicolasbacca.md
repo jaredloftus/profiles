@@ -13,13 +13,13 @@ He has previous experience as a software engineer at Atos and as a software engi
 He is also a computer science engineer who has experience with various fields including smartcard technologies and coding. In addition to founding several companies Bacca has also helped develop OS for smartcards, software, and hardware. 
 
 ## Twitter
-twitter.com/btchip
+https://twitter.com/btchip
 
 ## Github
-github.com/btchip
+https://github.com/btchip
 
 ## LinkedIn
-linkedin.com/in/nbasim
+https://www.linkedin.com/in/nbasim
 
 ## Tags
 Blockchain, Ledger, BTChip, Ledger Wallet, Ubinity, Simulity
