@@ -1,10 +1,10 @@
 # Fabian Vogelsteller
 
 ## Summary
-Fabian Vogelsteller is a lead DApp developer at Ethereum. His most known project now is the ERC-20 Token Standard, conceived together with Vitalik Buterin.
+Fabian Vogelsteller is lead DApp developer at Ethereum. His most known project is the ERC-20 Token Standard, conceived together with Vitalik Buterin.
 
 ## Bio
-Based in Berlin, Fabian Vogelsteller is a lead DApp developer at Ethereum, working on and building some of Ethereum’s most well-known projects including Mist Browser, the Ethereum Wallet, and Web3. js, the JavaScript library you use to communicate to your local node in a distributed ledger. He came on board at Ethereum to help realize these projects and to explore the full potential of blockchain in cryptocurrency and beyond. Perhaps Vogelsteller’s most known project now is the ERC-20 Token Standard, conceived together with Vitalik Buterin.
+Based in Berlin, Fabian Vogelsteller is lead DApp developer at Ethereum. He is building some of Ethereum’s most well-known projects including Mist Browser, the Ethereum Wallet, and Web3.js, the JavaScript library you use to communicate to your local node in a distributed ledger. Perhaps Vogelsteller’s best known project is the ERC-20 Token Standard, conceived together with Vitalik Buterin. He came on board at Ethereum to explore the full potential of blockchain in cryptocurrency and beyond. 
 
 Previous employment included TunedIn Media and over 12 years as a freelance web developer, where he used his background in both graphic design and coding from the University at Buffalo and Bauhaus University Weimar.
 
