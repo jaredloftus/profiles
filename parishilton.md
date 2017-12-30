@@ -11,16 +11,16 @@ In 2017, Hilton began endorsing ICOs (initial coin offerings). She announced in 
 Hilton has also spoken and spent time with those in the business such as former ethereum COO Stephan Tual. She has posted pictures of their meetings on social media enthusing about “the new millennium of technology.”
 
 ## Website
-parishilton.com
+https://parishilton.com
 
 ## Twitter
-twitter.com/parishilton
+https://twitter.com/parishilton
 
 ## Instagram
-instagram.com/parishilton
+https://www.instagram.com/parishilton
 
 ## Facebook
-facebook.com/ParisHiltonEntertainment
+https://www.facebook.com/ParisHiltonEntertainment
 
 ## Snapchat
 realparishilton
