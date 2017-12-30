@@ -13,16 +13,16 @@ In 2010, Chan co-founded Chinese Writing Systems Inc, where she developed a mobi
 Chan studied Computer Science and Media Arts and Sciences at Massachusetts Institute of Technology.
 
 ## Twitter
-twitter.com/mingchan88
+https://twitter.com/mingchan88
 
 ## Github
-github.com/mingchan88
+https://github.com/mingchan88
 
 ## LinkedIn
-linkedin.com/in/mingchan88
+https://www.linkedin.com/in/mingchan88
 
 ## Tags
-Blockchain, Zurich, Ethereum, Chinese Writing Systems Inc
+Blockchain, Zurich, Ethereum, Chinese Writing Systems Inc,
 
 ## Sources
 - blog.ethereum.org/2015/07/30/announcing-new-foundation-board-executive-director/ 
