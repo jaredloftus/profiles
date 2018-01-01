@@ -13,10 +13,10 @@ Previously, Bogart was an analyst with a startup, helping to build a proprietary
 Bogart is a Chartered Financial Analyst (CFA) and holds a Bachelor’s degree in Business Economics from the University of California, Santa Barbara.
 
 ## Twitter
-twitter.com/cremedelacrypto
+https://twitter.com/cremedelacrypto
 
 ## LinkedIn
-linkedin.com/in/spencer-bogart-cfa-bba645a
+https://www.linkedin.com/in/spencer-bogart
 
 ## Tags
 Blockchain, San Francisco, bitcoin, investment, FactSet, Wall Street,
