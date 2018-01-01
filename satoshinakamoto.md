@@ -17,7 +17,7 @@ An article published in *Newsweek* in 2014 identified Dorian Nakamoto, a Japanes
 In 2016, Australian computer scientist Craig Wright claimed to have cryptographic proof that he was the real Satoshi Nakamoto. Despite seeming to initially convince a number of people, including bitcoin core developer Gavin Andresen, Wright’s claims were never verified. 
 
 ## Website
-satoshi.nakamotoinstitute.org
+http://nakamotoinstitute.org
 
 ## Tags
 Blockchain, bitcoin, 
