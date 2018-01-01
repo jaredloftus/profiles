@@ -10,10 +10,10 @@ Following the initial coin offering (ICO), a number of vulnerabilities were iden
 An open letter to the crypto community, ostensibly written by the hacker, was subsequently posted, with the hacker defending their actions by saying they made use of a feature that was available on the platform. 
 
 ## Website
-daohub.org
+https://daohub.org
 
 ## Twitter
-twitter.com/the_dao_project
+https://twitter.com/the_dao_project
 
 ## Tags
 Blockchain, The DAO, DAO hack, DAO attack, bitcoin, ether, ethereum, 
