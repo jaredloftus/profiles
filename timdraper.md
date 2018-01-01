@@ -15,16 +15,16 @@ Prior to founding DFJ and Draper Associates, Draper spent two years at investmen
 In 2014 Draper filed a petition to divide California into six “startup” states that would compete for citizens and businesses. However, the petition did not gather the required signatures. 
 
 ## Website
-theriskmaster.blogspot.ca
+http://timothydraper.com
 
 ## Twitter
-twitter.com/timdraper
+https://twitter.com/TimDraper
 
 ## LinkedIn
-linkedin.com/in/timothydraper
+https://www.linkedin.com/in/timothydraper
 
 ## Facebook
-facebook.com/tim.draper
+https://facebook.com/tim.draper
 
 ## Tags
 Blockchain, San Francisco, bitcoin, investment, venture capital, DFJ, silk road,
