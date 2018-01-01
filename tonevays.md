@@ -18,10 +18,10 @@ Vays has a Bachelor’s degree in Geological/Geophysical Engineering, and a Mast
 libertylifetrail.com
 
 ## Twitter
-twitter.com/ToneVays
+https://twitter.com/ToneVays
 
 ## LinkedIn
-linkedin.com/in/tone-vays-a5243899
+https://linkedin.com/in/tone-vays
 
 ## Tags
 Blockchain, New York, cryptocurrency, investment, risk, CryptoScam, World Crypto Network,
