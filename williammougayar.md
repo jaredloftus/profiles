@@ -15,16 +15,19 @@ He currently serves as a general partner with Virtual Capital Ventures, a Toront
 Mougayar is also an active speaker who has been featured on Talks at Google, TEDxIndianapolis, and Epicenter where he discusses his published works, Bitcoin, blockchains, and cryptocurrency. 
 
 ## Website
-wmougayar.tumblr.com
+http://wmougayar.tumblr.com
 
 ## Twitter
-twitter.com/wmougayar
+https://twitter.com/wmougayar
 
 ## LinkedIn
-linkedin.com/in/williammougayar
+https://ca.linkedin.com/in/williammougayar
 
 ## Facebook
-facebook.com/wmougayar
+https://facebook.com/wmougayar
+
+## Medium
+https://medium.com/@wmougayar
 
 ## Tags
 Blockchain, The Token Summit, The Business Blockchain,
