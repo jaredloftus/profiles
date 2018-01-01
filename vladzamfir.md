@@ -11,13 +11,13 @@ Since 2014, Zamfir has been a researcher with the Ethereum Foundation, a non-pro
 Zamfir earned his Bachelor's in Mathematics from the University of Guelph in 2012. He is an active blogger amd speaker about crptoeconomics, and is also concerned about ethics in the use and governance of blockchain technology.
 
 ## Twitter
-twitter.com/VladZamfir
+https://twitter.com/VladZamfir
 
 ## Github
-github.com/vladzamfir
+https://github.com/vladzamfir
 
 ## LinkedIn
-linkedin.com/in/vlad-zamfir
+https://linkedin.com/in/vlad-zamfir
 
 ## Tags
 Blockchain, Ethereum, Casper, London,
