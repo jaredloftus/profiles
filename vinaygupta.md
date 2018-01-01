@@ -15,10 +15,10 @@ Gupta has spent many years in humanitarian work and is the creator behind the he
 Gupta attended school at the Government College and Ajmer, in India, where he earned his BSc and MSc degrees. He also enrolled for his PhD at Maharshi Dayanand Saraswati University and secured his PhD in 1997.
 
 ## Twitter
-twitter.com/leashless
+https://twitter.com/leashless
 
 ## LinkedIn
-linkedin.com/in/vinay-gupta-0072/
+https://linkedin.com/in/vinay-gupta
 
 ## Tags
 Blockchain, Mattereum, smart contracts, ethereum, digital catapult, consensys,
