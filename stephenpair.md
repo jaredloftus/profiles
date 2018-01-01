@@ -13,16 +13,16 @@ Pair started programming at a young age, spending much of his early career focus
 He holds a Bachelor’s degree in Computer Science from Georgia Institute of Technology.
 
 ## Twitter
-twitter.com/spair
+https://twitter.com/spair
 
 ## Github
-github.com/gasteve
+https://github.com/gasteve
 
 ## LinkedIn
-linkedin.com/in/stephen-pair-9a332b9/
+https://www.linkedin.com/in/stephen-pair
 
 ## Tags
-Blockchain, Atlanta, BitPay, bitcoin, Bitcore
+Blockchain, Atlanta, BitPay, bitcoin, Bitcore,
 
 ## Sources
 - bitpay.com/about
