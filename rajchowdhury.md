@@ -18,13 +18,13 @@ In December 2014, Chowdhury released his book, *The Dark Secret of the Silicon V
 Chowdhury holds a Masters in Engineering from Tufts University, and an MBA from Santa Clara University's Leavey School of Business.
 
 ## Website
-rajchowdhury.com
+http://rajchowdhury.com
 
 ## Twitter
-twitter.com/rajchowdhury
+https://twitter.com/rajchowdhury
 
 ## LinkedIn
-linkedin.com/in/rajchowdhury
+https://in.linkedin.com/in/rajchowdhury
 
 ## Tags
 Blockchain, Mumbai, ShopABlock, Unification Energy, ICICI, HashCash Consultants,
