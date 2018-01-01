@@ -15,25 +15,25 @@ Charles has been a member of the bitcoin community since early 2011, and has bee
 Charles holds a PhD in Physics, with a focus on astrophysics, from the University of Washington, St Louis. He also has a Bachelor’s degree in Physics and Mathematics from the University of Missouri-Columbia.
 
 ## Website
-ryanxcharles.com
+https://www.ryanxcharles.com
 
 ## Twitter
-twitter.com/ryanxcharles
+https://twitter.com/ryanxcharles
 
 ## Github
-github.com/ryanxcharles
+https://github.com/ryanxcharles
 
 ## LinkedIn
-linkedin.com/in/ryanxcharles
+https://www.linkedin.com/in/ryanxcharles
 
 ## Facebook
-facebook.com/ryanxcharles
+https://facebook.com/ryanxcharles
 
 ## Reddit
-reddit.com/user/ryancarnated
+https://reddit.com/user/ryancarnated
 
 ## Tags
-Blockchain, San Francisco, bitcoin, Yours, BitGo, BitPay, P2P, Copay
+Blockchain, San Francisco, bitcoin, Yours, BitGo, BitPay, P2P, Copay,
 
 ## Sources
 - bravenewcoin.com/news/bitcoin-based-content-platform-yours-attracts-overwhelming-interest-from-investors/
