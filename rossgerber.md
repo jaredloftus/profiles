@@ -13,13 +13,13 @@ Before founding Gerber Kawasaki, he worked for an independent investment firm af
 Gerber holds a Bachelor’s degree in Communications the University of Pennsylvania, concentrating in Business Law and Music. 
 
 ## Twitter
-twitter.com/GerberKawasaki
+https://twitter.com/GerberKawasaki
 
 ## LinkedIn
-linkedin.com/in/ross-gerber-67a73b18
+https://www.linkedin.com/in/ross-gerber
 
 ## Tags
-Blockchain, California, investment, fintech
+Blockchain, California, investment, fintech,
 
 ## Sources
 - forbes.com/sites/greatspeculations/2015/01/29/why-apple-pay-and-dollars-are-killing-bitcoin/#4c84d0045e49
