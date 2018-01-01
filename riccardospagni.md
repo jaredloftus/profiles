@@ -11,16 +11,16 @@ Additionally, Spagni is the founder and CEO of Globee (formerly PayBee), a globa
 Spagni has an academic background in informatics and logistics, and spent a number of years working in software development and the import/export industry. He has been working on cryptocurrency-related projects since 2012.
 
 ## Twitter
-twitter.com/fluffypony
+https://twitter.com/fluffypony
 
 ## Github
-github.com/fluffypony
+https://github.com/fluffypony
 
 ## Reddit
-reddit.com/user/fluffyponyza
+https://reddit.com/user/fluffyponyza
 
 ## Tags
-Blockchain, South Africa, Monero, Globee
+Blockchain, South Africa, Monero, Globee,
 
 ## Sources
 - bitcoinwednesday.com/profile-riccardo-spagni-of-monero
