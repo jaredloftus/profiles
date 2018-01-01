@@ -15,22 +15,22 @@ Lingham is also a part of Shark Tank South Africa, a Dragon's Den-style televisi
 He attended the University of Cape Town for two years.
 
 ## Website
-vinnylingham.com
+https://vinnylingham.com
 
 ## Twitter
-twitter.com/VinnyLingham
+https://twitter.com/VinnyLingham
 
 ## Github
-github.com/vklingham
+https://github.com/vklingham
 
 ## LinkedIn
-linkedin.com/in/vinnylingham
+https://www.linkedin.com/in/vinnylingham
 
 ## Facebook
-facebook.com/vinnylingham
+https://www.facebook.com/vinnylingham
 
 ## Tags
-Blockchain, Civic, Clicks2Customers, incuBeta, Shark Tank, Gyft, Yola, Newton Partners 
+Blockchain, Civic, Clicks2Customers, incuBeta, Shark Tank, Gyft, Yola, Newton Partners,
 
 ## Sources
 - civic.com/about
