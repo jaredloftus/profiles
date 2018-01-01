@@ -13,10 +13,10 @@ Chishtie gained an MBA from the Vienna University of Economics and Business (WU)
 Chishtie is the co-editor of *The FINTECH Book*, a crowd-funded financial technology handbook. She also speaks at fintech conferences and events.
 
 ## Twitter
-twitter.com/susannechishti
+https://twitter.com/susannechishti
 
 ## LinkedIn
-linkedin.com/in/susannechishti
+https://ca.linkedin.com/in/susannechishti
 
 ## Tags
 Blockchain, London, fintech, FINTECH Circle,
