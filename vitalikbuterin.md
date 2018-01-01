@@ -15,19 +15,19 @@ Buterin has written for a number of cryptocurrency publications. He received his
 As well as his work on the ethereum protocol, Buterin has contributed as a developer to other open source software projects. These include the in-browser bitcoin wallet Kryptokit, the privacy-focused Dark Wallet and cryptocurrency marketplace Egora, as well a fork of bitcoinjs-lib, pybitcointools and multisig.info. 
 
 ## Website
-vitalik.ca
+http://vitalik.ca
 
 ## Twitter
-twitter.com/VitalikButerin
+https://twitter.com/VitalikButerin
 
 ## Github
-github.com/vbuterin
+https://github.com/vbuterin
 
 ## LinkedIn
-linkedin.com/in/vitalik-buterin-267a7450
+https://ca.linkedin.com/in/vitalik-buterin
 
 ## Reddit
-reddit.com/user/vbuterin
+https://reddit.com/user/vbuterin
 
 ## Tags
 Blockchain, Toronto, ethereum, kryptokit, egora, dark wallet, bitcoin magazine, Gavin Wood, 
