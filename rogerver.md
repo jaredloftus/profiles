@@ -17,22 +17,22 @@ In August 2011, Ver made a public bet that bitcoin would outperform gold, silver
 He also donated $160,000 to the defense of Ross Ulbricht, the creator of the bitcoin black market Silk Road, following his arrest.
 
 ## Website
-rogerver.com
+https://rogerver.com
 
 ## Twitter
-twitter.com/rogerkver
+https://twitter.com/rogerkver
 
 ## LinkedIn
-linkedin.com/in/rogerver
+https://linkedin.com/in/rogerver
 
 ## Facebook
-facebook.com/rogerkver
+https://www.facebook.com/rogerkver
 
 ## Reddit
-reddit.com/user/MemoryDealers
+https://reddit.com/user/MemoryDealers
 
 ## Tags
-Blockchain, Tokyo, bitcoin, investor, investment, Bitcoin Foundation
+Blockchain, Tokyo, bitcoin, investor, investment, Bitcoin Foundation,
 
 ## Sources
 - arstechnica.com/tech-policy/2014/07/noted-investor-bitcoin-jesus-raises-over-150000-for-silk-road-suspect
