@@ -13,16 +13,16 @@ Brown also advises a number of cryptocurrency and decentralised consensus firms,
 He holds an MBA from Warwick Business School, as well a Bachelor’s degree in Mathematics and a diploma in Computer Science from Cambridge University. He is a Chartered Engineer.
 
 ## Website
-gendal.me
+https://gendal.me
 
 ## Twitter
-twitter.com/gendal
+https://twitter.com/genda
 
 ## Github
-github.com/gendal
+https://github.com/gendal
 
 ## LinkedIn
-linkedin.com/in/gendal
+https://ca.linkedin.com/in/gendal
 
 ## Tags
 Blockchain, London, R3, IBM, Chromaway, Elliptic,
