@@ -11,13 +11,13 @@ A finance professional and entrepreuner with experience in investment banking an
 He holds a Bachelor’s degree in Economics with Geography from Exeter University.
 
 ## Twitter
-twitter.com/robdgill
+https://twitter.com/robdgill
 
 ## LinkedIn
-linkedin.com/in/robgill1
+https://linkedin.com/in/robgill1
 
 ## Tags
-Blockchain, London, finance, fintech
+Blockchain, London, finance, fintech,
 
 ## Sources
 - corecogroup.co.uk/a-year-in-bitcoin
