@@ -15,13 +15,13 @@ In addition to his work with various businesses, Casares founded Argentina’s f
 He received degrees from the Harvard Business School, Aspen Institute, and Universidad de San Andres.
 
 ## Twitter
-twitter.com/wences
+https://twitter.com/wences
 
 ## LinkedIn
-linkedin.com/in/wencesc
+https://www.linkedin.com/in/wencesc
 
 ## Facebook
-facebook.com/wencescasares
+https://facebook.com/wencescasares
 
 ## Tags
 Blockchain, Xapo, bitcoin, cryptocurrency, Wanako Games, Patagon, Bling Nation, Lemon Bank, Xapo Wallet, Xapo Vault, Lemon Wallet, California,
