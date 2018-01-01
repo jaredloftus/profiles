@@ -13,13 +13,13 @@ Van der Laan has spoken out about bitcoin scaling. In a 2015 email sent to CoinJ
 Van der Laan also works on bitcoin development with Andresen and Cory Fields.
 
 ## Website
-http://laanwj.github.io/
+http://laanwj.github.io
 
 ## Twitter
-twitter.com/orionwl
+https://twitter.com/orionwl
 
 ## Github
-github.com/laanwj
+https://github.com/laanwj
 
 ## Tags
 Blockchain, bitcoin, bitcoin core, Holland, Gavin Andresen, Cory Fields, 
