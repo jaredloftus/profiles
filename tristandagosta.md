@@ -15,7 +15,7 @@ D’Agosta previously founded Polonius Sheet Music, a company that publishes cla
 He holds a Bachelor’s degree in Music from Rutgers University.
 
 ## LinkedIn
-linkedin.com/in/tristandagosta
+https://linkedin.com/in/tristandagosta
 
 ## Tags
 Blockchain, New York, Poloniex, cryptocurrency, exchange, 
