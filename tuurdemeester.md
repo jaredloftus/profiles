@@ -14,14 +14,17 @@ Demeester started recommending Bitcoin as an investment when it was worth $5. He
 
 He studied a number of subjects, including economics and philosophy, at Ghent University.
 
+## Website
+www.tuurdemeester.com
+
 ## Twitter
-twitter.com/TuurDemeester
+https://twitter.com/TuurDemeester
 
 ## LinkedIn
-linkedin.com/in/tuurdemeester
+https://www.linkedin.com/in/tuurdemeester
 
 ## Facebook
-facebook.com/tuur.demeester
+https://facebook.com/tuur.demeester
 
 ## Tags
 Blockchain, Texas, bitcoin, cryptocurrency, research, economics,
