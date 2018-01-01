@@ -11,10 +11,10 @@ Livingston created Kik in 2010 when he was undertaking his engineering degree at
 Livingston’s work in the industry placed him among some of the well-known leaders of social media such as Facebook and WeChat. In 2015, the parent company of WeChat, Tencent, offered Kik a $50 million investment.
 
 ## Twitter
-twitter.com/ted_livingston
+https://twitter.com/ted_livingston
 
 ## LinkedIn
-ca.linkedin.com/in/tedlivingston
+https://ca.linkedin.com/in/tedlivingston
 
 ## Tags
 Blockchain, Kik, Kik Messaging, Ted Livingston, messaging service, Toronto, Kin,
