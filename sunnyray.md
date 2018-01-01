@@ -10,17 +10,20 @@ Using their knowledge of the crypto and finance industries, Ray and co-founder S
 
 In a 2015 interview, Ray identified India as one of the biggest unbanked populations in the world. By founding Unocoin in India, Ray made it the company's mission to improve financial inclusion in the country. 
 
+## Website
+http://www.sunnyray.ca
+
 ## Twitter
-twitter.com/sunnystartups
+https://twitter.com/sunnystartups
 
 ## LinkedIn
-linkedin.com/in/sunnyray
+https://ca.linkedin.com/in/sunnyray
 
 ## Facebook
-facebook.com/ray.sunny
+https://facebook.com/ray.sunny
 
 ## Tags
-Blockchain, Unocoin, cryptocurrency, India, Canada
+Blockchain, Unocoin, cryptocurrency, India, Canada,
 
 ## Sources
 - blockchain-toronto.com/agenda/speakers/204513
