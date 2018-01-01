@@ -13,16 +13,16 @@ Wilcox-O'Hearn is known for his work as a developer on DigiCash, Mojo Nation, ZR
 In 2001, he co-created the Zooko’s Triangle concept, which describes three properties considered desirable for names of participants in a network protocol: human-meaningful, secure and decentralized. Wilcox-O'Hearn conjectured that no single name can exhibit more than two of the properties, though this has since been disproven.
 
 ## Twitter
-twitter.com/zooko
+https://twitter.com/zooko
 
 ## Github
-github.com/zooko
+https://github.com/zooko
 
 ## LinkedIn
-linkedin.com/in/zookow
+https://www.linkedin.com/in/zookow
 
 ## Facebook
-facebook.com/people/Zooko-Wilcox
+https://facebook.com/people/Zooko-Wilcox
 
 ## Tags
 Blockchain, Zcash, Zcash foundation, Least Authority, Colorado,
