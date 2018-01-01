@@ -8,20 +8,23 @@ WhalePanda is the pseudonym of an online blogger who often discusses cryptocurre
 
 The true identity of WhalePanda is unknown. They are a Belgian cryptocurrency investor who first developed their interest for bitcoin in 2014. They admitted that while “WhalePanda” began as a joke, the blog and their opinions earned more success and popularity than they expected. 
 
+## Website
+http://whalepanda.com
+
 ## Medium
-medium.com/@WhalePanda
+https://medium.com/@WhalePanda
 
 ## Twitter
-twitter.com/whalepanda
+https://twitter.com/WhalePanda
 
 ## Github
-github.com/whalepanda
+https://github.com/whalepanda
 
 ## Reddit
-reddit.com/user/whalepanda
+https://reddit.com/user/whalepanda
 
 ## Tags
-Blockchain, DAO, bitcoin
+Blockchain, DAO, bitcoin,
 
 ## Sources
 - cointelegraph.com/news/a-couple-of-vcs-and-ceos-whalepanda-delivers-final-verdict-on-segwit2x
