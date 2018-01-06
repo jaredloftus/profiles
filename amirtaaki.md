@@ -14,7 +14,7 @@ In 2014, Taaki and developers from bitcoin startup Airbitz created a prototype f
 
 In 2015, Taaki took a break from the world of bitcoin, travelling to Rojava (Syrian Kurdistan) to support the struggle of the the Rojava Kurds, whose revolutionary political beliefs he supports. Initially joining the frontline fight against ISIS, he later became involved with a number of community projects in the area. 
 
-Taaki returned to the UK in 2017 to continue work on Dark Wallet and other projects. He established an unnamed project, ‘the academy’, to bring bitcoin to Rojava as a new way to connect the community, as well as a fundraising tool that would circumvent Western sanctions on transferring funds to Syria.
+Taaki returned to the UK in 2017 to continue work on Dark Wallet and other projects. He established an unnamed project, known as ‘the academy’, to bring bitcoin to Rojava as a new way to connect the community, as well as a fundraising tool that would circumvent Western sanctions on transferring funds to Syria.
 
 ## Twitter
 twitter.com/amirpolyteknik
