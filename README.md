@@ -136,6 +136,7 @@ Some additional style notes:
 - Tiff Hayden
 - Toni Lane
 - Tony Gallippi
+- Tyler Winklevoss
 - Toufi Saliba (Tessa doing)
 - Valery Vavilov (Tessa doing)
 - Warren Whitlock (Tessa doing)
