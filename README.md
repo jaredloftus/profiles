@@ -67,6 +67,7 @@ Some additional style notes:
 - Emily Spaven
 - Ethan Eilding
 - Evan Van Ness, Week in Ethereum newsletter
+- Fred Wilson, Union Square Ventures
 - Gary Nuttall
 - Gilles Babinet
 - Hansjörg Leichsenring
