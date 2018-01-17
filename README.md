@@ -43,10 +43,16 @@ Some additional style notes:
 - Antonio Selas (Rachael doing)
 - Arthur Hayes, BitMEX (Rachael doing)
 - Alexander Vinnik (BTC-e) (Rachael doing) 
+- Ansel Lindner
+- Arianna Simpson
+- Ben Davenport, BitGo
 - Bill Buchanan OBE (Rachael doing)
 - Bill Sullivan (Rachael doing)
+- Andrew DeSantis, BTC Media
+- Anondran
 - Bobby Lee: Executive and Entrepreneur (Rachael doing)
 - Brian Forde: Entrepreneur and Researcher (Rachael doing)
+- Brad Garlinghouse, Ripple
 - Brian Kelly, BK Capital Management
 - Bruce Fenton, Atlantic Financial
 - Bruce Porter Jr.
@@ -54,21 +60,27 @@ Some additional style notes:
 - Charles Hoskinson
 - Charlie Shrem
 - Charlotte Halkett
+- Chris Ellis, Bitfinex
 - Chris Skinner
 - Christophe Langlois
+- Craig S Wright, nChain
 - Da Hongfei, Neo
 - Daesik Kim, bithumb
 - Daniel Masters, GABI
 - Daniel Roberts
 - David Johnston
 - David M. Brear
-- Dinis Guardia
+- Derin Cag, Blockchain Age
+- Diego Gutierrez, RSK Labs
+- Dinis Guarda
 - Elaine Ou
 - Emily Spaven
 - Ethan Eilding
 - Evan Van Ness, Week in Ethereum newsletter
+- Francis Pouliot, Catallaxy
 - Fred Wilson, Union Square Ventures
 - Gary Nuttall
+- Gav Wood, Parity
 - Gilles Babinet
 - Hansjörg Leichsenring
 - Heiko Hees, Raiden&nbsp;
@@ -80,44 +92,62 @@ Some additional style notes:
 - Jihan Wu
 - Jim Marous
 - Jon Matonis
+- Jonas Schnelli, digitalbitbox
 - Jose Pagliery
+- Joseph Young
 - Josh Brown, investor
+- Josh Olszewicz
 - Juan Benet, Filecoin/IPFS
 - Kathleen &amp; Arthur Breitman, Tezos
+- Kris Marszalek, Monaco
 - Kristian T. Sorensen
 - Kumar Gaurav
+- Kyle Torpey, freelance writer
 - Li Xiaolai, Press.One
 - Liu Xiao
+- Luke Martin, VentureCoinist
 - Lulu Yilun Chen, Bloomberg
+- Marek Palatinus
 - Marie Wieck
 - Mark Lynd
 - Mark Van Rijmenam
 - Matt Corallo, ChainCodeLabs
 - Melanie Swan
 - Meltem Demirors
+- Michael Arrington, TechCrunch
 - Michael Casey
 - Michael Gastauer
 - Michael Mainelli
 - Michael Parsons
 - Michael Terpin
+- Michel Bauwens, P2P
 - Mike Novogratz, Ex-Fortress
+- Muneeb Ali, Blockstack
 - Nasir Zubairi
 - Naval Ravikant, AngelList
+- Ned Scott
 - Neeraj Agrawal, Coin Center
 - Neira Jones
 - Nick Dodson
 - Nick Johnson and Alex Van de Sande, ENS
 - Nick Tomaino, 1confirmation/Runa Capital
+- Nicolas Cary, Blockchain.com
 - Nigel Walsh
 - Olaoluwa "Laolu" Osuntokun, Lightning Labs
+- Oleg Andreev, Chain
 - Oliver Bussmann
+- Oscar Williams-Grut
 - Paolo Tasca
 - Paul Chou, LedgerX
 - Paul Storzc, Drivechain/Truthcoin
 - Peter Rizun, Bitcoin Unlimited
+- Peter Smith, Blockchain
+- Pierre Rochard, Axial
 - Pierre Tran
-- Preston Byrne, marmot
+- Preethi Kasireddy, Shelling
+- Ran Neu-Ner, Cryptotrader SA show
 - Richard Moore @ricmoo
+- Ryan Selkis, CoinDesk
 - Safaraz Ali
 - Sally Eaves
 - Samson Mow,&nbsp;Blockstream
@@ -128,9 +158,11 @@ Some additional style notes:
 - Simon Cocking
 - Simon Taylor
 - Sir Mark Walport
+- Stephan Tual, Slock.it
 - Steve Palley, Anderson Kill
 - Sydes Jokes
 - Tadge Dryja, Lightning Network
+- Tai Zen
 - Takashi Mochizuki
 - Thomas Hunt, World Crypto Network
 - Thomas Power
