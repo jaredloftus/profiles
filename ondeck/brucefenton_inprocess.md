@@ -1,4 +1,4 @@
-# Full name here
+# Bruce Fenton
 
 ## Summary
 (Two sentence summary of person)
