@@ -1,7 +1,7 @@
 # Bill Buchanan
 
 ## Summary
-Bill Buchanan is an academic in expert in cryber security. He leads the Centre for Distributed Computing, Networks and Security at Edinburgh Napier University.
+Bill Buchanan is an academic and expert in cryber security. He leads the Centre for Distributed Computing, Networks and Security at Edinburgh Napier University.
 
 ## Bio
 Bill Buchanan is a cyber security expert and academic, working in a number of areas including crypotography, web-based infrastructures, e-Crime, e-Health and mobile computing. 
