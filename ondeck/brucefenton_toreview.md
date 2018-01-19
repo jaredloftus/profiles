@@ -39,6 +39,7 @@ Blockchain, Boston, Bitcoin Foundation, Chainstone Labs, Medici Ventures, Satosh
 
 ## Sources
 - https://bitcoinfoundation.org/the-bitcoin-foundation-welcomes-bruce-fenton-as-executive-director/
+- http://www.chainstonelabs.com/about/
 - https://www.coindesk.com/moon-bust-questions-ask-evaluating-icos/
 - http://www.mediciventures.com/bio/
 - https://medium.com/@brucefenton/spacesuit-x-c314946fa349
