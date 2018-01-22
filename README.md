@@ -75,7 +75,7 @@ Some additional style notes:
 - Dinis Guarda
 - Elaine Ou
 - Emily Spaven
-- Ethan Eilding
+- Ethan Wilding
 - Evan Van Ness, Week in Ethereum newsletter
 - Francis Pouliot, Catallaxy
 - Fred Wilson, Union Square Ventures
