@@ -1,4 +1,4 @@
-# Daesik Kim
+# Kim Daesik
 
 ## Summary
 Kim Daesik is the CEO of Bithumb, the largest cryptocurrency exchange in South Korea. 
