@@ -25,6 +25,7 @@ Blockchain, Shanghai, China, NEO, Onchain, Antshares,
 
 ## Sources
 - https://coincentral.com/cryptocurrency-industry-spotlight-neos-da-hongfei/
+- https://hackernoon.com/neo-onchain-and-its-ultimate-plan-dna-4c33e9b6bfaa
 - https://medium.com/@onchain_dna/understanding-the-onchain-neo-relationship-why-you-should-care-b8e69649ef98
 - https://medium.com/@TheCoinEconomy/neo-founder-da-hongfei-advised-china-on-ico-exchange-ban-says-govt-4631b9f7971
 - http://www.onchain.com/en-us/
