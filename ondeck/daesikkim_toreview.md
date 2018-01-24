@@ -14,6 +14,8 @@ The Bithumb exchange was hacked in June 2017, resulting in the loss of billions 
 Blockchain, Korea, bithumb,
 
 ## Sources
+- https://bitcoinexchangeguide.com/bithumb/
+- https://www.bithumb.com/u1/US103
 - https://craft.co/bithumb
 - https://www.newswire.ca/news-releases/dramatic-changes-in-the-world-coin-trading-market-after-news-of-monero-listing-on-bithumb-647632113.html
 - https://www.reuters.com/article/us-markets-bitcoin-southkorea-bithumb/bitcoin-exchange-bithumb-says-right-regulations-in-south-korea-would-boost-market-idUSKBN1E613H
