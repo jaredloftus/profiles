@@ -25,6 +25,7 @@ https://github.com/jimmysong
 
 ## Sources
 - coindesk.com/author/jimmysong
+- https://www.coindesk.com/bitcoin-dev-jimmy-song-is-now-a-blockchain-capital-partner/?utm_content=buffer6ef14&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 - https://www.linkedin.com/in/jimmysong/
 - medium.com/@jimmysong
 
