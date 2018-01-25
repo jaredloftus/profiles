@@ -4,9 +4,9 @@
 Da Hongfei is the founder of Chinese blockchain companies NEO and Onchain. He has also played a role in negotiating with the Chinese government about the future of cryptocurrencies in the country. 
 
 ## Bio
-Da Hongfei founded Onchain in February 2014, along with CTO Erik Zhang and four others. Onchain designs blockchain solutions for businesses and is developing the DNA, or Distributed Networks Architecture, a blockchain that can be shaped to address various problems in the private and public sectors. 
+Da Hongfei founded Onchain in February 2014, along with CTO Erik Zhang and three others. Onchain designs blockchain solutions for businesses and is developing the DNA, or Distributed Networks Architecture, a blockchain that can be shaped to address various problems in the private and public sectors. 
 
-Hongfei also founded Antshares, now NEO, at a similar time. Unlike Onchain, NEO is a community funded open-source project. It uses the same architecture and smart contract system as DNA, but is a permissionless blockchain. Hongfei is now developing NEOx a crosschain protocol, with the eventual possibility of integrating permissionless blockchain such as NEO with permissioned ones like DNA.
+At a similar time to establishing Onchain, Hongfei and Zhang also founded Antshares, now NEO. Unlike Onchain, NEO is a community funded open-source project. It uses the same architecture and smart contract system as DNA, but is a permissionless blockchain. Hongfei is now developing NEOx a crosschain protocol, with the eventual possibility of integrating permissionless blockchain such as NEO with permissioned ones like DNA.
 
 In 2016, during a partnership with Microsoft China, Onchain founded Legal Chain, targeting the inadequacies of the digital applications within the legal system.
 
