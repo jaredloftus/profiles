@@ -10,13 +10,13 @@
 (URL of their personal website or blog)
 
 ## Twitter
-(URL)
+twitter.com/dannylmasters
 
 ## Github
 (URL)
 
 ## LinkedIn
-(URL)
+linkedin.com/in/danielmastersuk
 
 ## Facebook
 (URL)
@@ -28,7 +28,8 @@
 Blockchain, [cityname], 
 
 ## Sources
-- (URL1)
+- https://www.coindesk.com/first-regulated-bitcoin-investment-fund-launch-island-jersey/
+- https://www.coindesk.com/one-bitcoins-biggest-funds-selling-ahead-etf-decision/
 - (URL2)
 - (ETC)
 
