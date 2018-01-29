@@ -18,13 +18,13 @@ Buchanan earned his PhD from Napier University. He has published a large number 
 http://asecuritysite.com/
 
 ## Twitter
-twitter.com/billatnapier
+https://twitter.com/billatnapier
 
 ## Github
-github.com/wbuchanan
+https://github.com/wbuchanan
 
 ## LinkedIn
-linkedin.com/in/billatnapier
+https://www.linkedin.com/in/billatnapier
 
 ## Tags
 Blockchain, Edinburgh, ZoneFox, cryptography,
