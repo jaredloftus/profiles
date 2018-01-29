@@ -15,10 +15,10 @@ Selas is part of the Madrid Bar Association, the Spanish Group of the Internatio
 He holds a Law degree from Universidad Complutense of Madrid, a Masters degree in Industrial and Intellectual Property Law from the University of Alicante and a Masters degree in European Union Law from Universidad Carlos III de Madrid. 
 
 ## Twitter
-twitter.com/antonioselas
+https://twitter.com/antonioselas
 
 ## LinkedIn
-linkedin.com/in/antonio-selas-18916420
+https://www.linkedin.com/in/antonio-selas-18916420
 
 ## Tags
 Blockchain, Madrid, law, intellectual property, fintech,
