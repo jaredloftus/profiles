@@ -15,10 +15,10 @@ Prior to joining IBM, Langlois was Global Social Media Advisor for 'The Social P
 Langlois holds an MBA in Marketing, Finance and Management from Sciences Po Paris, a Masters degree in Consulting and Project Management from Ecole Centrale Paris, and a Bachelor’s degree in Maths and IT from Universite Paris IX Dauphine.
 
 ## Twitter
-twitter.com/visible_banking
+https://twitter.com/visible_banking
 
 ## LinkedIn
-linkedin.com/in/christophelanglois
+https://www.linkedin.com/in/christophelanglois
 
 ## Tags
 Blockchain, London, Visible Banking, fintech,
