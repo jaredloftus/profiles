@@ -13,10 +13,10 @@ Watson has a background in finance and technology. He started his career working
 Watson is the Chair of the UK Labour Party’s Business and Enterprise Council, a role he has held since February 2016. He is an active campaigner for LGBT rights, and is a Patron for Diversity Role Models as well as a non-executive Director with GLAAD. 
 
 ## Twitter
-twitter.com/anthonywatson
+https://twitter.com/anthonywatson
 
 ## LinkedIn
-linkedin.com/in/anthony-watson-826134
+https://www.linkedin.com/in/anthony-watson-826134
 
 ## Tags
 Blockchain, London, TBOL, Uphold, Bitreserve, fintech,
