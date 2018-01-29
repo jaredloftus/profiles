@@ -17,10 +17,10 @@ In 2015, Taaki took a break from the world of bitcoin, travelling to Rojava (Syr
 Taaki returned to the UK in 2017 to continue work on Dark Wallet and other projects. He established an unnamed project, known as ‘the academy’, to bring bitcoin to Rojava as a new way to connect the community, as well as a fundraising tool that would circumvent Western sanctions on transferring funds to Syria.
 
 ## Twitter
-twitter.com/amirpolyteknik
+https://twitter.com/amirpolyteknik
 
 ## Github
-github.com/genjix
+https://github.com/genjix
 
 ## Tags
 Blockchain, London, Dark Wallet, DarkMarket, Rojava, bitcoin, Intersango, Britcoin, electrum, libbitcoin, Cody Wilson, OpenBazaar,
