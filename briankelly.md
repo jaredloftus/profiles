@@ -15,10 +15,10 @@ Kelly is a financial commentator, contributing to CNBC and regularly appearing o
 Kelly holds a Bachelor’s degree in Finance from the University of Vermont and an MBA from Babson Graduate School of Business in Boston.
 
 ## Twitter
-twitter.com/bkbriankelly
+https://twitter.com/bkbriankelly
 
 ## LinkedIn
-linkedin.com/in/bk-brian-kelly
+https://www.linkedin.com/in/bk-brian-kelly
 
 ## Tags
 Blockchain, New York, investment, Fast Money, 
