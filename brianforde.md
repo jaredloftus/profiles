@@ -15,13 +15,13 @@ Before joining the White House, Forde founded one of the largest phone companies
 Brian holds a B.A. in Sociology from University of California at Los Angeles and an MBA from London Business School.
 
 ## Twitter
-twitter.com/brianforde
+https://twitter.com/brianforde
 
 ## LinkedIn
-linkedin.com/in/brianforde
+https://www.linkedin.com/in/brianforde
 
 ## Facebook
-facebook.com/brianjforde
+https://www.facebook.com/brianjforde
 
 ## Tags
 Blockchain, California, Digital CUrrency Initiative, MIT, White House,
