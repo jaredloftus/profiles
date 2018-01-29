@@ -20,19 +20,19 @@ Fenton holds a BA in Management from Bentley University in Boston.
 http://brucefenton.com/
 
 ## Twitter
-twitter.com/brucefenton
+https://twitter.com/brucefenton
 
 ## Github
-github.com/BruceFenton
+https://github.com/BruceFenton
 
 ## LinkedIn
-linkedin.com/in/brucefenton
+https://www.linkedin.com/in/brucefenton
 
 ## Facebook
-facebook.com/bruce.fenton.page
+https://www.facebook.com/bruce.fenton.page
 
 ## Reddit
-reddit.com/user/bruce_fenton
+https://www.reddit.com/user/bruce_fenton
 
 ## Tags
 Blockchain, Boston, Bitcoin Foundation, Chainstone Labs, Medici Ventures, Satoshi Roundtable
