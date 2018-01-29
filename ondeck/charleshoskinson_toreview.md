@@ -14,17 +14,14 @@ Previously, Hoskinson and Dan Larimer co-founded Invictus Innovations, which lau
 
 Hoskinson attended Metropolitan State University of Denver and University of Colorado at Boulder to study Analytic Number Theory.
 
-## Website
-(URL of their personal website or blog)
-
 ## Twitter
-twitter.com/IOHK_Charles
+https://twitter.com/IOHK_Charles
 
 ## Github
-github.com/CharlesHoskinson
+https://github.com/CharlesHoskinson
 
 ## LinkedIn
-linkedin.com/in/charles-hoskinson-1a95a4b4
+https://www.linkedin.com/in/charles-hoskinson-1a95a4b4
 
 ## Tags
 Blockchain, Colorado, ethereum, ethereum classic, etc, IOHK,
