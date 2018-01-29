@@ -15,10 +15,10 @@ Brear is a non-executive director at Bud, a technology platform that links finan
 He holds a Bachelor’s degree in Business Management from the University of East Anglia. 
 
 ## Twitter
-twitter.com/davidbrear
+https://twitter.com/davidbrear
 
 ## LinkedIn
-linkedin.com/in/davidbrear
+https://www.linkedin.com/in/davidbrear
 
 ## Tags
 Blockchain, London, 11:FS, fintech, digital banking,
