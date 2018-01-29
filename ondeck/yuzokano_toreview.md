@@ -11,13 +11,13 @@ In 2014, Kano co-founded bitFlyer Inc, intending to provide liquidity to the bit
 Kano is also the chief officer of the Japan Authority of Digital Assets (JADA), a self-regulatory organization focused on research, communicating with governments and developing security guidelines for the bitcoin industry. He also serves as a representative director of the Japan Blockchain Association and is a member of the BC System Evaluation Audit Review Committee of the Ministry of Economy, as well as a trade and industry member of a committee investigating blockchain technology for the Japanese Banker’s Association. 
 
 ## Twitter
-twitter.com/bitflyer
+https://twitter.com/bitflyer
 
 ## LinkedIn
-linkedin.com/in/yuzo-kano-415254a4
+https://www.linkedin.com/in/yuzo-kano-415254a4
 
 ## Facebook
-facebook.com/yuzo.kano
+https://www.facebook.com/yuzo.kano
 
 ## Author
 @mecruz32
