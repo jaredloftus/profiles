@@ -13,16 +13,16 @@ Besides these positions, Saliba is Chair at the Association for Computing Machin
 Previously, Saliba worked as CEO, Chief Technology Officer (CTO), and board member at WhoKnows Inc. Before that, he was the co-founder and CEO of Akatoo Inc., which merged with Xperscore Inc. in 2012. He was also the CTO at CIT Artificial Intelligence Solutions Inc.
 
 ## Twitter 
-twitter.com/toouufii
+https://twitter.com/toouufii
 
 ## Github 
-github.com/Toufi
+https://github.com/Toufi
 
 ## LinkedIn 
-linkedin.com/in/touficsaliba/
+https://www.linkedin.com/in/touficsaliba/
 
 ## Facebook 
-facebook.com/toufic.saliba
+https://www.facebook.com/toufic.saliba
 
 ## Tags
 Blockchain, San Francisco, Palo Alto, Toronto, PrivacyShell, TodaCorp, TODA protocol, ACM, Toda-Algorand,
