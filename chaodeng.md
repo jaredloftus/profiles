@@ -11,10 +11,10 @@ In September 2017, Deng wrote an article stating that Chinese authorities were p
 Deng holds a Bachelor’s degree in Economics and Neuroscience from Brown University, and a Masters in Broadcast Journalism from Columbia Graduate School. 
 
 ## Twitter
-twitter.com/Chao_Deng
+https://twitter.com/Chao_Deng
 
 ## LinkedIn
-linkedin.com/in/chaodeng
+https://www.linkedin.com/in/chaodeng
 
 ## Tags
 Blockchain, Beijing, Wall Street Journal, China, 
