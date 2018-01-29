@@ -18,10 +18,10 @@ He holds a Bachelor’s degree in Management Sciences from Loughborough Universi
 https://thefinanser.com/
 
 ## Twitter
-twitter.com/chris_skinner
+https://twitter.com/chris_skinner
 
 ## LinkedIn
-linkedin.com/in/cmskinner
+https://www.linkedin.com/in/cmskinner
 
 ## Tags
 Blockchain, London, fintech, 11:FS, Moven, Meniga, Token fund,
