@@ -13,10 +13,10 @@ Masters also sits on the advisory board of GradBase, a system for issuing and ve
 He holds a Bachelor’s degree in Physics from the University of Exeter and a Masters degree in Management Science Operational Research from Imperial College London. He also completed a Graduate Certificate in Applied Statistics at Penn State University. 
 
 ## Twitter
-twitter.com/dannylmasters
+https://twitter.com/dannylmasters
 
 ## LinkedIn
-linkedin.com/in/danielmastersuk
+https://www.linkedin.com/in/danielmastersuk
 
 ## Tags
 Blockchain, Channel Islands, Global Advisors, investment, bitcoin,
