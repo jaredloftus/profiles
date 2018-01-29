@@ -18,10 +18,10 @@ From 2013-2014 Johnston served as one of the founding board members for the Omni
 (URL of their personal website or blog)
 
 ## Twitter
-twitter.com/djohnstonec
+https://twitter.com/djohnstonec
 
 ## LinkedIn
-linkedin.com/in/davidajohnston
+https://www.linkedin.com/in/davidajohnston
 
 ## Tags
 Blockchain, Texas, DApps Venture Fund, Factom, Multicoin Capital, BitAngels,
