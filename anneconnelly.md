@@ -18,10 +18,10 @@ Connolly holds a Bachelor’s degree in Life Sciences from Queen’s University,
 https://www.anneconnelly.ca/
 
 ## Twitter
-twitter.com/anne_connelly
+https://twitter.com/anne_connelly
 
 ## LinkedIn
-linkedin.com/in/anneconnelly
+https://www.linkedin.com/in/anneconnelly
 
 ## Tags
 Blockchain, Canada, ixo foundation, Blockchain Canada, Singularity University, Ledger Labs, Decentral, 
