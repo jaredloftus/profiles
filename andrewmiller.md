@@ -13,13 +13,13 @@ Miller is an advisor to Zcash, a privacy-focused cryptocurrency that grew out of
 He received his Ph.D. from the University of Maryland Cybersecurity Center, where he focused on cryptography and secure decentralized systems. 
 
 ## Twitter
-twitter.com/socrates1024
+https://twitter.com/socrates1024
 
 ## Github
-github.com/amiller
+https://github.com/amiller
 
 ## LinkedIn
-linkedin.com/in/andrew-miller-43272917
+https://www.linkedin.com/in/andrew-miller-43272917
 
 ## Tags
 Blockchain, Illinois, zcash, ic3, 
