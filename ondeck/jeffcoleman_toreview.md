@@ -18,13 +18,13 @@ Coleman holds a Bachelor’s degree in Mathematics from the University of Waterl
 http://www.jeffcoleman.ca
 
 ## Twitter
-twitter.com/technocrypto
+https://twitter.com/technocrypto
 
 ## Github
-github.com/emansipater
+https://github.com/emansipater
 
 ## LinkedIn
-linkedin.com/in/technocrypto
+https://www.linkedin.com/in/technocrypto
 
 ## Tags
 Blockchain, Toronto, Ledger Labs, Counterfactual, Kryptokit, Vitalik Buterin, Anthony Di Iorio,
