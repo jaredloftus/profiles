@@ -1,4 +1,4 @@
-# Dinis Guardia
+# Dinis Guarda
 
 ## Summary
 (Two sentence summary of person)
