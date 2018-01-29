@@ -13,10 +13,10 @@ Currently, Grigg serves as an adviser and partner at blockchain platform Block.O
 Grigg is the inventor of the Ricardian Contract and the co-inventor of Triple-Entry Accounting. He holds an MBA from the London Business School and a Bachelor’s degree in Computer Science from the University of New South Wales. He also has a diploma in Security and Risk Management.
 
 ## Twitter
-twitter.com/iang_fc
+https://twitter.com/iang_fc
 
 ## LinkedIn
-linkedin.com/in/ian-grigg-0379
+https://www.linkedin.com/in/ian-grigg-0379
 
 ## Tags
 Blockchain, Malta, Corda, R3, Block.One, 
