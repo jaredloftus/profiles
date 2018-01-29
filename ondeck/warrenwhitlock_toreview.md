@@ -14,13 +14,13 @@ Alongside Ochen, Whitlock is also Senior Advisor at Guerilla Marketing, and Seni
 https://warrenwhitlock.com/
 
 ## Twitter 
-twitter.com/warrenwhitlock
+https://twitter.com/warrenwhitlock
 
 ## LinkedIn 
-linkedin.com/in/books/
+https://www.linkedin.com/in/books/
 
 ## Facebook #
-facebook.com/warrenwhitlock
+https://www.facebook.com/warrenwhitlock
 
 ## Tags
 Blockchain, Las Vegas, influencer, digital marketing, Ochen,
