@@ -11,13 +11,13 @@ As a freelance journalist he has written about cryptocurrencies and blockchain f
 He studied Politics and Society in Historical Perspective at Utrecht University, and specialized in the influence of freedom of speech and communication technologies on social structures.
 
 ## Twitter
-twitter.com/AaronvanW
+https://twitter.com/AaronvanW
 
 ## LinkedIn
-linkedin.com/in/aaron-van-wirdum-a4b56a4b
+https://www.linkedin.com/in/aaron-van-wirdum-a4b56a4b
 
 ## Reddit
-reddit.com/user/aaronvanwirdum
+https://www.reddit.com/user/aaronvanwirdum
 
 ## Tags
 Blockchain, Netherlands, cointelegraph, coindesk, bitcoin magazine, journalist, 
