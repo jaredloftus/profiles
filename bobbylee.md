@@ -17,10 +17,10 @@ Lee holds a Bachelor’s and Masters degree in Computer Science from Stanford Un
 Bobby Lee is the brother of litecoin creator Charlie Lee.
 
 ## Twitter
-twitter.com/bobbyclee
+https://twitter.com/bobbyclee
 
 ## LinkedIn
-linkedin.com/in/bobbyclee
+https://www.linkedin.com/in/bobbyclee
 
 ## Tags
 Blockchain, BTCC, BTC China, Charlie Lee, China, Shanghai, 
