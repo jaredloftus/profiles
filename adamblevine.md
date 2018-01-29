@@ -13,13 +13,13 @@ In 2014, Levine founded Tokenly, a company building open source tools to make to
 Levine has worked as a cryptocurrency consultant, advising startups including Coinpowers.com, a bitcoin crowdfunding site, and Humint.is. He was also a senior fellow with the Bitcoin Education Project. 
 
 ## Twitter
-twitter.com/gamerandy
+https://twitter.com/gamerandy
 
 ## Github
 https://github.com/AdamBLevine
 
 ## LinkedIn
-linkedin.com/in/alevine3/
+https://www.linkedin.com/in/alevine3/
 
 ## Tags
 Blockchain, San Francisco, Let's talk bitcoin, Tokenly, LTBCoin,
