@@ -18,16 +18,16 @@ Assia holds a Master’s Degree in Computer Science from IDC Herzliya in Israel.
 http://yoniassia.com/
 
 ## Twitter 
-twitter.com/yoniassia
+https://twitter.com/yoniassia
 
 ## Github 
-github.com/yoniassia
+https://github.com/yoniassia
 
 ## LinkedIn 
-linkedin.com/in/yassia
+https://www.linkedin.com/in/yassia
 
 ## Facebook 
-facebook.com/yoni.assia
+https://www.facebook.com/yoni.assia
 
 ## Tags
 Blockchain, Tel Aviv, New York City, eToro, Colored Coins, Colu, Bancor Protocol, bitcoin, ethereum, OpenBook,
