@@ -13,10 +13,10 @@ Previously, Walch was a practicing corporate lawyer at Ropes & Gray in Boston, w
 She holds a Bachelor’s degree in English from Harvard University and a joint degree from Harvard Law School.
 
 ## Twitter
-twitter.com/angela_walch
+https://twitter.com/angela_walch
 
 ## LinkedIn
-linkedin.com/in/angela-walch-a354b25
+https://linkedin.com/in/angela-walch-a354b25
 
 ## Tags
 Blockchain, London, law, governance,
