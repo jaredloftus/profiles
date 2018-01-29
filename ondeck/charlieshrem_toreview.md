@@ -18,16 +18,16 @@ Shrem continues to advise a number of crypto companies including InsurePal and C
 www.CharlieShrem.com
 
 ## Twitter
-twitter.com/CharlieShrem
+https://twitter.com/CharlieShrem
 
 ## Github
-github.com/cshrem
+https://github.com/cshrem
 
 ## LinkedIn
-linkedin.com/in/charlieshrem
+https://www.linkedin.com/in/charlieshrem
 
 ## Facebook
-facebook.com/CharlieShrem
+https://www.facebook.com/CharlieShrem
 
 ## Tags
 Blockchain, New York, BitInstant, Silk Road, Roger Ver, Jaxx, Decentral, Anthony Di Iorio, CryptoIQ, Bitcoin Foundation,
