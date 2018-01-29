@@ -14,10 +14,10 @@ Previously, he competed in international ice dancing competitions and worked as 
 http://socialnetworksmanager.com/
 
 ## Twitter
-twitter.com/NetworksManager
+https://twitter.com/NetworksManager
 
 ## LinkedIn
-linkedin.com/in/bruceporter
+https://www.linkedin.com/in/bruceporter
 
 ## Tags
 Blockchain, Washington DC, GlobalBoost,
