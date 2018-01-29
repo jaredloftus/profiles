@@ -15,13 +15,13 @@ Vavilov has been a speaker at several blockchain related conferences, such as th
 Vavilov holds a Master’s Degree in Computer Sciences from the Transport and Telecommunications Institute in Riga, Latvia.
 
 ## Twitter 
-twitter.com/valeryvavilov
+https://twitter.com/valeryvavilov
 
 ## LinkedIn 
-linkedin.com/in/valeryvavilov
+https://www.linkedin.com/in/valeryvavilov
 
 ## Facebook 
-facebook.com/valery.vavilov.bitfury
+https://www.facebook.com/valery.vavilov.bitfury
 
 ## Tags
 Blockchain, San Francisco, Amsterdam, bitcoin, BitFury,
