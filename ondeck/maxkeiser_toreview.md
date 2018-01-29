@@ -20,13 +20,13 @@ Keiser’s first broadcasting role was on the Al Jazeera network, later presenti
 http://www.maxkeiser.com/
 
 ## Twitter
-twitter.com/maxkeiser
+https://twitter.com/maxkeiser
 
 ## LinkedIn
-linkedin.com/in/maxkeiser
+https://www.linkedin.com/in/maxkeiser
 
 ## Facebook
-facebook.com/maxkeiser
+https://www.facebook.com/maxkeiser
 
 ## Tags
 Blockchain, London, MaxCoin, Luke Mitchell, broadcaster, KarmaBanque, bitcoin, 
