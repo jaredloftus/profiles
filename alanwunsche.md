@@ -16,16 +16,16 @@ Previously, Wunsche held management roles with organisations such as Scotiabank,
 http://www.alanwunsche.com/
 
 ## Twitter
-twitter.com/alanwunsche
+https://twitter.com/alanwunsche
 
 ## Github
-github.com/alanwunsche
+https://github.com/alanwunsche
 
 ## LinkedIn
-linkedin.com/in/alanwunsche
+https://www.linkedin.com/in/alanwunsche
 
 ## Tags
-Blockchain, Toronto, 
+Blockchain, Toronto, TokenFunder, Leading Knowledge, Blockchain Canada,
 
 ## Sources
 - https://bitcoinmagazine.com/articles/tokenfunder-wins-approval-first-osc-regulated-ico-launch/
