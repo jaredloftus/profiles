@@ -14,19 +14,19 @@ Before working on bitcoin full time, Séchet spent four years as a Software Engi
 https://www.deadalnix.me/
 
 ## Twitter
-twitter.com/deadalnix
+https://twitter.com/deadalnix
 
 ## Github
-github.com/deadalnix
+https://github.com/deadalnix
 
 ## LinkedIn
-linkedin.com/in/deadalnix
+https://www.linkedin.com/in/deadalnix
 
 ## Facebook
-facebook.com/deadalnix
+https://www.facebook.com/deadalnix
 
 ## Reddit
-reddit.com/user/deadalnix
+https://www.reddit.com/user/deadalnix
 
 ## Tags
 Blockchain, San Francisco, bitcoin ABC, bitcoin cash, uahf, hard fork, bitcoin,
