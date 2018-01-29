@@ -18,10 +18,10 @@ Before attending graduate school at Columbia, he gained a Bachelor’s degree in
 https://danielbroberts.com/
 
 ## Twitter
-twitter.com/readDanwrite
+https://twitter.com/readDanwrite
 
 ## LinkedIn
-linkedin.com/in/danielbenjaminroberts
+https://www.linkedin.com/in/danielbenjaminroberts
 
 ## Tags
 Blockchain, New York, journalism, 
