@@ -10,14 +10,11 @@ Before joining Capgemini, Sullivan was the co-founder and President of BGE Consu
 
 He holds a Bachelor’s degree in Economics and Psychology from Tufts University in Massachusetts. 
 
-## Website
-(URL of their personal website or blog)
-
 ## Twitter
-twitter.com/wfsullivan3
+https://twitter.com/wfsullivan3
 
 ## LinkedIn
-linkedin.com/in/wfsullivan3
+https://www.linkedin.com/in/wfsullivan3
 
 ## Tags
 Blockchain, Virginia, consulting, fintech, Capgemini, 
