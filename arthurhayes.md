@@ -11,7 +11,7 @@ After leaving Citibank in 2013, Hayes began trading and investing in Bitcoin. He
 In 2014, Hayes co-founded BitMEX - Bitcoin Mercantile Exchange along with Samuel Reed and Ben Delo. Hayes serves as the CEO of BitMex, a Hong Kong-based cryptocurrency derivatives trading platform also known for live trading of bitcoin futures contracts.
 
 ## LinkedIn
-linkedin.com/in/arthur-hayes-b493b42
+https://www.linkedin.com/in/arthur-hayes-b493b42
 
 ## Tags
 Blockchain, Hong Kong, BitMEX, bitcoin, trading,
