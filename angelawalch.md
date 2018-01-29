@@ -16,7 +16,7 @@ She holds a Bachelor’s degree in English from Harvard University and a joint d
 https://twitter.com/angela_walch
 
 ## LinkedIn
-https://linkedin.com/in/angela-walch-a354b25
+https://www.linkedin.com/in/angela-walch-a354b25
 
 ## Tags
 Blockchain, London, law, governance,
