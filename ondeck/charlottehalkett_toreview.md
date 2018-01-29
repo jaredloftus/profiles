@@ -11,10 +11,10 @@ Previously, Halkett was a member of the founding team at insurethebox, where she
 Halkett originally trained as an Actuary, and has worked as a consultant in the insurance industry. She holds a Bachelor’s degree in Natural Sciences from the University of Cambridge.
 
 ## Twitter
-twitter.com/charliehalkett
+https://twitter.com/charliehalkett
 
 ## LinkedIn
-linkedin.com/in/charlottehalkett
+https://www.linkedin.com/in/charlottehalkett
 
 ## Tags
 Blockchain, London, buzzvault, insurtech,
