@@ -15,10 +15,10 @@ Hongfei has also played a significant role in establishing a constructive line o
 Prior to founding Onchain and NEO, Hongfei spent nine years as CEO of IntPass Consulting. He holds a Bachelor’s degree in Technology and English from South China University of Technology. 
 
 ## Twitter
-twitter.com/dahongfei
+https://twitter.com/dahongfei
 
 ## LinkedIn
-linkedin.com/in/dahongfei
+https://www.linkedin.com/in/dahongfei
 
 ## Tags
 Blockchain, Shanghai, China, NEO, Onchain, Antshares,  
