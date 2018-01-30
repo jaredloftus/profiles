@@ -1,10 +1,10 @@
 # John McAfee
  
 ## Summary
-John McAfee is a computer programmer, businessman, and the founder of the antivirus software company McAfee Associates. He is the CEO of cybersecurity and bitcoin mining firm MGT Capital Investments. 
+John McAfee is a computer programmer, businessman, and the founder of the antivirus software company McAfee Associates. He was the CEO of cybersecurity and bitcoin mining firm MGT Capital Investments. 
 
 ## Bio
-John McAfee has been the CEO of MGT Capital Investments since May 2016. Since McAfee’s appointment the firm has focused on cybersecurity investment. MGT began mining cryptocurrencies, including bitcoin and ethereum, in September 2016.
+Until January 2018, John McAfee was the CEO of MGT Capital Investments. Following McAfee’s appointment in 2016, the firm has focused on cybersecurity investment. It began mining cryptocurrencies, including bitcoin and ethereum, in September 2016.
 
 McAfee has made a number of predictions about the price of bitcoin, most recently anticipating that its value by the end of 2020 will be USD$1million. He is involved with and advises a number of altcoin startups, including KWH Coin which also works to lower the cost of renewable energy transactions.
 
@@ -31,6 +31,7 @@ Blockchain, Tennessee, bitcoin, McAfee, cybersecurity, MGT Capital Investments, 
 - https://cryptovest.com/news/john-mcafees-mgt-capital-orders-new-batch-of-s9-bitcoin-miners-for-us-mining-facility/
 - futuretensecentral.com/dcentral1
 - mgtci.com
+- http://mgtci.com/newsroom/news/mgt-capital-ends-relationship-with-john-mcafee-300588713.html
 - https://themerkle.com/john-mcafee-now-predicts-a-bitcoin-price-of-1m-by-late-2020/
 
 ## Author
