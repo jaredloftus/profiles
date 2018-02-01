@@ -25,7 +25,7 @@ https://github.com/ansellindner
 https://www.linkedin.com/in/ansellindner/
 
 ## Tags
-Blockchain, [cityname], 
+Blockchain, Oklahoma City, Bitcoin and Markets, Blockchain I/O, 
 
 ## Sources
 - http://bitcoinandmarkets.com/author/admin/
