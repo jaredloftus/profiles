@@ -1,36 +1,38 @@
 # Full name here
 
 ## Summary
-(Two sentence summary of person)
+Ben Davenport is an investor in the crypto space. He is also co-founder and CTO of BitGo.
 
 ## Bio
-(Main profile, approx 250 words)
+In 2014, Ben Davenport co-founded BitGo, which makes multi-signature cryptocurrency wallets for enterprises. Initially Chief Product Officer, he is now the company’s CTO. 
 
-## Website
-(URL of their personal website or blog)
+An early-stage investor, Davenport has invested in a number of crypto start-ups, including Ledger X, Lightning Labs and ZCash.
+
+Davenport co-founded group messaging service Beluga in 2010 and was the company’s CEO until it was acquired by Facebook in 2011. He subsequently spent three years at Facebook as a software engineer before leaving to join BitGo. 
+
+Previously, Davenport had worked in software engineering for companies including Microsoft and Google. He also spent two years as an Analyst at Hudson River Trading, a high frequency trading firm based in New York. 
 
 ## Twitter
-(URL)
+https://twitter.com/bendavenport
 
 ## Github
-(URL)
+https://github.com/bpdavenport
 
 ## LinkedIn
-(URL)
+https://www.linkedin.com/in/bpdavenport/
 
 ## Facebook
-(URL)
-
-## Reddit
-(URL)
+https://www.facebook.com/bendavenport
 
 ## Tags
-Blockchain, [cityname], 
+Blockchain, San Francisco, BitGo, Beluga, Facebook, investment,
 
 ## Sources
-- (URL1)
-- (URL2)
-- (ETC)
+- https://angel.co/bendavenport
+- https://www.coindesk.com/facebooks-ben-davenport-leaves-bitcoin-startup-bitgo/
+- http://www.hudson-trading.com/
+- https://www.linkedin.com/in/bpdavenport/
+- https://techcrunch.com/2011/03/01/facebook-beluga/
 
 ## Author
-(Your @github username goes here)
+@rplant123
