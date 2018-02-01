@@ -1,7 +1,7 @@
 # Christophe Langlois
 
 ## Summary
-Christophe Langlois is an advocate and advisor on the use of social media in financial services. He is the founder of Visible Banking. 
+Christophe Langlois is an advocate for and advisor on the use of social media in financial services. He is the founder of Visible Banking. 
 
 ## Bio
 Having started his career in banking, Christophe Langlois has become a specialist in fintech and the role of social media within financial services. 
