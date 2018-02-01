@@ -1,4 +1,4 @@
-# Full name here
+# Arianna Simpson
 
 ## Summary
 (Two sentence summary of person)
@@ -7,7 +7,7 @@
 (Main profile, approx 250 words)
 
 ## Website
-(URL of their personal website or blog)
+https://www.ariannasimpson.com/
 
 ## Twitter
 (URL)
@@ -25,12 +25,12 @@
 (URL)
 
 ## Tags
-Blockchain, [cityname], 
+Blockchain, San Francisco, 
 
 ## Sources
-- (URL1)
+- https://www.ariannasimpson.com/
 - (URL2)
 - (ETC)
 
 ## Author
-(Your @github username goes here)
+@rplant123
