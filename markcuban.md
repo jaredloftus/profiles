@@ -16,10 +16,10 @@ Cuban has been the owner is of the Dallas Mavericks since 2000. He is chairman a
 http://www.markcuban.com 
 
 ## Twitter
-twitter.com/mcuban
+http://twitter.com/mcuban
 
 ## LinkedIn
-linkedin.com/in/mark-cuban-06a0755b
+http://www.linkedin.com/in/mark-cuban-06a0755b
 
 ## Tags
 Blockchain, Dallas, mercury protocol, dust, broadcast, 
