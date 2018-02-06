@@ -1,4 +1,4 @@
-# Full name here
+# Chris Ellis
 
 ## Summary
 (Two sentence summary of person)
@@ -7,16 +7,16 @@
 (Main profile, approx 250 words)
 
 ## Website
-(URL of their personal website or blog)
+http://chrisellis.me/
 
 ## Twitter
-(URL)
+https://twitter.com/mrchrisellis
 
 ## Github
-(URL)
+https://github.com/MrChrisJ
 
 ## LinkedIn
-(URL)
+https://www.linkedin.com/in/mrchrisellis/
 
 ## Facebook
 (URL)
@@ -25,7 +25,7 @@
 (URL)
 
 ## Tags
-Blockchain, [cityname], 
+Blockchain, London, 
 
 ## Sources
 - (URL1)
