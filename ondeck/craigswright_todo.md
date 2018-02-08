@@ -28,7 +28,7 @@ https://twitter.com/ProfFaustus
 Blockchain, [cityname], 
 
 ## Sources
-- (URL1)
+- https://cointelegraph.com/news/whats-in-a-name-craig-wright-fail-reveals-he-is-not-satoshi-nakamoto
 - (URL2)
 - (ETC)
 
