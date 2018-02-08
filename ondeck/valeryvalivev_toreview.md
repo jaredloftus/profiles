@@ -33,4 +33,4 @@ Blockchain, San Francisco, Amsterdam, bitcoin, BitFury,
 - https://dash.keynote.ae/speaker/valery-vavilov/
 
 ## Author
-Tessa
+@TWassenaar
