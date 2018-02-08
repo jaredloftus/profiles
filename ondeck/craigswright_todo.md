@@ -1,4 +1,4 @@
-# Full name here
+# Craig S Wright
 
 ## Summary
 (Two sentence summary of person)
@@ -10,7 +10,7 @@
 (URL of their personal website or blog)
 
 ## Twitter
-(URL)
+https://twitter.com/ProfFaustus
 
 ## Github
 (URL)
