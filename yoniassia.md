@@ -41,4 +41,4 @@ Blockchain, Tel Aviv, New York City, eToro, Colored Coins, Colu, Bancor Protocol
 - http://comparic.com/believe-bitcoin-blockchain-interview-yoni-assia-ceo-etoro/
 
 ## Author
-Tessa
+@TWassenaar
