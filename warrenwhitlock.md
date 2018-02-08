@@ -32,4 +32,4 @@ Blockchain, Las Vegas, influencer, digital marketing, Ochen,
 - http://www.blogtalkradio.com/speakersresourcecenter/2015/09/03/forbes-top-10-internet-influencer-warren-whitlock-on-the-future-of-social-media
 
 ## Author
-Tessa
+@TWassenaar
