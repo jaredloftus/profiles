@@ -37,4 +37,4 @@ Blockchain, New Zealand, Bali, CoinDesk, Fomonomics, Exodus Wallet, He3Labs,
 - https://bravenewcoin.com/authors/willy-woo/
 
 ## Author
-Tessa
+@TWassenaar
