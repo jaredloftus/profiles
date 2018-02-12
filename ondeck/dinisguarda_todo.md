@@ -10,13 +10,13 @@
 (URL of their personal website or blog)
 
 ## Twitter
-(URL)
+https://twitter.com/dinisguarda
 
 ## Github
 (URL)
 
 ## LinkedIn
-(URL)
+https://www.linkedin.com/in/dinisguarda/
 
 ## Facebook
 (URL)
