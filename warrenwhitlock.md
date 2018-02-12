@@ -8,6 +8,8 @@ Warren Whitlock is a digital business development strategist working with compan
 
 Whitlock is the founder and CEO of Ochen, a next generation publishing company. Here, he shares his insights and ideas about a variety of topics, including blockchain. He is the author of several books about social media marketing, including ‘Twitter Revolution: How Social Media and Mobile Marketing is Changing the Way We Do Business & Market Online’.
 
+He is also a contributer to CoinHash.co, which publishes articles about ICOs and blockchain.
+
 Alongside Ochen, Whitlock is also Senior Advisor at Guerilla Marketing, and Senior Manager at Warren Whitlock and Associates. He hosts Social Media Radio, and is a regular speaker at conferences.
 
 ## Website 
@@ -30,6 +32,7 @@ Blockchain, Las Vegas, influencer, digital marketing, Ochen,
 - http://www.healthitmarketingconference.com/speaker-lineup/warren-whitlock 
 - http://www.blogtalkradio.com/warren - https://www.rise.global/top-fintech-people/p/31080/r/2553386 
 - http://www.blogtalkradio.com/speakersresourcecenter/2015/09/03/forbes-top-10-internet-influencer-warren-whitlock-on-the-future-of-social-media
+- https://www.coinhash.co/
 
 ## Author
 @TWassenaar
