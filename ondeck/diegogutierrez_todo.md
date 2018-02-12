@@ -1,4 +1,4 @@
-# Full name here
+# Diego Gutiérrez Zaldívar
 
 ## Summary
 (Two sentence summary of person)
@@ -10,13 +10,13 @@
 (URL of their personal website or blog)
 
 ## Twitter
-(URL)
+https://twitter.com/dieguito
 
 ## Github
 (URL)
 
 ## LinkedIn
-(URL)
+https://www.linkedin.com/in/diegogutierrezzaldivar/
 
 ## Facebook
 (URL)
