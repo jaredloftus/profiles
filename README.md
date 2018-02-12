@@ -29,26 +29,6 @@ Some additional style notes:
 
 ## Profile Candidates
 
-- Ansel Lindner
-- Arianna Simpson
-- Ben Davenport, BitGo
-- Andrew DeSantis, BTC Media
-- Anondran
-- Brad Garlinghouse, Ripple
-- Chris Ellis, Bitfinex
-- Craig S Wright, nChain
-- Derin Cag, Blockchain Age
-- Diego Gutierrez, RSK Labs
-- Dinis Guarda
-- Elaine Ou
-- Emily Spaven
-- Ethan Wilding
-- Evan Van Ness, Week in Ethereum newsletter
-- Francis Pouliot, Catallaxy
-- Fred Wilson, Union Square Ventures
-- Gary Nuttall
-- Gav Wood, Parity
-- Gilles Babinet
 - Hansjörg Leichsenring
 - Heiko Hees, Raiden&nbsp;
 - Iliana Oris Valiente, ColliderX
