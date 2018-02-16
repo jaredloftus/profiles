@@ -1,7 +1,7 @@
 # Dinis Guarda
 
 ## Summary
-(Two sentence summary of person)
+Dinis Guarda is a serial investor and business man. He is currently CEO of Zstudium and LifeSci.
 
 ## Bio
 Serial entrepreneur and technologist Dinis Guarda has a background in marketing and management. Following a number of short-term placements, from 2008-2011 he was responsible for online marketing at Saxo Bank, including search engine optimisation and social media. He created tradingfloor.com for the Saxo Group, an online community and platform for traders.
@@ -25,7 +25,7 @@ https://twitter.com/dinisguarda
 https://www.linkedin.com/in/dinisguarda/
 
 ## Tags
-Blockchain, London, Ztudium,  
+Blockchain, London, Ztudium, LifeSci, Humaniq 
 
 ## Sources
 - https://cointelegraph.com/news/ethereum-based-humaniq-to-deliver-banking-40-to-2-bln-unbanked
