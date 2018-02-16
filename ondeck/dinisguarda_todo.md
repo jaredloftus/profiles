@@ -29,8 +29,8 @@ Blockchain, [cityname],
 
 ## Sources
 - (URL1)
-- (URL2)
-- (ETC)
+- https://www.prnewswire.com/news-releases/leading-blockchain-personality-dinis-guarda-joins-covesting-a-revolutionary-p2p-asset-management-platform-659351603.html
+- https://www.ztudium.com/index.html
 
 ## Author
 (Your @github username goes here)
