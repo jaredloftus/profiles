@@ -8,8 +8,6 @@ Serial entrepreneur and technologist Dinis Guarda has a background in marketing 
 
 Guarda has founded and headed up a number of businesses. He is currently the founder and President of Ztudium, a consultancy for emerging technologies including blockchain, AI and digital transformation. Since October 2017, he is also the founder and CEO of LifeSci, an AI-powered, distributed ledger platform for secure healthcare data exchange and intelligent data curation.
 
-Guarda has founded and headed up a number of businesses. He is currently the founder and President of Ztudium, a consultancy for emerging technologies including blockchain, AI and digital transformation. Since October 2017, he is also the founder and CEO of LifeSci, an AI-powered, distributed ledger platform for secure healthcare data exchange and intelligent data curation.
-
 Previously, he spent six months as CEO of Humanique, an Ethereum-based banking app which uses blockchain and biometrics to give financial access to the unbanked population in developing countries. In 2015, he started Blockchain Age, a research and consultancy firm for blockchain technology, with Derin Cag.
 
 Guarda is a co-founder and advisor at Covesting, a peer-to-peer platform for cryptocurrency investors and traders. He also sits on the board at Glance Technologies, which operates the Glance Pay streamlined payment system. 
